@@ -540,8 +540,8 @@ function generate_maps(seed, map_height, map_width, path_density, ascension)
 end
 
 function main()
-    local map_height = 15
-    local map_width = 7
+    local map_height = 12
+    local map_width = 5
     local path_density = 4
 
     -- local seed = 34
@@ -566,9 +566,6 @@ function main()
             print(format_map(map, cursor))
 
             print(string.format("You're now at: %i,%i", cursor.y, cursor.x))
-            print(format_table(cursor.edges))
-
-
 
             print("Where do you wish to go? (l/m/r)")
             prompt = io.read("*l")
@@ -613,9 +610,14 @@ end
 
 function format_map(nodes, cursor)
     local s = ""
+    s = s .. "\n   __"
+
+    for i = 1, #nodes[1] do
+        s = s .. string.format("___", i)
+    end
 
     for row_num = #nodes, 1, -1 do
-        s = s .. string.format("\n      ") --format!("\n{: <6}", ' ')
+        s = s .. string.format("\n   |") --format!("\n{: <6}", ' ')
         for _, node in ipairs(nodes[row_num]) do
             local right, left, mid = " ", " ", " "
             for _, edge in ipairs(node.edges) do
@@ -629,10 +631,11 @@ function format_map(nodes, cursor)
             end
             s = s .. string.format("%s%s%s", left, mid, right)
         end
+        s = s .. "|"
         if row_num < 10 then
-            s = s .. string.format("\n %i    ", row_num) --format!("\n{: <6}", row_num)
+            s = s .. string.format("\n %i |", row_num) --format!("\n{: <6}", row_num)
         else
-            s = s .. string.format("\n%i    ", row_num)  --format!("\n{: <6}", row_num)
+            s = s .. string.format("\n%i |", row_num)  --format!("\n{: <6}", row_num)
         end
 
         for _, node in ipairs(nodes[row_num]) do
@@ -655,6 +658,19 @@ function format_map(nodes, cursor)
                 s = s .. string.format(" %s ", node_symbol)
             end
         end
+        s = s .. "|"
+    end
+
+    s = s .. "\n   --"
+
+    for i = 1, #nodes[1] do
+        s = s .. string.format("---", i)
+    end
+
+    s = s .. "\n    "
+
+    for i = 1, #nodes[1] do
+        s = s .. string.format(" %i ", i)
     end
 
     return s
