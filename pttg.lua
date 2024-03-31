@@ -88,6 +88,7 @@ local RoomType = enum {
     "RestRoom",
     "ShopRoom",
     "TreasureRoom",
+    "BossRoom"
 }
 
 function get_room_symbol(t)
@@ -105,6 +106,8 @@ function get_room_symbol(t)
         return "L"
     elseif t == RoomType.TreasureRoom then
         return "T"
+    elseif t == RoomType.BossRoom then
+        return "X"
     end
     return "-"
 end
@@ -345,10 +348,32 @@ function create_nodes(height, width)
     return nodes_y
 end
 
+function add_boss(map)
+    local boss_node = MapRoomNode:new(math.ceil(#map[1] / 2), #map + 1)
+    boss_node.class = RoomType.BossRoom
+    for _, node in pairs(map[#map]) do
+        if #node.parents > 0 then
+            table.insert(boss_node.parents, node)
+            table.insert(node.edges, MapEdge:new(node.x, node.y, boss_node.x, boss_node.y))
+        end
+    end
+
+    local boss_row = {}
+    for x = 1, #map[1] do
+        table.insert(boss_row, MapRoomNode:new(x, #map + 1))
+    end
+    boss_row[boss_node.x] = boss_node
+
+    map[#map + 1] = boss_row
+
+    return map
+end
+
 function generate_dungeon(height, width, path_density)
     map = create_nodes(height, width)
     map = create_paths(map, path_density);
     filter_redundant_edges(map)
+
     return map
 end
 
@@ -533,6 +558,10 @@ function generate_maps(seed, map_height, map_width, path_density, ascension)
         local room_list = generate_room_type(room_chances, count)
         distribute_rooms_across_map(map, room_list)
 
+        map = add_boss(map)
+        print(#map)
+        print(format_map(map, nil))
+
         table.insert(maps, map)
     end
 
@@ -541,7 +570,7 @@ end
 
 function main()
     local map_height = 12
-    local map_width = 5
+    local map_width = 7
     local path_density = 4
 
     -- local seed = 34
