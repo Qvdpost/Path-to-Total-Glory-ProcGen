@@ -10,6 +10,19 @@ dilemmas = {
             FIRST = {title = "Accept their gifts in grace.", label = "Order" },
             SECOND = {title = "Demand more, you have earned it.", label = "Chaos" }
         }
+    },
+    {
+        name = 'pttg_RestRoom',
+        choices = {'FIRST', 'SECOND', 'THIRD'}, -- Can choose out of FIRST, SECOND, THRID and FOURTH
+        dil_locs = {
+            description = "You find yourself with some care-free time in between conquests. How will you choose to spend it?",
+            title = "Respite"
+        },
+        choice_locs = { -- Define for each of the choices
+            FIRST = {title = "Tend to the wounded, repair your equipment.", label = "Recuperate" },
+            SECOND = {title = "Personally train one of your troops improving their battle prowess.", label = "Improve Mercenary" },
+            THIRD = {title = "Focus on your own skills, either through reflection or besieging your Gods, you will grow stronger.", label = "Meditate" },
+        }
     }
 }
 

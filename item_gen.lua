@@ -284,9 +284,9 @@ end
 -- ["pttg_ritual_wh2_dlc10_dwf_anc_armour_gate_keepers_helm"] = { ["uniqueness"] = 75,["category"] = "armour",["faction_set"] = "anc_set_exclusive_dwarfs",}
 
 io.write("\n# Add the item to the pttg in your script: \n")
-io.write("local pttg_merchant = core:get_static_object('pttg_glory_shop');\n\n")
+io.write("local pttg_item_pool = core:get_static_object('pttg_item_pool');\n\n")
 
 for _, item in pairs(items) do
     io.write("-- replace weight and any nils with values of your choosing.\n")
-    io.write(string.format('pttg_merchant:add_item("%s", { ["uniqueness"] = %s,["category"] = "%s",["faction_set"] = "%s", ["item"] = "%s"})\n', item.crafting_ritual.key, item.uniqueness, item.category, item.faction_set, item.key))
+    io.write(string.format('pttg_item_pool:add_item("%s", { ["uniqueness"] = %s, ["category"] = "%s", ["faction_set"] = "%s", ["ritual"] = "%s"})\n', item.key, item.uniqueness, item.category, item.faction_set, item.crafting_ritual.key))
 end

@@ -1367,15 +1367,15 @@ payload_mercs = {
     ["pttg_wh_main_vmp_veh_black_coach"] = true,
 }
 
-for merc, _ in pairs(merc_unit_group) do
-    if not payload_mercs[merc] then
-        print(merc)
-    end
-end
+-- for merc, _ in pairs(merc_unit_group) do
+--     if not payload_mercs[merc] then
+--         print(merc)
+--     end
+-- end
 
-print('other way around')
-for merc, _ in pairs(payload_mercs) do
-    if not merc_unit_group[merc] then
-        print(merc)
-    end
-end
+-- print('other way around')
+-- for merc, _ in pairs(payload_mercs) do
+--     if not merc_unit_group[merc] then
+--         print(merc)
+--     end
+-- end

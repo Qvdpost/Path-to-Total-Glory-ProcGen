@@ -5450,13 +5450,23 @@ end
 --     end
 -- end
 
+function get_culture(unit_key) 
+    print(unit_key)
+    for k, culture_key in pairs(culture_keys) do
+        if string.find(unit_key, culture_key) then
+            return cultures[k]
+        end
+    end
+    return ""
+end
+
 file = io.open("merc_units.txt", "w")
 io.output(file)
 for _, unit in pairs(wh3_units) do
     if merc_units[unit[1]] then
         print(unit[1])
-        io.write(string.format('["%s"] = { category = "%s", weight = false, cost = 1, tier = false},\n', 
-            unit[1], land_units[main_unit_to_land_unit[unit[1]]].category)
+        io.write(string.format('{"%s", "%s", %s,{ category = "%s", tier = false, culture = "%s"}},\n', 
+            unit[1], unit[2], unit[3], land_units[main_unit_to_land_unit[unit[1]]].category, get_culture(unit[1]))
         )
     end
 end
