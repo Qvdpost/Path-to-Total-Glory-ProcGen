@@ -935,6 +935,7 @@ modded_unit_to_category ={
     ["cst_ghoul"] = "inf_melee",
     ["rangers_grenades"] = "inf_ranged",
 }
+
 modded_unit_to_military_groups = {}
 for _, unit_to_group in pairs(modded_units_to_military_group) do
     print("Adding: "..tostring(unit_to_group[1])..':'..tostring(unit_to_group[2]))

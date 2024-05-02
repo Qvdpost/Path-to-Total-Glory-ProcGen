@@ -976,12 +976,6 @@ local mercenaries = {
 	{"wh3_main_pro_ksl_veh_light_war_sled_ror_0", "rare", 3, {tier=4, cost = 3} },
 }
 
-local mercenary_pool = {}
-
-for _, mercenary_unit in pairs(mercenaries) do
-    mercenary_pool[mercenary_unit[1]] = {group=mercenary_unit[2], weight=mercenary_unit[3], info=mercenary_unit[4]}
-end
-
 unit_to_military_groupings = {}
 
 for _, unit_to_group in pairs(units_to_military_grouping) do

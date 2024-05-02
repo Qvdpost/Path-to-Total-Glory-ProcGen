@@ -13,14 +13,15 @@ dilemmas = {
     },
     {
         name = 'pttg_RandomStart',
-        choices = {'FIRST', 'SECOND'}, -- Can choose out of FIRST, SECOND, THRID and FOURTH
+        choices = {'FIRST', 'SECOND', 'THIRD'}, -- Can choose out of FIRST, SECOND, THRID and FOURTH
         dil_locs = {
             description = "You can either play with your selected Faction Leader and their entourage, or have a selection of recruitable mercenaries to choose from and start with a clean slate.",
             title = "Mode"
         },
         choice_locs = { -- Define for each of the choices
-            FIRST = {title = "Continue as is.", label = "Normal" },
-            SECOND = {title = "Relinquish starting army and recruit a new selection.", label = "Random" }
+            FIRST = {title = "Continue as is.", label = "Regular" },
+            SECOND = {title = "Relinquish starting army and recruit a new selection and start with a new Lord.", label = "Random" },
+            THIRD = {title = "Relinquish starting army and recruit a new selection.", label = "Random Army Only" }
         }
     },
     
@@ -76,10 +77,33 @@ for _, dilemma in pairs(dilemmas) do
     else\
 \
     end\n")
-    io.write("end\n\n") 
+    io.write("end\n\n")
+    io.write(string.format("function %s_eligibility_callback(context)\n", dilemma.name))
+    io.write("\t-- body of the callback; when is this event eligible for the player? e.g. acts, alignment, faction_set='all'\
+    \
+    if context.act() ~= 1 then -- only triggers in act 1\
+        return false\
+    end\
+\
+    -- Only triggers if the player has a chaotic alignment (greater than 20), but not too chaotic (less than 100)\
+    if context.alignment() < 20 or context.alignment > 100 then\
+        return false\
+    end\
+\
+    local faction_set='all' -- Allows to restrict the event to specific factions\
+    if not context.faction():is_contained_in_faction_set(faction_set) then\
+        return false\
+    end\
+\
+    -- add in any restrictions you would like!\
+    return true\
+    end\n")
+    io.write("end\n\n")
 end
 
+
+
+io.write("-- Adjust weight to make an event more or less likely to trigger.\n")
 for _, dilemma in pairs(dilemmas) do
-    io.write("-- replace weight and any nils with values of your choosing.\n")
-    io.write(string.format('pttg_events:add_event("%s", { weight = 10, acts = {upper=nil, lower=nil}, alignment = {upper=nil, lower=nil}, faction_set="all", callback=%s_callback })\n', dilemma.name, dilemma.name))
+    io.write(string.format('pttg_events:add_event("%s", { weight = 10, , callback=%s_callback, eligibility_callback=%s_eligibility_callback })\n', dilemma.name, dilemma.name, dilemma.name))
 end
