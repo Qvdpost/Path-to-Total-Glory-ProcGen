@@ -12,21 +12,21 @@ dilemmas = {
         }
     },
     {
-        name = 'pttg_RestRoom',
-        choices = {'FIRST', 'SECOND', 'THIRD'}, -- Can choose out of FIRST, SECOND, THRID and FOURTH
+        name = 'pttg_RandomStart',
+        choices = {'FIRST', 'SECOND'}, -- Can choose out of FIRST, SECOND, THRID and FOURTH
         dil_locs = {
-            description = "You find yourself with some care-free time in between conquests. How will you choose to spend it?",
-            title = "Respite"
+            description = "You can either play with your selected Faction Leader and their entourage, or have a selection of recruitable mercenaries to choose from and start with a clean slate.",
+            title = "Mode"
         },
         choice_locs = { -- Define for each of the choices
-            FIRST = {title = "Tend to the wounded, repair your equipment.", label = "Recuperate" },
-            SECOND = {title = "Personally train one of your troops improving their battle prowess.", label = "Improve Mercenary" },
-            THIRD = {title = "Focus on your own skills, either through reflection or besieging your Gods, you will grow stronger.", label = "Meditate" },
+            FIRST = {title = "Continue as is.", label = "Normal" },
+            SECOND = {title = "Relinquish starting army and recruit a new selection.", label = "Random" }
         }
-    }
+    },
+    
 }
 
-file = io.open("dilemmas.txt", "w")
+file = io.open("output/dilemmas.txt", "w")
 io.output(file)
 io.write("# dilemmas_tables\n")
 for _, dilemma in pairs(dilemmas) do
@@ -64,7 +64,18 @@ io.write("\n# Add the event to the pttg in your script: \n")
 io.write("local pttg_events = core:get_static_object('pttg_event_pool')\n\n")
 for _, dilemma in pairs(dilemmas) do
     io.write(string.format("function %s_callback(context)\n", dilemma.name))
-    io.write("\tbody of the callback; what should happen for each choice?\n")
+    io.write("\t-- body of the callback; what should happen for each choice?\
+    local choice = context:choice_key()\
+\
+    if choice == 'FIRST' then\
+\
+    elseif choice == 'SECOND' then\
+\
+    elseif choice == 'THIRD' then\
+\
+    else\
+\
+    end\n")
     io.write("end\n\n") 
 end
 

@@ -184,7 +184,6 @@ for _, item in pairs(items) do
     end
 end
 
---effect=nil, bonus_value_id=nil, unit_ability=nil, icon=nil, priority=nil, icon_negative=nil, category='battle', pos_val_good=true
 io.write("\n# effects_tables\n")
 for _, item in pairs(items) do
     for _, effect in pairs(item.custom_effects) do
@@ -216,11 +215,6 @@ for _, item in pairs(items) do
         io.write(string.format("%s	-0	RITUAL	RITUAL	ARMY_UPKEEP	BACKGROUND_INCOME\n", item.crafting_ritual.key))
     end
 end
-
--- io.write("\n# resource_costs_tables\n")
--- for _, item in pairs(items) do
---     io.write(string.format("%s\n", item.key))
--- end
 
 io.write("\n# ritual_payload_ancillaries_tables\n")
 for _, item in pairs(items) do

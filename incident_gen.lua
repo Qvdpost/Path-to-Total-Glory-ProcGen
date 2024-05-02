@@ -111,5 +111,5 @@ end
 
 for _, incident in pairs(incidents) do
     io.write("-- replace weight and any nils with values of your choosing.\n")
-    io.write(string.format('pttg_events:add_event("%s", { weight = 10, acts = { [1] = true, [2] = true, [3] = true}, alignment = {upper=nil, lower=nil}, faction_set="all", callback=%s_callback })\n', dilemma.name, dilemma.name))
+    io.write(string.format('pttg_events:add_event("%s", { weight = 10, acts = { [1] = true, [2] = true, [3] = true}, alignment = {upper=nil, lower=nil}, faction_set="all", callback=%s_callback })\n', incident.name, incident.name))
 end
