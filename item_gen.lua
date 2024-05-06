@@ -275,8 +275,6 @@ for _, item in pairs(items) do
 end
 
 
--- ["pttg_ritual_wh2_dlc10_dwf_anc_armour_gate_keepers_helm"] = { ["uniqueness"] = 75,["category"] = "armour",["faction_set"] = "anc_set_exclusive_dwarfs",}
-
 io.write("\n# Add the item to the pttg in your script: \n")
 io.write("local pttg_item_pool = core:get_static_object('pttg_item_pool');\n\n")
 
