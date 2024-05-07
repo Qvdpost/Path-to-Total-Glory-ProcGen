@@ -11,6 +11,7 @@ local army_templates = {
         agents = nil,          -- optional agent characters to be included in the army. Values can be either "random", "<agent_subtype>", or {"<agent_type", "<agent_type>"}. "Random" wil generate a random agent of any agent_type, the table of agent types will generate a random agent of that selection of agent_types and if a specific agent_subtype is provided that agent will be added to the army.
         mandatory_units = nil, -- an optional array of tables in the form of { {key="<main_unit_key>"}, ... }
         units = nil,           -- an optinoal array of units that make up the available pool for random army generation in the form of { {key="<main_unit_key>", weight=<number>}, ... }
+        distribution = ""      -- an optional key to a troop distribution to be used when generating random armies.
     },
     {
         template_key = "pttg_boss_kholek_suneater",
@@ -24,6 +25,24 @@ local army_templates = {
         agents = { "random", "random" },
         mandatory_units = { { key = "wh_dlc01_chs_mon_dragon_ogre" }, { key = "wh_dlc01_chs_mon_dragon_ogre" } },
         units = nil,
+    }
+}
+
+local distributions = {
+    {
+        key = "default", -- Example of default distribution is a mapping of <unit_category> to a percentage chance (out of 100)
+        distribution = { -- NOTE: These weights should sum to 100
+            melee_infantry     = 35,
+            missile_infantry   = 15,
+            monstrous_infantry = 10,
+            melee_cavalry      = 7,
+            missile_cavalry    = 5,
+            war_beast          = 5,
+            chariot            = 5,
+            monstrous_cavalry  = 5,
+            warmachine         = 7,
+            monster            = 6,
+        }
     }
 }
 
