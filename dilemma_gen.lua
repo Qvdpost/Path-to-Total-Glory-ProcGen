@@ -1,30 +1,15 @@
 dilemmas = {
     {
         name = 'pttg_EventGlory',
-        choices = {'FIRST', 'SECOND'}, -- Can choose out of FIRST, SECOND, THRID and FOURTH
         dil_locs = {
             description = "Stories about your successes have spread far and wide. And as a result some offer tribute so that you may remember them when you have reached glory.",
             title = "Glory"
         },
-        choice_locs = { -- Define for each of the choices
+        choice_locs = { -- Define for each of the choices e.g FIRST, SECOND... EIGTH
             FIRST = {title = "Accept their gifts in grace.", label = "Order" },
             SECOND = {title = "Demand more, you have earned it.", label = "Chaos" }
         }
     },
-    {
-        name = 'pttg_RandomStart',
-        choices = {'FIRST', 'SECOND', 'THIRD'}, -- Can choose out of FIRST, SECOND, THRID and FOURTH
-        dil_locs = {
-            description = "You can either play with your selected Faction Leader and their entourage, or have a selection of recruitable mercenaries to choose from and start with a clean slate.",
-            title = "Mode"
-        },
-        choice_locs = { -- Define for each of the choices
-            FIRST = {title = "Continue as is.", label = "Regular" },
-            SECOND = {title = "Relinquish starting army and recruit a new selection and start with a new Lord.", label = "Random" },
-            THIRD = {title = "Relinquish starting army and recruit a new selection.", label = "Random Army Only" }
-        }
-    },
-    
 }
 
 file = io.open("output/dilemmas.txt", "w")
@@ -42,7 +27,7 @@ end
 
 io.write("\n# cdir_events_dilemma_choice_details_tables\n")
 for _, dilemma in pairs(dilemmas) do
-    for _, choice in pairs(dilemma.choices) do
+    for choice, _ in pairs(dilemma.choice_locs) do
         io.write(string.format("%s\t%s\n", choice, dilemma.name))
     end
 end
@@ -55,9 +40,9 @@ end
 
 io.write("\n# cdir_events_dilemma_choice_details.loc\n")
 for _, dilemma in pairs(dilemmas) do
-    for _, choice in pairs(dilemma.choices) do
-        io.write(string.format("cdir_events_dilemma_choice_details_localised_choice_label_%s%s\t%s\n", dilemma.name, choice, dilemma.choice_locs[choice].label))
-        io.write(string.format("cdir_events_dilemma_choice_details_localised_choice_title_%s%s\t%s\n", dilemma.name, choice, dilemma.choice_locs[choice].title))
+    for choice, loc in pairs(dilemma.choice_locs) do
+        io.write(string.format("cdir_events_dilemma_choice_details_localised_choice_label_%s%s\t%s\n", dilemma.name, choice, loc.label))
+        io.write(string.format("cdir_events_dilemma_choice_details_localised_choice_title_%s%s\t%s\n", dilemma.name, choice, loc.title))
     end
 end
 
@@ -66,20 +51,13 @@ io.write("local pttg_events = core:get_static_object('pttg_event_pool')\n\n")
 for _, dilemma in pairs(dilemmas) do
     io.write(string.format("function %s_callback(context)\n", dilemma.name))
     io.write("\t-- body of the callback; what should happen for each choice?\
-    local choice = context:choice_key()\
-\
-    if choice == 'FIRST' then\
-\
-    elseif choice == 'SECOND' then\
-\
-    elseif choice == 'THIRD' then\
-\
-    else\
-\
-    end\n")
+    local choice = context:choice_key()\n\n")
+    for key, val in pairs(dilemma.choice_locs) do
+        io.write(string.format("\tif choice == '%s' then -- %s\n\n\tend\n", key, val.label))
+    end
     io.write("end\n\n")
     io.write(string.format("function %s_eligibility_callback(context)\n", dilemma.name))
-    io.write("\t-- body of the callback; when is this event eligible for the player? e.g. acts, alignment, faction_set='all'\
+    io.write("\t-- TODO: implement body of the callback; when is this event eligible for the player? e.g. acts, alignment, faction_set\
     \
     if context.act() ~= 1 then -- only triggers in act 1\
         return false\

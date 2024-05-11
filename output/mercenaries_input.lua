@@ -11,6 +11,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_cth_inf_jade_warrior_crossbowmen_0",
 				glory_cost = 20,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_cth_inf_jade_warrior_crossbowmen_1",
@@ -24,6 +25,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_cth_inf_jade_warrior_crossbowmen_1",
 				glory_cost = 20,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_cth_inf_jade_warriors_0",
@@ -37,6 +39,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_cth_inf_jade_warriors_0",
 				glory_cost = 20,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_cth_inf_jade_warriors_1",
@@ -50,6 +53,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_cth_inf_jade_warriors_1",
 				glory_cost = 20,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_cth_inf_peasant_archers_0",
@@ -63,6 +67,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_cth_inf_peasant_archers_0",
 				glory_cost = 10,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_cth_inf_peasant_spearmen_1",
@@ -76,6 +81,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_cth_inf_peasant_spearmen_1",
 				glory_cost = 10,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_cth_cav_peasant_horsemen_0",
@@ -89,6 +95,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_cth_cav_peasant_horsemen_0",
 				glory_cost = 10,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_cth_inf_iron_hail_gunners_0",
@@ -102,6 +109,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_cth_inf_iron_hail_gunners_0",
 				glory_cost = 30,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_cth_cav_jade_lancers_0",
@@ -115,6 +123,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_cth_cav_jade_lancers_0",
 				glory_cost = 65,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_cth_art_grand_cannon_0",
@@ -128,6 +137,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_cth_art_grand_cannon_0",
 				glory_cost = 80,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_cth_inf_crane_gunners_0",
@@ -141,6 +151,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_cth_inf_crane_gunners_0",
 				glory_cost = 80,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_cth_veh_sky_junk_0",
@@ -154,6 +165,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_cth_veh_sky_junk_0",
 				glory_cost = 95,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_cth_veh_sky_lantern_0",
@@ -167,6 +179,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_cth_veh_sky_lantern_0",
 				glory_cost = 65,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_cth_inf_dragon_guard_0",
@@ -180,6 +193,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_cth_inf_dragon_guard_0",
 				glory_cost = 120,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_cth_inf_dragon_guard_crossbowmen_0",
@@ -193,6 +207,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_cth_inf_dragon_guard_crossbowmen_0",
 				glory_cost = 120,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_cth_cav_jade_longma_riders_0",
@@ -206,6 +221,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_cth_cav_jade_longma_riders_0",
 				glory_cost = 140,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_cth_art_fire_rain_rocket_battery_0",
@@ -219,6 +235,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_cth_art_fire_rain_rocket_battery_0",
 				glory_cost = 140,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_cth_mon_terracotta_sentinel_0",
@@ -232,6 +249,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_cth_mon_terracotta_sentinel_0",
 				glory_cost = 160,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_cth_veh_war_compass_0",
@@ -245,6 +263,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_cth_veh_war_compass_0",
 				glory_cost = 120,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_kho_inf_bloodletters_0",
@@ -258,6 +277,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_kho_inf_bloodletters_0",
 				glory_cost = 20,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_kho_inf_chaos_warhounds_0",
@@ -271,6 +291,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_kho_inf_chaos_warhounds_0",
 				glory_cost = 30,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_kho_inf_chaos_warriors_0",
@@ -284,6 +305,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_kho_inf_chaos_warriors_0",
 				glory_cost = 10,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_kho_inf_chaos_warriors_1",
@@ -297,6 +319,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_kho_inf_chaos_warriors_1",
 				glory_cost = 20,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_kho_inf_chaos_warriors_2",
@@ -310,6 +333,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_kho_inf_chaos_warriors_2",
 				glory_cost = 20,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_kho_inf_bloodletters_1",
@@ -323,6 +347,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_kho_inf_bloodletters_1",
 				glory_cost = 80,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_kho_cav_bloodcrushers_0",
@@ -336,6 +361,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_kho_cav_bloodcrushers_0",
 				glory_cost = 80,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_kho_cav_gorebeast_chariot",
@@ -349,6 +375,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_kho_cav_gorebeast_chariot",
 				glory_cost = 65,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_kho_mon_khornataurs_0",
@@ -362,6 +389,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_kho_mon_khornataurs_0",
 				glory_cost = 95,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_kho_mon_khornataurs_1",
@@ -375,6 +403,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_kho_mon_khornataurs_1",
 				glory_cost = 95,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_kho_inf_flesh_hounds_of_khorne_0",
@@ -388,6 +417,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_kho_inf_flesh_hounds_of_khorne_0",
 				glory_cost = 65,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_kho_inf_chaos_furies_0",
@@ -401,6 +431,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_kho_inf_chaos_furies_0",
 				glory_cost = 65,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_kho_cav_skullcrushers_0",
@@ -414,6 +445,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_kho_cav_skullcrushers_0",
 				glory_cost = 140,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_kho_mon_bloodthirster_0",
@@ -427,6 +459,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_kho_mon_bloodthirster_0",
 				glory_cost = 160,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_kho_mon_soul_grinder_0",
@@ -440,6 +473,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_kho_mon_soul_grinder_0",
 				glory_cost = 140,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_kho_mon_spawn_of_khorne_0",
@@ -453,6 +487,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_kho_mon_spawn_of_khorne_0",
 				glory_cost = 120,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_kho_veh_blood_shrine_0",
@@ -466,6 +501,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_kho_veh_blood_shrine_0",
 				glory_cost = 120,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_kho_veh_skullcannon_0",
@@ -479,6 +515,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_kho_veh_skullcannon_0",
 				glory_cost = 140,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_ksl_cav_winged_lancers_0",
@@ -492,6 +529,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_ksl_cav_winged_lancers_0",
 				glory_cost = 30,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_ksl_inf_armoured_kossars_0",
@@ -505,6 +543,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_ksl_inf_armoured_kossars_0",
 				glory_cost = 20,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_ksl_inf_armoured_kossars_1",
@@ -518,6 +557,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_ksl_inf_armoured_kossars_1",
 				glory_cost = 20,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_ksl_cav_horse_archers_0",
@@ -531,6 +571,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_ksl_cav_horse_archers_0",
 				glory_cost = 30,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_ksl_cav_horse_raiders_0",
@@ -544,6 +585,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_ksl_cav_horse_raiders_0",
 				glory_cost = 30,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_ksl_inf_kossars_0",
@@ -557,6 +599,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_ksl_inf_kossars_0",
 				glory_cost = 10,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_ksl_inf_kossars_1",
@@ -570,6 +613,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_ksl_inf_kossars_1",
 				glory_cost = 10,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_ksl_inf_streltsi_0",
@@ -583,6 +627,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_ksl_inf_streltsi_0",
 				glory_cost = 30,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_ksl_cav_war_bear_riders_1",
@@ -596,6 +641,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_ksl_cav_war_bear_riders_1",
 				glory_cost = 95,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_ksl_cav_gryphon_legion_0",
@@ -609,6 +655,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_ksl_cav_gryphon_legion_0",
 				glory_cost = 80,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_ksl_inf_tzar_guard_0",
@@ -622,6 +669,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_ksl_inf_tzar_guard_0",
 				glory_cost = 80,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_ksl_inf_tzar_guard_1",
@@ -635,6 +683,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_ksl_inf_tzar_guard_1",
 				glory_cost = 80,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_ksl_veh_heavy_war_sled_0",
@@ -648,6 +697,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_ksl_veh_heavy_war_sled_0",
 				glory_cost = 95,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_ksl_veh_light_war_sled_0",
@@ -661,6 +711,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_ksl_veh_light_war_sled_0",
 				glory_cost = 80,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_ksl_mon_elemental_bear_0",
@@ -674,6 +725,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_ksl_mon_elemental_bear_0",
 				glory_cost = 160,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_ksl_mon_snow_leopard_0",
@@ -687,6 +739,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_ksl_mon_snow_leopard_0",
 				glory_cost = 120,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_ksl_veh_little_grom_0",
@@ -700,6 +753,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_ksl_veh_little_grom_0",
 				glory_cost = 140,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_ksl_inf_ice_guard_0",
@@ -713,6 +767,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_ksl_inf_ice_guard_0",
 				glory_cost = 120,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_ksl_inf_ice_guard_1",
@@ -726,6 +781,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_ksl_inf_ice_guard_1",
 				glory_cost = 120,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_nur_inf_forsaken_0",
@@ -739,6 +795,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_nur_inf_forsaken_0",
 				glory_cost = 30,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_nur_inf_nurglings_0",
@@ -752,6 +809,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_nur_inf_nurglings_0",
 				glory_cost = 10,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_nur_inf_plaguebearers_0",
@@ -765,6 +823,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_nur_inf_plaguebearers_0",
 				glory_cost = 20,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_nur_mon_plague_toads_0",
@@ -778,6 +837,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_nur_mon_plague_toads_0",
 				glory_cost = 30,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_nur_cav_pox_riders_of_nurgle_0",
@@ -791,6 +851,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_nur_cav_pox_riders_of_nurgle_0",
 				glory_cost = 80,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_nur_inf_chaos_furies_0",
@@ -804,6 +865,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_nur_inf_chaos_furies_0",
 				glory_cost = 65,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_nur_mon_beast_of_nurgle_0",
@@ -817,6 +879,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_nur_mon_beast_of_nurgle_0",
 				glory_cost = 65,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_nur_inf_plaguebearers_1",
@@ -830,6 +893,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_nur_inf_plaguebearers_1",
 				glory_cost = 80,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_nur_mon_rot_flies_0",
@@ -843,6 +907,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_nur_mon_rot_flies_0",
 				glory_cost = 65,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_nur_cav_plague_drones_0",
@@ -856,6 +921,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_nur_cav_plague_drones_0",
 				glory_cost = 120,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_nur_cav_plague_drones_1",
@@ -869,6 +935,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_nur_cav_plague_drones_1",
 				glory_cost = 120,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_nur_mon_great_unclean_one_0",
@@ -882,6 +949,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_nur_mon_great_unclean_one_0",
 				glory_cost = 160,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_nur_mon_soul_grinder_0",
@@ -895,6 +963,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_nur_mon_soul_grinder_0",
 				glory_cost = 140,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_nur_mon_spawn_of_nurgle_0",
@@ -908,6 +977,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_nur_mon_spawn_of_nurgle_0",
 				glory_cost = 120,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_ogr_inf_gnoblars_0",
@@ -921,6 +991,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_ogr_inf_gnoblars_0",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH3_OGRE_KINGDOMS"},
 		},
 	{
 			key = "wh3_main_ogr_inf_gnoblars_1",
@@ -934,6 +1005,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_ogr_inf_gnoblars_1",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH3_OGRE_KINGDOMS"},
 		},
 	{
 			key = "wh3_main_ogr_inf_ogres_0",
@@ -947,6 +1019,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_ogr_inf_ogres_0",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH3_OGRE_KINGDOMS"},
 		},
 	{
 			key = "wh3_main_ogr_inf_ogres_1",
@@ -960,6 +1033,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_ogr_inf_ogres_1",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH3_OGRE_KINGDOMS"},
 		},
 	{
 			key = "wh3_main_ogr_inf_ogres_2",
@@ -973,6 +1047,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_ogr_inf_ogres_2",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH3_OGRE_KINGDOMS"},
 		},
 	{
 			key = "wh3_main_ogr_cav_mournfang_cavalry_0",
@@ -986,6 +1061,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_ogr_cav_mournfang_cavalry_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH3_OGRE_KINGDOMS"},
 		},
 	{
 			key = "wh3_main_ogr_cav_mournfang_cavalry_1",
@@ -999,6 +1075,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_ogr_cav_mournfang_cavalry_1",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH3_OGRE_KINGDOMS"},
 		},
 	{
 			key = "wh3_main_ogr_cav_mournfang_cavalry_2",
@@ -1012,6 +1089,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_ogr_cav_mournfang_cavalry_2",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH3_OGRE_KINGDOMS"},
 		},
 	{
 			key = "wh3_main_ogr_inf_ironguts_0",
@@ -1025,6 +1103,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_ogr_inf_ironguts_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH3_OGRE_KINGDOMS"},
 		},
 	{
 			key = "wh3_main_ogr_inf_leadbelchers_0",
@@ -1038,6 +1117,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_ogr_inf_leadbelchers_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH3_OGRE_KINGDOMS"},
 		},
 	{
 			key = "wh3_main_ogr_inf_maneaters_0",
@@ -1051,6 +1131,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_ogr_inf_maneaters_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH3_OGRE_KINGDOMS"},
 		},
 	{
 			key = "wh3_main_ogr_inf_maneaters_1",
@@ -1064,6 +1145,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_ogr_inf_maneaters_1",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH3_OGRE_KINGDOMS"},
 		},
 	{
 			key = "wh3_main_ogr_inf_maneaters_2",
@@ -1077,6 +1159,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_ogr_inf_maneaters_2",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH3_OGRE_KINGDOMS"},
 		},
 	{
 			key = "wh3_main_ogr_inf_maneaters_3",
@@ -1090,6 +1173,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_ogr_inf_maneaters_3",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH3_OGRE_KINGDOMS"},
 		},
 	{
 			key = "wh3_main_ogr_mon_gorgers_0",
@@ -1103,6 +1187,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_ogr_mon_gorgers_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH3_OGRE_KINGDOMS"},
 		},
 	{
 			key = "wh3_main_ogr_mon_sabretusk_pack_0",
@@ -1116,6 +1201,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_ogr_mon_sabretusk_pack_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH3_OGRE_KINGDOMS"},
 		},
 	{
 			key = "wh3_main_ogr_mon_giant_0",
@@ -1129,6 +1215,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_ogr_mon_giant_0",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH3_OGRE_KINGDOMS"},
 		},
 	{
 			key = "wh3_main_ogr_mon_stonehorn_0",
@@ -1142,6 +1229,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_ogr_mon_stonehorn_0",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH3_OGRE_KINGDOMS"},
 		},
 	{
 			key = "wh3_main_ogr_mon_stonehorn_1",
@@ -1155,6 +1243,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_ogr_mon_stonehorn_1",
 				glory_cost = 160,
 			},
+			require_dlc = {"TW_WH3_OGRE_KINGDOMS"},
 		},
 	{
 			key = "wh3_main_ogr_veh_gnoblar_scraplauncher_0",
@@ -1168,6 +1257,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_ogr_veh_gnoblar_scraplauncher_0",
 				glory_cost = 120,
 			},
+			require_dlc = {"TW_WH3_OGRE_KINGDOMS"},
 		},
 	{
 			key = "wh3_main_ogr_veh_ironblaster_0",
@@ -1181,6 +1271,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_ogr_veh_ironblaster_0",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH3_OGRE_KINGDOMS"},
 		},
 	{
 			key = "wh3_main_ogr_cav_crushers_0",
@@ -1194,6 +1285,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_ogr_cav_crushers_0",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH3_OGRE_KINGDOMS"},
 		},
 	{
 			key = "wh3_main_ogr_cav_crushers_1",
@@ -1207,6 +1299,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_ogr_cav_crushers_1",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH3_OGRE_KINGDOMS"},
 		},
 	{
 			key = "wh3_main_sla_inf_marauders_0",
@@ -1220,6 +1313,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_sla_inf_marauders_0",
 				glory_cost = 10,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_sla_inf_marauders_1",
@@ -1233,6 +1327,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_sla_inf_marauders_1",
 				glory_cost = 10,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_sla_inf_marauders_2",
@@ -1246,6 +1341,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_sla_inf_marauders_2",
 				glory_cost = 10,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_sla_inf_daemonette_0",
@@ -1259,6 +1355,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_sla_inf_daemonette_0",
 				glory_cost = 30,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_sla_cav_hellstriders_0",
@@ -1272,6 +1369,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_sla_cav_hellstriders_0",
 				glory_cost = 10,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_sla_cav_hellstriders_1",
@@ -1285,6 +1383,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_sla_cav_hellstriders_1",
 				glory_cost = 10,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_sla_cav_seekers_of_slaanesh_0",
@@ -1298,6 +1397,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_sla_cav_seekers_of_slaanesh_0",
 				glory_cost = 80,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_sla_inf_chaos_furies_0",
@@ -1311,6 +1411,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_sla_inf_chaos_furies_0",
 				glory_cost = 65,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_sla_inf_daemonette_1",
@@ -1324,6 +1425,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_sla_inf_daemonette_1",
 				glory_cost = 80,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_sla_mon_fiends_of_slaanesh_0",
@@ -1337,6 +1439,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_sla_mon_fiends_of_slaanesh_0",
 				glory_cost = 80,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_sla_veh_seeker_chariot_0",
@@ -1350,6 +1453,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_sla_veh_seeker_chariot_0",
 				glory_cost = 65,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_sla_mon_keeper_of_secrets_0",
@@ -1363,6 +1467,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_sla_mon_keeper_of_secrets_0",
 				glory_cost = 160,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_sla_cav_heartseekers_of_slaanesh_0",
@@ -1376,6 +1481,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_sla_cav_heartseekers_of_slaanesh_0",
 				glory_cost = 140,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_sla_mon_soul_grinder_0",
@@ -1389,6 +1495,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_sla_mon_soul_grinder_0",
 				glory_cost = 140,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_sla_mon_spawn_of_slaanesh_0",
@@ -1402,6 +1509,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_sla_mon_spawn_of_slaanesh_0",
 				glory_cost = 120,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_sla_veh_exalted_seeker_chariot_0",
@@ -1415,6 +1523,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_sla_veh_exalted_seeker_chariot_0",
 				glory_cost = 140,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_sla_veh_hellflayer_0",
@@ -1428,6 +1537,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_sla_veh_hellflayer_0",
 				glory_cost = 140,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_tze_inf_forsaken_0",
@@ -1441,6 +1551,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_tze_inf_forsaken_0",
 				glory_cost = 30,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_tze_inf_pink_horrors_0",
@@ -1454,6 +1565,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_tze_inf_pink_horrors_0",
 				glory_cost = 20,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_tze_inf_blue_horrors_0",
@@ -1467,6 +1579,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_tze_inf_blue_horrors_0",
 				glory_cost = 10,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_tze_inf_pink_horrors_1",
@@ -1480,6 +1593,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_tze_inf_pink_horrors_1",
 				glory_cost = 80,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_tze_cav_chaos_knights_0",
@@ -1493,6 +1607,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_tze_cav_chaos_knights_0",
 				glory_cost = 80,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_tze_mon_screamers_0",
@@ -1506,6 +1621,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_tze_mon_screamers_0",
 				glory_cost = 65,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_tze_mon_flamers_0",
@@ -1519,6 +1635,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_tze_mon_flamers_0",
 				glory_cost = 80,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_tze_inf_chaos_furies_0",
@@ -1532,6 +1649,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_tze_inf_chaos_furies_0",
 				glory_cost = 65,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_tze_cav_doom_knights_0",
@@ -1545,6 +1663,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_tze_cav_doom_knights_0",
 				glory_cost = 140,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_tze_mon_exalted_flamers_0",
@@ -1558,6 +1677,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_tze_mon_exalted_flamers_0",
 				glory_cost = 140,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_tze_mon_lord_of_change_0",
@@ -1571,6 +1691,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_tze_mon_lord_of_change_0",
 				glory_cost = 160,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_tze_mon_soul_grinder_0",
@@ -1584,6 +1705,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_tze_mon_soul_grinder_0",
 				glory_cost = 140,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_tze_mon_spawn_of_tzeentch_0",
@@ -1597,6 +1719,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_tze_mon_spawn_of_tzeentch_0",
 				glory_cost = 120,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_tze_veh_burning_chariot_0",
@@ -1610,6 +1733,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_tze_veh_burning_chariot_0",
 				glory_cost = 140,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_main_dae_inf_chaos_furies_0",
@@ -1623,6 +1747,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_dae_inf_chaos_furies_0",
 				glory_cost = 65,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_dlc20_chs_cav_chaos_chariot_mkho",
@@ -1636,6 +1761,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc20_chs_cav_chaos_chariot_mkho",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
 		},
 	{
 			key = "wh3_dlc20_chs_cav_chaos_chariot_mnur",
@@ -1649,6 +1775,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc20_chs_cav_chaos_chariot_mnur",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
 		},
 	{
 			key = "wh3_dlc20_chs_cav_chaos_chariot_msla",
@@ -1662,6 +1789,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc20_chs_cav_chaos_chariot_msla",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
 		},
 	{
 			key = "wh3_dlc20_chs_cav_chaos_chariot_mtze",
@@ -1675,6 +1803,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc20_chs_cav_chaos_chariot_mtze",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
 		},
 	{
 			key = "wh3_dlc20_chs_inf_chaos_marauders_mkho",
@@ -1688,6 +1817,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc20_chs_inf_chaos_marauders_mkho",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
 		},
 	{
 			key = "wh3_dlc20_chs_inf_chaos_marauders_mkho_dualweapons",
@@ -1701,6 +1831,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc20_chs_inf_chaos_marauders_mkho_dualweapons",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
 		},
 	{
 			key = "wh3_dlc20_chs_inf_chaos_marauders_mnur",
@@ -1714,6 +1845,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc20_chs_inf_chaos_marauders_mnur",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
 		},
 	{
 			key = "wh3_dlc20_chs_inf_chaos_marauders_mnur_greatweapons",
@@ -1727,6 +1859,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc20_chs_inf_chaos_marauders_mnur_greatweapons",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
 		},
 	{
 			key = "wh3_dlc20_chs_inf_chaos_marauders_msla",
@@ -1740,6 +1873,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc20_chs_inf_chaos_marauders_msla",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
 		},
 	{
 			key = "wh3_dlc20_chs_inf_chaos_marauders_msla_hellscourges",
@@ -1753,6 +1887,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc20_chs_inf_chaos_marauders_msla_hellscourges",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
 		},
 	{
 			key = "wh3_dlc20_chs_inf_chaos_marauders_mtze",
@@ -1766,6 +1901,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc20_chs_inf_chaos_marauders_mtze",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
 		},
 	{
 			key = "wh3_dlc20_chs_inf_chaos_marauders_mtze_spears",
@@ -1779,6 +1915,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc20_chs_inf_chaos_marauders_mtze_spears",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
 		},
 	{
 			key = "wh3_dlc20_chs_inf_chaos_warriors_mnur",
@@ -1792,6 +1929,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc20_chs_inf_chaos_warriors_mnur",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
 		},
 	{
 			key = "wh3_dlc20_chs_inf_chaos_warriors_mnur_greatweapons",
@@ -1805,6 +1943,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc20_chs_inf_chaos_warriors_mnur_greatweapons",
 				glory_cost = 30,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_dlc20_chs_inf_chaos_warriors_msla",
@@ -1818,6 +1957,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc20_chs_inf_chaos_warriors_msla",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
 		},
 	{
 			key = "wh3_dlc20_chs_inf_chaos_warriors_msla_hellscourges",
@@ -1831,6 +1971,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc20_chs_inf_chaos_warriors_msla_hellscourges",
 				glory_cost = 30,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_dlc20_chs_inf_chaos_warriors_mtze",
@@ -1844,6 +1985,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc20_chs_inf_chaos_warriors_mtze",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
 		},
 	{
 			key = "wh3_dlc20_chs_inf_chaos_warriors_mtze_halberds",
@@ -1857,6 +1999,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc20_chs_inf_chaos_warriors_mtze_halberds",
 				glory_cost = 30,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh3_dlc20_chs_cav_marauder_horsemen_mkho_throwing_axes",
@@ -1870,6 +2013,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc20_chs_cav_marauder_horsemen_mkho_throwing_axes",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
 		},
 	{
 			key = "wh3_dlc20_chs_cav_marauder_horsemen_mnur_throwing_axes",
@@ -1883,6 +2027,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc20_chs_cav_marauder_horsemen_mnur_throwing_axes",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
 		},
 	{
 			key = "wh3_dlc20_chs_cav_marauder_horsemen_msla_javelins",
@@ -1896,6 +2041,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc20_chs_cav_marauder_horsemen_msla_javelins",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
 		},
 	{
 			key = "wh3_dlc20_chs_cav_marauder_horsemen_mtze_javelins",
@@ -1909,6 +2055,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc20_chs_cav_marauder_horsemen_mtze_javelins",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
 		},
 	{
 			key = "wh3_dlc20_chs_inf_forsaken_mkho",
@@ -1922,6 +2069,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc20_chs_inf_forsaken_mkho",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
 		},
 	{
 			key = "wh3_dlc20_chs_inf_forsaken_msla",
@@ -1935,6 +2083,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc20_chs_inf_forsaken_msla",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
 		},
 	{
 			key = "wh3_dlc20_chs_cav_chaos_knights_mkho",
@@ -1948,6 +2097,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc20_chs_cav_chaos_knights_mkho",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
 		},
 	{
 			key = "wh3_dlc20_chs_cav_chaos_knights_mkho_lances",
@@ -1961,6 +2111,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc20_chs_cav_chaos_knights_mkho_lances",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
 		},
 	{
 			key = "wh3_dlc20_chs_cav_chaos_knights_mnur",
@@ -1974,6 +2125,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc20_chs_cav_chaos_knights_mnur",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
 		},
 	{
 			key = "wh3_dlc20_chs_cav_chaos_knights_mnur_lances",
@@ -1987,6 +2139,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc20_chs_cav_chaos_knights_mnur_lances",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
 		},
 	{
 			key = "wh3_dlc20_chs_cav_chaos_knights_msla",
@@ -2000,6 +2153,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc20_chs_cav_chaos_knights_msla",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
 		},
 	{
 			key = "wh3_dlc20_chs_cav_chaos_knights_msla_lances",
@@ -2013,6 +2167,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc20_chs_cav_chaos_knights_msla_lances",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
 		},
 	{
 			key = "wh3_dlc20_chs_cav_chaos_knights_mtze_lances",
@@ -2026,6 +2181,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc20_chs_cav_chaos_knights_mtze_lances",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
 		},
 	{
 			key = "wh3_dlc20_chs_inf_chosen_mkho",
@@ -2039,6 +2195,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc20_chs_inf_chosen_mkho",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
 		},
 	{
 			key = "wh3_dlc20_chs_inf_chosen_mkho_dualweapons",
@@ -2052,6 +2209,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc20_chs_inf_chosen_mkho_dualweapons",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
 		},
 	{
 			key = "wh3_dlc20_chs_inf_chosen_mnur",
@@ -2065,6 +2223,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc20_chs_inf_chosen_mnur",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
 		},
 	{
 			key = "wh3_dlc20_chs_inf_chosen_mnur_greatweapons",
@@ -2078,6 +2237,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc20_chs_inf_chosen_mnur_greatweapons",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
 		},
 	{
 			key = "wh3_dlc20_chs_inf_chosen_msla",
@@ -2091,6 +2251,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc20_chs_inf_chosen_msla",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
 		},
 	{
 			key = "wh3_dlc20_chs_inf_chosen_msla_hellscourges",
@@ -2104,6 +2265,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc20_chs_inf_chosen_msla_hellscourges",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
 		},
 	{
 			key = "wh3_dlc20_chs_inf_chosen_mtze",
@@ -2117,6 +2279,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc20_chs_inf_chosen_mtze",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
 		},
 	{
 			key = "wh3_dlc20_chs_inf_chosen_mtze_halberds",
@@ -2130,6 +2293,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc20_chs_inf_chosen_mtze_halberds",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
 		},
 	{
 			key = "wh3_dlc20_chs_mon_warshrine",
@@ -2143,6 +2307,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc20_chs_mon_warshrine",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
 		},
 	{
 			key = "wh3_dlc20_chs_mon_warshrine_mkho",
@@ -2156,6 +2321,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc20_chs_mon_warshrine_mkho",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
 		},
 	{
 			key = "wh3_dlc20_chs_mon_warshrine_mnur",
@@ -2169,6 +2335,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc20_chs_mon_warshrine_mnur",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
 		},
 	{
 			key = "wh3_dlc20_chs_mon_warshrine_msla",
@@ -2182,6 +2349,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc20_chs_mon_warshrine_msla",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
 		},
 	{
 			key = "wh3_dlc20_chs_mon_warshrine_mtze",
@@ -2195,6 +2363,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc20_chs_mon_warshrine_mtze",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
 		},
 	{
 			key = "wh3_main_nur_mon_spawn_of_nurgle_0_warriors",
@@ -2208,6 +2377,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_nur_mon_spawn_of_nurgle_0_warriors",
 				glory_cost = 120,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh_main_emp_cav_empire_knights",
@@ -2221,6 +2391,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_emp_cav_empire_knights",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH2_DLC13_HUNTER","TW_WH3_THRONES_OF_DECAY_EMP","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_emp_inf_halberdiers",
@@ -2234,6 +2405,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_emp_inf_halberdiers",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH2_DLC13_HUNTER","TW_WH3_THRONES_OF_DECAY_EMP","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_emp_inf_handgunners",
@@ -2247,6 +2419,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_emp_inf_handgunners",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH2_DLC13_HUNTER","TW_WH3_THRONES_OF_DECAY_EMP","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_emp_inf_spearmen_0",
@@ -2260,6 +2433,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_emp_inf_spearmen_0",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH2_DLC13_HUNTER","TW_WH3_THRONES_OF_DECAY_EMP","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_emp_inf_spearmen_1",
@@ -2273,6 +2447,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_emp_inf_spearmen_1",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH2_DLC13_HUNTER","TW_WH3_THRONES_OF_DECAY_EMP","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_emp_inf_swordsmen",
@@ -2286,6 +2461,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_emp_inf_swordsmen",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH2_DLC13_HUNTER","TW_WH3_THRONES_OF_DECAY_EMP","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_emp_inf_crossbowmen",
@@ -2299,6 +2475,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_emp_inf_crossbowmen",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH2_DLC13_HUNTER","TW_WH3_THRONES_OF_DECAY_EMP","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_dlc04_emp_inf_free_company_militia_0",
@@ -2312,6 +2489,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc04_emp_inf_free_company_militia_0",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1"},
 		},
 	{
 			key = "wh2_dlc13_emp_inf_archers_0",
@@ -2325,6 +2503,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc13_emp_inf_archers_0",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH2_DLC13_HUNTER"},
 		},
 	{
 			key = "wh_main_emp_cav_demigryph_knights_0",
@@ -2338,6 +2517,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_emp_cav_demigryph_knights_0",
 				glory_cost = 95,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH2_DLC13_HUNTER","TW_WH3_THRONES_OF_DECAY_EMP","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_emp_cav_demigryph_knights_1",
@@ -2351,6 +2531,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_emp_cav_demigryph_knights_1",
 				glory_cost = 95,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH2_DLC13_HUNTER","TW_WH3_THRONES_OF_DECAY_EMP","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_emp_cav_outriders_0",
@@ -2364,6 +2545,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_emp_cav_outriders_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH2_DLC13_HUNTER","TW_WH3_THRONES_OF_DECAY_EMP","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_emp_cav_outriders_1",
@@ -2377,6 +2559,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_emp_cav_outriders_1",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH2_DLC13_HUNTER","TW_WH3_THRONES_OF_DECAY_EMP","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_emp_cav_pistoliers_1",
@@ -2390,6 +2573,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_emp_cav_pistoliers_1",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH2_DLC13_HUNTER","TW_WH3_THRONES_OF_DECAY_EMP","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_emp_cav_reiksguard",
@@ -2403,6 +2587,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_emp_cav_reiksguard",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH2_DLC13_HUNTER","TW_WH3_THRONES_OF_DECAY_EMP","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_emp_art_great_cannon",
@@ -2416,6 +2601,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_emp_art_great_cannon",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH2_DLC13_HUNTER","TW_WH3_THRONES_OF_DECAY_EMP","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_emp_art_mortar",
@@ -2429,6 +2615,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_emp_art_mortar",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH2_DLC13_HUNTER","TW_WH3_THRONES_OF_DECAY_EMP","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_emp_inf_greatswords",
@@ -2442,6 +2629,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_emp_inf_greatswords",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH2_DLC13_HUNTER","TW_WH3_THRONES_OF_DECAY_EMP","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_dlc04_emp_cav_knights_blazing_sun_0",
@@ -2455,6 +2643,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc04_emp_cav_knights_blazing_sun_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1"},
 		},
 	{
 			key = "wh_dlc04_emp_inf_flagellants_0",
@@ -2468,6 +2657,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc04_emp_inf_flagellants_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1"},
 		},
 	{
 			key = "wh2_dlc13_emp_inf_huntsmen_0",
@@ -2481,6 +2671,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc13_emp_inf_huntsmen_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_DLC13_HUNTER"},
 		},
 	{
 			key = "wh_main_emp_art_helblaster_volley_gun",
@@ -2494,6 +2685,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_emp_art_helblaster_volley_gun",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH2_DLC13_HUNTER","TW_WH3_THRONES_OF_DECAY_EMP","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_emp_art_helstorm_rocket_battery",
@@ -2507,6 +2699,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_emp_art_helstorm_rocket_battery",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH2_DLC13_HUNTER","TW_WH3_THRONES_OF_DECAY_EMP","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_emp_veh_luminark_of_hysh_0",
@@ -2520,6 +2713,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_emp_veh_luminark_of_hysh_0",
 				glory_cost = 160,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH2_DLC13_HUNTER","TW_WH3_THRONES_OF_DECAY_EMP","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_emp_veh_steam_tank",
@@ -2533,6 +2727,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_emp_veh_steam_tank",
 				glory_cost = 160,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH2_DLC13_HUNTER","TW_WH3_THRONES_OF_DECAY_EMP","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh2_dlc13_emp_veh_war_wagon_0",
@@ -2546,6 +2741,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc13_emp_veh_war_wagon_0",
 				glory_cost = 120,
 			},
+			require_dlc = {"TW_WH2_DLC13_HUNTER"},
 		},
 	{
 			key = "wh2_dlc13_emp_veh_war_wagon_1",
@@ -2559,6 +2755,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc13_emp_veh_war_wagon_1",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH2_DLC13_HUNTER"},
 		},
 	{
 			key = "wh_main_dwf_inf_dwarf_warrior_0",
@@ -2572,6 +2769,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_dwf_inf_dwarf_warrior_0",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH3_THRONES_OF_DECAY_DWF","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_dwf_inf_dwarf_warrior_1",
@@ -2585,6 +2783,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_dwf_inf_dwarf_warrior_1",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH3_THRONES_OF_DECAY_DWF","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_dwf_inf_longbeards",
@@ -2598,6 +2797,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_dwf_inf_longbeards",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH3_THRONES_OF_DECAY_DWF","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_dwf_inf_longbeards_1",
@@ -2611,6 +2811,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_dwf_inf_longbeards_1",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH3_THRONES_OF_DECAY_DWF","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_dwf_inf_miners_0",
@@ -2624,6 +2825,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_dwf_inf_miners_0",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH3_THRONES_OF_DECAY_DWF","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_dwf_inf_miners_1",
@@ -2637,6 +2839,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_dwf_inf_miners_1",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH3_THRONES_OF_DECAY_DWF","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_dwf_inf_quarrellers_0",
@@ -2650,6 +2853,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_dwf_inf_quarrellers_0",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH3_THRONES_OF_DECAY_DWF","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_dwf_inf_quarrellers_1",
@@ -2663,6 +2867,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_dwf_inf_quarrellers_1",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH3_THRONES_OF_DECAY_DWF","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_dwf_inf_thunderers_0",
@@ -2676,6 +2881,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_dwf_inf_thunderers_0",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH3_THRONES_OF_DECAY_DWF","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_dwf_art_cannon",
@@ -2689,6 +2895,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_dwf_art_cannon",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH3_THRONES_OF_DECAY_DWF","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_dwf_art_grudge_thrower",
@@ -2702,6 +2909,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_dwf_art_grudge_thrower",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH3_THRONES_OF_DECAY_DWF","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_dwf_inf_hammerers",
@@ -2715,6 +2923,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_dwf_inf_hammerers",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH3_THRONES_OF_DECAY_DWF","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_dwf_inf_ironbreakers",
@@ -2728,6 +2937,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_dwf_inf_ironbreakers",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH3_THRONES_OF_DECAY_DWF","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_dwf_veh_gyrobomber",
@@ -2741,6 +2951,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_dwf_veh_gyrobomber",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH3_THRONES_OF_DECAY_DWF","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_dwf_veh_gyrocopter_0",
@@ -2754,6 +2965,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_dwf_veh_gyrocopter_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH3_THRONES_OF_DECAY_DWF","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_dwf_veh_gyrocopter_1",
@@ -2767,6 +2979,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_dwf_veh_gyrocopter_1",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH3_THRONES_OF_DECAY_DWF","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_dwf_inf_slayers",
@@ -2780,6 +2993,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_dwf_inf_slayers",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH3_THRONES_OF_DECAY_DWF","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_dlc06_dwf_art_bolt_thrower_0",
@@ -2793,6 +3007,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc06_dwf_art_bolt_thrower_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2"},
 		},
 	{
 			key = "wh_dlc06_dwf_inf_bugmans_rangers_0",
@@ -2806,6 +3021,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc06_dwf_inf_bugmans_rangers_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2"},
 		},
 	{
 			key = "wh_dlc06_dwf_inf_rangers_0",
@@ -2819,6 +3035,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc06_dwf_inf_rangers_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2"},
 		},
 	{
 			key = "wh_dlc06_dwf_inf_rangers_1",
@@ -2832,6 +3049,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc06_dwf_inf_rangers_1",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2"},
 		},
 	{
 			key = "wh2_dlc10_dwf_inf_giant_slayers",
@@ -2845,6 +3063,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc10_dwf_inf_giant_slayers",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH3_THRONES_OF_DECAY_DWF","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_dwf_art_flame_cannon",
@@ -2858,6 +3077,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_dwf_art_flame_cannon",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH3_THRONES_OF_DECAY_DWF","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_dwf_art_organ_gun",
@@ -2871,6 +3091,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_dwf_art_organ_gun",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH3_THRONES_OF_DECAY_DWF","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_dwf_inf_irondrakes_0",
@@ -2884,6 +3105,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_dwf_inf_irondrakes_0",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH3_THRONES_OF_DECAY_DWF","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_dwf_inf_irondrakes_2",
@@ -2897,6 +3119,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_dwf_inf_irondrakes_2",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH3_THRONES_OF_DECAY_DWF","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_vmp_inf_crypt_ghouls",
@@ -2910,6 +3133,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_vmp_inf_crypt_ghouls",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_vmp_inf_skeleton_warriors_0",
@@ -2923,6 +3147,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_vmp_inf_skeleton_warriors_0",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_vmp_inf_skeleton_warriors_1",
@@ -2936,6 +3161,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_vmp_inf_skeleton_warriors_1",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_vmp_inf_zombie",
@@ -2949,6 +3175,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_vmp_inf_zombie",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_vmp_mon_fell_bats",
@@ -2962,6 +3189,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_vmp_mon_fell_bats",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_vmp_mon_dire_wolves",
@@ -2975,6 +3203,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_vmp_mon_dire_wolves",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_vmp_cav_hexwraiths",
@@ -2988,6 +3217,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_vmp_cav_hexwraiths",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_vmp_inf_grave_guard_0",
@@ -3001,6 +3231,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_vmp_inf_grave_guard_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_vmp_inf_grave_guard_1",
@@ -3014,6 +3245,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_vmp_inf_grave_guard_1",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_vmp_mon_crypt_horrors",
@@ -3027,6 +3259,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_vmp_mon_crypt_horrors",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_vmp_cav_black_knights_0",
@@ -3040,6 +3273,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_vmp_cav_black_knights_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_vmp_cav_black_knights_3",
@@ -3053,6 +3287,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_vmp_cav_black_knights_3",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_vmp_mon_vargheists",
@@ -3066,6 +3301,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_vmp_mon_vargheists",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_dlc04_vmp_veh_corpse_cart_0",
@@ -3079,6 +3315,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc04_vmp_veh_corpse_cart_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1"},
 		},
 	{
 			key = "wh_dlc04_vmp_veh_corpse_cart_1",
@@ -3092,6 +3329,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc04_vmp_veh_corpse_cart_1",
 				glory_cost = 95,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1"},
 		},
 	{
 			key = "wh_dlc04_vmp_veh_corpse_cart_2",
@@ -3105,6 +3343,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc04_vmp_veh_corpse_cart_2",
 				glory_cost = 95,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1"},
 		},
 	{
 			key = "wh_main_vmp_inf_cairn_wraiths",
@@ -3118,6 +3357,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_vmp_inf_cairn_wraiths",
 				glory_cost = 120,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_vmp_mon_terrorgheist",
@@ -3131,6 +3371,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_vmp_mon_terrorgheist",
 				glory_cost = 160,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_vmp_mon_varghulf",
@@ -3144,6 +3385,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_vmp_mon_varghulf",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_vmp_veh_black_coach",
@@ -3157,6 +3399,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_vmp_veh_black_coach",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_dlc02_vmp_cav_blood_knights_0",
@@ -3170,6 +3413,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc02_vmp_cav_blood_knights_0",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_dlc04_vmp_veh_mortis_engine_0",
@@ -3183,6 +3427,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc04_vmp_veh_mortis_engine_0",
 				glory_cost = 160,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1"},
 		},
 	{
 			key = "wh2_dlc11_vmp_inf_crossbowmen",
@@ -3196,6 +3441,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc11_vmp_inf_crossbowmen",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh2_dlc11_vmp_inf_handgunners",
@@ -3209,6 +3455,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc11_vmp_inf_handgunners",
 				glory_cost = 120,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_brt_cav_knights_of_the_realm",
@@ -3222,6 +3469,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_brt_cav_knights_of_the_realm",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH2_DLC14_REPANSE_FREE","TW_WH1_BRETONNIA_FREE"},
 		},
 	{
 			key = "wh_main_brt_cav_mounted_yeomen_0",
@@ -3235,6 +3483,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_brt_cav_mounted_yeomen_0",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH2_DLC14_REPANSE_FREE","TW_WH1_BRETONNIA_FREE"},
 		},
 	{
 			key = "wh_main_brt_cav_mounted_yeomen_1",
@@ -3248,6 +3497,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_brt_cav_mounted_yeomen_1",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH2_DLC14_REPANSE_FREE","TW_WH1_BRETONNIA_FREE"},
 		},
 	{
 			key = "wh_main_brt_inf_men_at_arms",
@@ -3261,6 +3511,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_brt_inf_men_at_arms",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH2_DLC14_REPANSE_FREE","TW_WH1_BRETONNIA_FREE"},
 		},
 	{
 			key = "wh_main_brt_inf_peasant_bowmen",
@@ -3274,6 +3525,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_brt_inf_peasant_bowmen",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH2_DLC14_REPANSE_FREE","TW_WH1_BRETONNIA_FREE"},
 		},
 	{
 			key = "wh_main_brt_inf_spearmen_at_arms",
@@ -3287,6 +3539,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_brt_inf_spearmen_at_arms",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH2_DLC14_REPANSE_FREE","TW_WH1_BRETONNIA_FREE"},
 		},
 	{
 			key = "wh_dlc07_brt_cav_knights_errant_0",
@@ -3300,6 +3553,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc07_brt_cav_knights_errant_0",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH2_DLC14_REPANSE_FREE","TW_WH1_BRETONNIA_FREE"},
 		},
 	{
 			key = "wh_dlc07_brt_inf_men_at_arms_1",
@@ -3313,6 +3567,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc07_brt_inf_men_at_arms_1",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH2_DLC14_REPANSE_FREE","TW_WH1_BRETONNIA_FREE"},
 		},
 	{
 			key = "wh_dlc07_brt_inf_men_at_arms_2",
@@ -3326,6 +3581,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc07_brt_inf_men_at_arms_2",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH2_DLC14_REPANSE_FREE","TW_WH1_BRETONNIA_FREE"},
 		},
 	{
 			key = "wh_dlc07_brt_inf_peasant_bowmen_1",
@@ -3339,6 +3595,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc07_brt_inf_peasant_bowmen_1",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH2_DLC14_REPANSE_FREE","TW_WH1_BRETONNIA_FREE"},
 		},
 	{
 			key = "wh_dlc07_brt_inf_peasant_bowmen_2",
@@ -3352,6 +3609,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc07_brt_inf_peasant_bowmen_2",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH2_DLC14_REPANSE_FREE","TW_WH1_BRETONNIA_FREE"},
 		},
 	{
 			key = "wh_dlc07_brt_inf_spearmen_at_arms_1",
@@ -3365,6 +3623,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc07_brt_inf_spearmen_at_arms_1",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH2_DLC14_REPANSE_FREE","TW_WH1_BRETONNIA_FREE"},
 		},
 	{
 			key = "wh_dlc07_brt_peasant_mob_0",
@@ -3378,6 +3637,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc07_brt_peasant_mob_0",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH2_DLC14_REPANSE_FREE","TW_WH1_BRETONNIA_FREE"},
 		},
 	{
 			key = "wh_main_brt_cav_pegasus_knights",
@@ -3391,6 +3651,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_brt_cav_pegasus_knights",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC14_REPANSE_FREE","TW_WH1_BRETONNIA_FREE"},
 		},
 	{
 			key = "wh_dlc07_brt_cav_questing_knights_0",
@@ -3404,6 +3665,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc07_brt_cav_questing_knights_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC14_REPANSE_FREE","TW_WH1_BRETONNIA_FREE"},
 		},
 	{
 			key = "wh_dlc07_brt_inf_battle_pilgrims_0",
@@ -3417,6 +3679,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc07_brt_inf_battle_pilgrims_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_DLC14_REPANSE_FREE","TW_WH1_BRETONNIA_FREE"},
 		},
 	{
 			key = "wh_dlc07_brt_inf_foot_squires_0",
@@ -3430,6 +3693,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc07_brt_inf_foot_squires_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_DLC14_REPANSE_FREE","TW_WH1_BRETONNIA_FREE"},
 		},
 	{
 			key = "wh_dlc07_brt_inf_grail_reliquae_0",
@@ -3443,6 +3707,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc07_brt_inf_grail_reliquae_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC14_REPANSE_FREE","TW_WH1_BRETONNIA_FREE"},
 		},
 	{
 			key = "wh_main_brt_art_field_trebuchet",
@@ -3456,6 +3721,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_brt_art_field_trebuchet",
 				glory_cost = 120,
 			},
+			require_dlc = {"TW_WH2_DLC14_REPANSE_FREE","TW_WH1_BRETONNIA_FREE"},
 		},
 	{
 			key = "wh_main_brt_cav_grail_knights",
@@ -3469,6 +3735,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_brt_cav_grail_knights",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH2_DLC14_REPANSE_FREE","TW_WH1_BRETONNIA_FREE"},
 		},
 	{
 			key = "wh_dlc07_brt_cav_grail_guardians_0",
@@ -3482,6 +3749,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc07_brt_cav_grail_guardians_0",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH2_DLC14_REPANSE_FREE","TW_WH1_BRETONNIA_FREE"},
 		},
 	{
 			key = "wh_dlc07_brt_cav_royal_hippogryph_knights_0",
@@ -3495,6 +3763,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc07_brt_cav_royal_hippogryph_knights_0",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH2_DLC14_REPANSE_FREE","TW_WH1_BRETONNIA_FREE"},
 		},
 	{
 			key = "wh_dlc07_brt_cav_royal_pegasus_knights_0",
@@ -3508,6 +3777,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc07_brt_cav_royal_pegasus_knights_0",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH2_DLC14_REPANSE_FREE","TW_WH1_BRETONNIA_FREE"},
 		},
 	{
 			key = "wh_main_grn_cav_forest_goblin_spider_riders_0",
@@ -3521,6 +3791,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_grn_cav_forest_goblin_spider_riders_0",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH2_DLC15_WARDEN","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_grn_cav_forest_goblin_spider_riders_1",
@@ -3534,6 +3805,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_grn_cav_forest_goblin_spider_riders_1",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH2_DLC15_WARDEN","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_grn_cav_goblin_wolf_riders_0",
@@ -3547,6 +3819,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_grn_cav_goblin_wolf_riders_0",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH2_DLC15_WARDEN","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_grn_cav_goblin_wolf_riders_1",
@@ -3560,6 +3833,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_grn_cav_goblin_wolf_riders_1",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH2_DLC15_WARDEN","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_grn_inf_goblin_archers",
@@ -3573,6 +3847,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_grn_inf_goblin_archers",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH2_DLC15_WARDEN","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_grn_inf_goblin_spearmen",
@@ -3586,6 +3861,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_grn_inf_goblin_spearmen",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH2_DLC15_WARDEN","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_grn_inf_night_goblin_archers",
@@ -3599,6 +3875,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_grn_inf_night_goblin_archers",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH2_DLC15_WARDEN","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_grn_inf_night_goblin_fanatics",
@@ -3612,6 +3889,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_grn_inf_night_goblin_fanatics",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH2_DLC15_WARDEN","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_grn_inf_night_goblin_fanatics_1",
@@ -3625,6 +3903,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_grn_inf_night_goblin_fanatics_1",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH2_DLC15_WARDEN","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_grn_inf_night_goblins",
@@ -3638,6 +3917,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_grn_inf_night_goblins",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH2_DLC15_WARDEN","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_grn_inf_orc_arrer_boyz",
@@ -3651,6 +3931,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_grn_inf_orc_arrer_boyz",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH2_DLC15_WARDEN","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_grn_inf_orc_big_uns",
@@ -3664,6 +3945,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_grn_inf_orc_big_uns",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH2_DLC15_WARDEN","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_grn_inf_orc_boyz",
@@ -3677,6 +3959,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_grn_inf_orc_boyz",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH2_DLC15_WARDEN","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_grn_inf_savage_orc_arrer_boyz",
@@ -3690,6 +3973,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_grn_inf_savage_orc_arrer_boyz",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH2_DLC15_WARDEN","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_grn_inf_savage_orc_big_uns",
@@ -3703,6 +3987,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_grn_inf_savage_orc_big_uns",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH2_DLC15_WARDEN","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_grn_inf_savage_orcs",
@@ -3716,6 +4001,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_grn_inf_savage_orcs",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH2_DLC15_WARDEN","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_dlc06_grn_inf_nasty_skulkers_0",
@@ -3729,6 +4015,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc06_grn_inf_nasty_skulkers_0",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2"},
 		},
 	{
 			key = "wh_main_grn_cav_goblin_wolf_chariot",
@@ -3742,6 +4029,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_grn_cav_goblin_wolf_chariot",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH2_DLC15_WARDEN","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_grn_cav_orc_boar_boy_big_uns",
@@ -3755,6 +4043,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_grn_cav_orc_boar_boy_big_uns",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH2_DLC15_WARDEN","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_grn_cav_orc_boar_boyz",
@@ -3768,6 +4057,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_grn_cav_orc_boar_boyz",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH2_DLC15_WARDEN","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_grn_cav_orc_boar_chariot",
@@ -3781,6 +4071,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_grn_cav_orc_boar_chariot",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH2_DLC15_WARDEN","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_grn_cav_savage_orc_boar_boy_big_uns",
@@ -3794,6 +4085,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_grn_cav_savage_orc_boar_boy_big_uns",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH2_DLC15_WARDEN","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_grn_cav_savage_orc_boar_boyz",
@@ -3807,6 +4099,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_grn_cav_savage_orc_boar_boyz",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH2_DLC15_WARDEN","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_grn_inf_black_orcs",
@@ -3820,6 +4113,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_grn_inf_black_orcs",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH2_DLC15_WARDEN","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_grn_mon_trolls",
@@ -3833,6 +4127,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_grn_mon_trolls",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH2_DLC15_WARDEN","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_dlc06_grn_cav_squig_hoppers_0",
@@ -3846,6 +4141,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc06_grn_cav_squig_hoppers_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2"},
 		},
 	{
 			key = "wh_dlc06_grn_inf_squig_herd_0",
@@ -3859,6 +4155,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc06_grn_inf_squig_herd_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2"},
 		},
 	{
 			key = "wh2_dlc15_grn_mon_river_trolls_0",
@@ -3872,6 +4169,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc15_grn_mon_river_trolls_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC15_WARDEN"},
 		},
 	{
 			key = "wh2_dlc15_grn_mon_stone_trolls_0",
@@ -3885,6 +4183,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc15_grn_mon_stone_trolls_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC15_WARDEN"},
 		},
 	{
 			key = "wh_main_grn_art_doom_diver_catapult",
@@ -3898,6 +4197,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_grn_art_doom_diver_catapult",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH2_DLC15_WARDEN","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_grn_art_goblin_rock_lobber",
@@ -3911,6 +4211,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_grn_art_goblin_rock_lobber",
 				glory_cost = 120,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH2_DLC15_WARDEN","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_grn_mon_arachnarok_spider_0",
@@ -3924,6 +4225,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_grn_mon_arachnarok_spider_0",
 				glory_cost = 160,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH2_DLC15_WARDEN","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh_main_grn_mon_giant",
@@ -3937,6 +4239,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_grn_mon_giant",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2","TW_WH2_DLC15_WARDEN","TW_WH1_BASE_GAME"},
 		},
 	{
 			key = "wh2_dlc15_grn_mon_rogue_idol_0",
@@ -3950,6 +4253,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc15_grn_mon_rogue_idol_0",
 				glory_cost = 160,
 			},
+			require_dlc = {"TW_WH2_DLC15_WARDEN"},
 		},
 	{
 			key = "wh2_dlc15_grn_veh_snotling_pump_wagon_0",
@@ -3963,6 +4267,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc15_grn_veh_snotling_pump_wagon_0",
 				glory_cost = 120,
 			},
+			require_dlc = {"TW_WH2_DLC15_WARDEN"},
 		},
 	{
 			key = "wh2_dlc15_grn_veh_snotling_pump_wagon_flappas_0",
@@ -3976,6 +4281,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc15_grn_veh_snotling_pump_wagon_flappas_0",
 				glory_cost = 120,
 			},
+			require_dlc = {"TW_WH2_DLC15_WARDEN"},
 		},
 	{
 			key = "wh2_dlc15_grn_veh_snotling_pump_wagon_roller_0",
@@ -3989,6 +4295,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc15_grn_veh_snotling_pump_wagon_roller_0",
 				glory_cost = 120,
 			},
+			require_dlc = {"TW_WH2_DLC15_WARDEN"},
 		},
 	{
 			key = "wh_dlc06_grn_inf_squig_explosive_0",
@@ -4002,6 +4309,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc06_grn_inf_squig_explosive_0",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH1_LORDS_AND_UNITS_2"},
 		},
 	{
 			key = "wh_main_chs_mon_chaos_warhounds_0",
@@ -4015,6 +4323,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_chs_mon_chaos_warhounds_0",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH1_CHAOS"},
 		},
 	{
 			key = "wh_main_chs_mon_chaos_warhounds_1",
@@ -4028,6 +4337,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_chs_mon_chaos_warhounds_1",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH1_CHAOS"},
 		},
 	{
 			key = "wh_main_chs_cav_marauder_horsemen_0",
@@ -4041,6 +4351,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_chs_cav_marauder_horsemen_0",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH1_CHAOS"},
 		},
 	{
 			key = "wh_main_chs_cav_marauder_horsemen_1",
@@ -4054,6 +4365,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_chs_cav_marauder_horsemen_1",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH1_CHAOS"},
 		},
 	{
 			key = "wh_main_chs_inf_chaos_marauders_0",
@@ -4067,6 +4379,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_chs_inf_chaos_marauders_0",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH1_CHAOS"},
 		},
 	{
 			key = "wh_main_chs_inf_chaos_marauders_1",
@@ -4080,6 +4393,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_chs_inf_chaos_marauders_1",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH1_CHAOS"},
 		},
 	{
 			key = "wh_main_chs_inf_chaos_warriors_0",
@@ -4093,6 +4407,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_chs_inf_chaos_warriors_0",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH1_CHAOS"},
 		},
 	{
 			key = "wh_main_chs_inf_chaos_warriors_1",
@@ -4106,6 +4421,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_chs_inf_chaos_warriors_1",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH1_CHAOS"},
 		},
 	{
 			key = "wh_main_chs_cav_chaos_chariot",
@@ -4119,6 +4435,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_chs_cav_chaos_chariot",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH1_CHAOS"},
 		},
 	{
 			key = "wh_dlc01_chs_inf_chaos_warriors_2",
@@ -4132,6 +4449,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc01_chs_inf_chaos_warriors_2",
 				glory_cost = 30,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh_dlc01_chs_inf_forsaken_0",
@@ -4145,6 +4463,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc01_chs_inf_forsaken_0",
 				glory_cost = 30,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh_dlc06_chs_cav_marauder_horsemasters_0",
@@ -4158,6 +4477,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc06_chs_cav_marauder_horsemasters_0",
 				glory_cost = 30,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh_main_chs_mon_trolls",
@@ -4171,6 +4491,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_chs_mon_trolls",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH1_CHAOS"},
 		},
 	{
 			key = "wh_main_chs_inf_chosen_0",
@@ -4184,6 +4505,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_chs_inf_chosen_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_CHAOS"},
 		},
 	{
 			key = "wh_main_chs_inf_chosen_1",
@@ -4197,6 +4519,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_chs_inf_chosen_1",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_CHAOS"},
 		},
 	{
 			key = "wh_main_chs_cav_chaos_knights_0",
@@ -4210,6 +4533,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_chs_cav_chaos_knights_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_CHAOS"},
 		},
 	{
 			key = "wh_main_chs_cav_chaos_knights_1",
@@ -4223,6 +4547,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_chs_cav_chaos_knights_1",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_CHAOS"},
 		},
 	{
 			key = "wh_dlc01_chs_cav_gorebeast_chariot",
@@ -4236,6 +4561,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc01_chs_cav_gorebeast_chariot",
 				glory_cost = 65,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh_dlc01_chs_mon_dragon_ogre",
@@ -4249,6 +4575,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc01_chs_mon_dragon_ogre",
 				glory_cost = 80,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh_dlc01_chs_mon_trolls_1",
@@ -4262,6 +4589,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc01_chs_mon_trolls_1",
 				glory_cost = 65,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh_dlc01_chs_inf_chosen_2",
@@ -4275,6 +4603,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc01_chs_inf_chosen_2",
 				glory_cost = 80,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh_dlc06_chs_feral_manticore",
@@ -4288,6 +4617,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc06_chs_feral_manticore",
 				glory_cost = 80,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh_dlc06_chs_inf_aspiring_champions_0",
@@ -4301,6 +4631,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc06_chs_inf_aspiring_champions_0",
 				glory_cost = 65,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh_main_chs_art_hellcannon",
@@ -4314,6 +4645,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_chs_art_hellcannon",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH1_CHAOS"},
 		},
 	{
 			key = "wh_main_chs_mon_chaos_spawn",
@@ -4327,6 +4659,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_chs_mon_chaos_spawn",
 				glory_cost = 120,
 			},
+			require_dlc = {"TW_WH1_CHAOS"},
 		},
 	{
 			key = "wh_main_chs_mon_giant",
@@ -4340,6 +4673,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_chs_mon_giant",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH1_CHAOS"},
 		},
 	{
 			key = "wh_dlc01_chs_mon_dragon_ogre_shaggoth",
@@ -4353,6 +4687,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc01_chs_mon_dragon_ogre_shaggoth",
 				glory_cost = 160,
 			},
+			require_dlc = nil,
 		},
 	{
 			key = "wh_dlc03_bst_inf_chaos_warhounds_0",
@@ -4366,6 +4701,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc03_bst_inf_chaos_warhounds_0",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH1_BEASTMEN","TW_WH2_DLC17_SILENCE"},
 		},
 	{
 			key = "wh_dlc03_bst_inf_chaos_warhounds_1",
@@ -4379,6 +4715,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc03_bst_inf_chaos_warhounds_1",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH1_BEASTMEN","TW_WH2_DLC17_SILENCE"},
 		},
 	{
 			key = "wh_dlc03_bst_inf_ungor_raiders_0",
@@ -4392,6 +4729,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc03_bst_inf_ungor_raiders_0",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH1_BEASTMEN","TW_WH2_DLC17_SILENCE"},
 		},
 	{
 			key = "wh_dlc03_bst_inf_gor_herd_0",
@@ -4405,6 +4743,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc03_bst_inf_gor_herd_0",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH1_BEASTMEN","TW_WH2_DLC17_SILENCE"},
 		},
 	{
 			key = "wh_dlc03_bst_inf_gor_herd_1",
@@ -4418,6 +4757,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc03_bst_inf_gor_herd_1",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH1_BEASTMEN","TW_WH2_DLC17_SILENCE"},
 		},
 	{
 			key = "wh_dlc03_bst_inf_ungor_herd_1",
@@ -4431,6 +4771,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc03_bst_inf_ungor_herd_1",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH1_BEASTMEN","TW_WH2_DLC17_SILENCE"},
 		},
 	{
 			key = "wh_dlc03_bst_inf_ungor_spearmen_0",
@@ -4444,6 +4785,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc03_bst_inf_ungor_spearmen_0",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH1_BEASTMEN","TW_WH2_DLC17_SILENCE"},
 		},
 	{
 			key = "wh_dlc03_bst_inf_ungor_spearmen_1",
@@ -4457,6 +4799,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc03_bst_inf_ungor_spearmen_1",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH1_BEASTMEN","TW_WH2_DLC17_SILENCE"},
 		},
 	{
 			key = "wh2_dlc17_bst_cav_tuskgor_chariot_0",
@@ -4470,6 +4813,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc17_bst_cav_tuskgor_chariot_0",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH2_DLC17_SILENCE"},
 		},
 	{
 			key = "wh_dlc03_bst_inf_minotaurs_0",
@@ -4483,6 +4827,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc03_bst_inf_minotaurs_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_BEASTMEN","TW_WH2_DLC17_SILENCE"},
 		},
 	{
 			key = "wh_dlc03_bst_inf_minotaurs_1",
@@ -4496,6 +4841,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc03_bst_inf_minotaurs_1",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_BEASTMEN","TW_WH2_DLC17_SILENCE"},
 		},
 	{
 			key = "wh_dlc03_bst_inf_minotaurs_2",
@@ -4509,6 +4855,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc03_bst_inf_minotaurs_2",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_BEASTMEN","TW_WH2_DLC17_SILENCE"},
 		},
 	{
 			key = "wh_dlc05_bst_mon_harpies_0",
@@ -4522,6 +4869,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc05_bst_mon_harpies_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH1_BEASTMEN","TW_WH2_DLC17_SILENCE"},
 		},
 	{
 			key = "wh_dlc03_bst_inf_razorgor_herd_0",
@@ -4535,6 +4883,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc03_bst_inf_razorgor_herd_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH1_BEASTMEN","TW_WH2_DLC17_SILENCE"},
 		},
 	{
 			key = "wh_dlc03_bst_feral_manticore",
@@ -4548,6 +4897,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc03_bst_feral_manticore",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_BEASTMEN","TW_WH2_DLC17_SILENCE"},
 		},
 	{
 			key = "wh_dlc03_bst_inf_bestigor_herd_0",
@@ -4561,6 +4911,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc03_bst_inf_bestigor_herd_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH1_BEASTMEN","TW_WH2_DLC17_SILENCE"},
 		},
 	{
 			key = "wh_dlc03_bst_inf_centigors_0",
@@ -4574,6 +4925,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc03_bst_inf_centigors_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH1_BEASTMEN","TW_WH2_DLC17_SILENCE"},
 		},
 	{
 			key = "wh_dlc03_bst_inf_centigors_1",
@@ -4587,6 +4939,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc03_bst_inf_centigors_1",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH1_BEASTMEN","TW_WH2_DLC17_SILENCE"},
 		},
 	{
 			key = "wh_dlc03_bst_inf_centigors_2",
@@ -4600,6 +4953,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc03_bst_inf_centigors_2",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH1_BEASTMEN","TW_WH2_DLC17_SILENCE"},
 		},
 	{
 			key = "wh_dlc03_bst_cav_razorgor_chariot_0",
@@ -4613,6 +4967,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc03_bst_cav_razorgor_chariot_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_BEASTMEN","TW_WH2_DLC17_SILENCE"},
 		},
 	{
 			key = "wh_dlc03_bst_mon_chaos_spawn_0",
@@ -4626,6 +4981,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc03_bst_mon_chaos_spawn_0",
 				glory_cost = 120,
 			},
+			require_dlc = {"TW_WH1_BEASTMEN","TW_WH2_DLC17_SILENCE"},
 		},
 	{
 			key = "wh_dlc03_bst_mon_giant_0",
@@ -4639,6 +4995,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc03_bst_mon_giant_0",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH1_BEASTMEN","TW_WH2_DLC17_SILENCE"},
 		},
 	{
 			key = "wh_dlc03_bst_inf_cygor_0",
@@ -4652,6 +5009,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc03_bst_inf_cygor_0",
 				glory_cost = 160,
 			},
+			require_dlc = {"TW_WH1_BEASTMEN","TW_WH2_DLC17_SILENCE"},
 		},
 	{
 			key = "wh2_dlc17_bst_mon_ghorgon_0",
@@ -4665,6 +5023,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc17_bst_mon_ghorgon_0",
 				glory_cost = 160,
 			},
+			require_dlc = {"TW_WH2_DLC17_SILENCE"},
 		},
 	{
 			key = "wh2_dlc17_bst_mon_jabberslythe_0",
@@ -4678,6 +5037,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc17_bst_mon_jabberslythe_0",
 				glory_cost = 160,
 			},
+			require_dlc = {"TW_WH2_DLC17_SILENCE"},
 		},
 	{
 			key = "wh_dlc05_wef_inf_glade_guard_0",
@@ -4691,6 +5051,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc05_wef_inf_glade_guard_0",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH1_WOOD_ELVES","TW_WH2_DLC16_TWILIGHT"},
 		},
 	{
 			key = "wh_dlc05_wef_inf_glade_guard_1",
@@ -4704,6 +5065,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc05_wef_inf_glade_guard_1",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH1_WOOD_ELVES","TW_WH2_DLC16_TWILIGHT"},
 		},
 	{
 			key = "wh_dlc05_wef_inf_glade_guard_2",
@@ -4717,6 +5079,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc05_wef_inf_glade_guard_2",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH1_WOOD_ELVES","TW_WH2_DLC16_TWILIGHT"},
 		},
 	{
 			key = "wh_dlc05_wef_cav_glade_riders_0",
@@ -4730,6 +5093,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc05_wef_cav_glade_riders_0",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH1_WOOD_ELVES","TW_WH2_DLC16_TWILIGHT"},
 		},
 	{
 			key = "wh_dlc05_wef_cav_glade_riders_1",
@@ -4743,6 +5107,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc05_wef_cav_glade_riders_1",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH1_WOOD_ELVES","TW_WH2_DLC16_TWILIGHT"},
 		},
 	{
 			key = "wh_dlc05_wef_inf_dryads_0",
@@ -4756,6 +5121,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc05_wef_inf_dryads_0",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH1_WOOD_ELVES","TW_WH2_DLC16_TWILIGHT"},
 		},
 	{
 			key = "wh_dlc05_wef_inf_eternal_guard_0",
@@ -4769,6 +5135,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc05_wef_inf_eternal_guard_0",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH1_WOOD_ELVES","TW_WH2_DLC16_TWILIGHT"},
 		},
 	{
 			key = "wh_dlc05_wef_inf_eternal_guard_1",
@@ -4782,6 +5149,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc05_wef_inf_eternal_guard_1",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH1_WOOD_ELVES","TW_WH2_DLC16_TWILIGHT"},
 		},
 	{
 			key = "wh2_dlc16_wef_cav_glade_riders_2",
@@ -4795,6 +5163,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc16_wef_cav_glade_riders_2",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH1_WOOD_ELVES","TW_WH2_DLC16_TWILIGHT"},
 		},
 	{
 			key = "wh2_dlc16_wef_inf_malicious_dryads_0",
@@ -4808,6 +5177,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc16_wef_inf_malicious_dryads_0",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH1_WOOD_ELVES","TW_WH2_DLC16_TWILIGHT"},
 		},
 	{
 			key = "wh2_dlc16_wef_mon_cave_bats",
@@ -4821,6 +5191,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc16_wef_mon_cave_bats",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH3_SHADOWS_OF_CHANGE"},
 		},
 	{
 			key = "wh_dlc05_wef_inf_deepwood_scouts_0",
@@ -4834,6 +5205,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc05_wef_inf_deepwood_scouts_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH1_WOOD_ELVES","TW_WH2_DLC16_TWILIGHT"},
 		},
 	{
 			key = "wh_dlc05_wef_inf_deepwood_scouts_1",
@@ -4847,6 +5219,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc05_wef_inf_deepwood_scouts_1",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH1_WOOD_ELVES","TW_WH2_DLC16_TWILIGHT"},
 		},
 	{
 			key = "wh_dlc05_wef_mon_treekin_0",
@@ -4860,6 +5233,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc05_wef_mon_treekin_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_WOOD_ELVES","TW_WH2_DLC16_TWILIGHT"},
 		},
 	{
 			key = "wh_dlc05_wef_mon_great_eagle_0",
@@ -4873,6 +5247,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc05_wef_mon_great_eagle_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_WOOD_ELVES","TW_WH2_DLC16_TWILIGHT"},
 		},
 	{
 			key = "wh_dlc05_wef_cav_hawk_riders_0",
@@ -4886,6 +5261,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc05_wef_cav_hawk_riders_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_WOOD_ELVES","TW_WH2_DLC16_TWILIGHT"},
 		},
 	{
 			key = "wh_dlc05_wef_inf_wardancers_0",
@@ -4899,6 +5275,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc05_wef_inf_wardancers_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH1_WOOD_ELVES","TW_WH2_DLC16_TWILIGHT"},
 		},
 	{
 			key = "wh_dlc05_wef_inf_wardancers_1",
@@ -4912,6 +5289,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc05_wef_inf_wardancers_1",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH1_WOOD_ELVES","TW_WH2_DLC16_TWILIGHT"},
 		},
 	{
 			key = "wh_dlc05_wef_inf_wildwood_rangers_0",
@@ -4925,6 +5303,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc05_wef_inf_wildwood_rangers_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_WOOD_ELVES","TW_WH2_DLC16_TWILIGHT"},
 		},
 	{
 			key = "wh_dlc05_wef_cav_wild_riders_0",
@@ -4938,6 +5317,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc05_wef_cav_wild_riders_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_WOOD_ELVES","TW_WH2_DLC16_TWILIGHT"},
 		},
 	{
 			key = "wh_dlc05_wef_cav_wild_riders_1",
@@ -4951,6 +5331,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc05_wef_cav_wild_riders_1",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_WOOD_ELVES","TW_WH2_DLC16_TWILIGHT"},
 		},
 	{
 			key = "wh2_dlc16_wef_inf_bladesingers_0",
@@ -4964,6 +5345,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc16_wef_inf_bladesingers_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC16_TWILIGHT"},
 		},
 	{
 			key = "wh2_dlc16_wef_mon_giant_spiders_0",
@@ -4977,6 +5359,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc16_wef_mon_giant_spiders_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH3_SHADOWS_OF_CHANGE"},
 		},
 	{
 			key = "wh2_dlc16_wef_mon_feral_manticore",
@@ -4990,6 +5373,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc16_wef_mon_feral_manticore",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_WOOD_ELVES","TW_WH2_DLC16_TWILIGHT"},
 		},
 	{
 			key = "wh2_dlc16_wef_mon_harpies_0",
@@ -5003,6 +5387,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc16_wef_mon_harpies_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH1_WOOD_ELVES","TW_WH2_DLC16_TWILIGHT"},
 		},
 	{
 			key = "wh2_dlc16_wef_mon_hawks_0",
@@ -5016,6 +5401,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc16_wef_mon_hawks_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH1_WOOD_ELVES","TW_WH2_DLC16_TWILIGHT"},
 		},
 	{
 			key = "wh2_dlc16_wef_mon_malicious_treekin_0",
@@ -5029,6 +5415,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc16_wef_mon_malicious_treekin_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_WOOD_ELVES","TW_WH2_DLC16_TWILIGHT"},
 		},
 	{
 			key = "wh2_dlc16_wef_mon_wolves_0",
@@ -5042,6 +5429,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc16_wef_mon_wolves_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH1_WOOD_ELVES","TW_WH2_DLC16_TWILIGHT"},
 		},
 	{
 			key = "wh_dlc05_wef_forest_dragon_0",
@@ -5055,6 +5443,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc05_wef_forest_dragon_0",
 				glory_cost = 160,
 			},
+			require_dlc = {"TW_WH1_WOOD_ELVES","TW_WH2_DLC16_TWILIGHT"},
 		},
 	{
 			key = "wh_dlc05_wef_mon_treeman_0",
@@ -5068,6 +5457,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc05_wef_mon_treeman_0",
 				glory_cost = 160,
 			},
+			require_dlc = {"TW_WH1_WOOD_ELVES","TW_WH2_DLC16_TWILIGHT"},
 		},
 	{
 			key = "wh_dlc05_wef_inf_waywatchers_0",
@@ -5081,6 +5471,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc05_wef_inf_waywatchers_0",
 				glory_cost = 120,
 			},
+			require_dlc = {"TW_WH1_WOOD_ELVES","TW_WH2_DLC16_TWILIGHT"},
 		},
 	{
 			key = "wh_dlc05_wef_cav_sisters_thorn_0",
@@ -5094,6 +5485,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc05_wef_cav_sisters_thorn_0",
 				glory_cost = 120,
 			},
+			require_dlc = {"TW_WH1_WOOD_ELVES","TW_WH2_DLC16_TWILIGHT"},
 		},
 	{
 			key = "wh2_dlc16_wef_cav_great_stag_knights_0",
@@ -5107,6 +5499,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc16_wef_cav_great_stag_knights_0",
 				glory_cost = 120,
 			},
+			require_dlc = {"TW_WH2_DLC16_TWILIGHT"},
 		},
 	{
 			key = "wh2_dlc16_wef_mon_malicious_treeman_0",
@@ -5120,6 +5513,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc16_wef_mon_malicious_treeman_0",
 				glory_cost = 160,
 			},
+			require_dlc = {"TW_WH1_WOOD_ELVES","TW_WH2_DLC16_TWILIGHT"},
 		},
 	{
 			key = "wh2_dlc16_wef_mon_zoats",
@@ -5133,6 +5527,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc16_wef_mon_zoats",
 				glory_cost = 120,
 			},
+			require_dlc = {"TW_WH2_DLC16_TWILIGHT"},
 		},
 	{
 			key = "wh_main_nor_mon_chaos_warhounds_0",
@@ -5146,6 +5541,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_nor_mon_chaos_warhounds_0",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH1_NORSCA"},
 		},
 	{
 			key = "wh_main_nor_mon_chaos_warhounds_1",
@@ -5159,6 +5555,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_nor_mon_chaos_warhounds_1",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH1_NORSCA"},
 		},
 	{
 			key = "wh_main_nor_cav_marauder_horsemen_1",
@@ -5172,6 +5569,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_nor_cav_marauder_horsemen_1",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH1_NORSCA"},
 		},
 	{
 			key = "wh_main_nor_inf_chaos_marauders_0",
@@ -5185,6 +5583,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_nor_inf_chaos_marauders_0",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH1_NORSCA"},
 		},
 	{
 			key = "wh_main_nor_inf_chaos_marauders_1",
@@ -5198,6 +5597,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_nor_inf_chaos_marauders_1",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH1_NORSCA"},
 		},
 	{
 			key = "wh_main_nor_cav_marauder_horsemen_0",
@@ -5211,6 +5611,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_nor_cav_marauder_horsemen_0",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH1_NORSCA"},
 		},
 	{
 			key = "wh_main_nor_cav_chaos_chariot",
@@ -5224,6 +5625,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_nor_cav_chaos_chariot",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH1_NORSCA"},
 		},
 	{
 			key = "wh_dlc08_nor_inf_marauder_spearman_0",
@@ -5237,6 +5639,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc08_nor_inf_marauder_spearman_0",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH1_NORSCA"},
 		},
 	{
 			key = "wh_dlc08_nor_inf_marauder_hunters_0",
@@ -5250,6 +5653,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc08_nor_inf_marauder_hunters_0",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH1_NORSCA"},
 		},
 	{
 			key = "wh_dlc08_nor_inf_marauder_hunters_1",
@@ -5263,6 +5667,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc08_nor_inf_marauder_hunters_1",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH1_NORSCA"},
 		},
 	{
 			key = "wh_dlc08_nor_cav_marauder_horsemasters_0",
@@ -5276,6 +5681,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc08_nor_cav_marauder_horsemasters_0",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH1_NORSCA"},
 		},
 	{
 			key = "wh_main_nor_mon_chaos_trolls",
@@ -5289,6 +5695,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_main_nor_mon_chaos_trolls",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_NORSCA"},
 		},
 	{
 			key = "wh_dlc08_nor_mon_warwolves_0",
@@ -5302,6 +5709,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc08_nor_mon_warwolves_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH1_NORSCA"},
 		},
 	{
 			key = "wh_dlc08_nor_mon_norscan_ice_trolls_0",
@@ -5315,6 +5723,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc08_nor_mon_norscan_ice_trolls_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_NORSCA"},
 		},
 	{
 			key = "wh_dlc08_nor_feral_manticore",
@@ -5328,6 +5737,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc08_nor_feral_manticore",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH1_NORSCA"},
 		},
 	{
 			key = "wh_dlc08_nor_inf_marauder_berserkers_0",
@@ -5341,6 +5751,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc08_nor_inf_marauder_berserkers_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH1_NORSCA"},
 		},
 	{
 			key = "wh_dlc08_nor_inf_marauder_champions_0",
@@ -5354,6 +5765,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc08_nor_inf_marauder_champions_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_NORSCA"},
 		},
 	{
 			key = "wh_dlc08_nor_inf_marauder_champions_1",
@@ -5367,6 +5779,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc08_nor_inf_marauder_champions_1",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_NORSCA"},
 		},
 	{
 			key = "wh_dlc08_nor_mon_skinwolves_0",
@@ -5380,6 +5793,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc08_nor_mon_skinwolves_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_NORSCA"},
 		},
 	{
 			key = "wh_dlc08_nor_mon_skinwolves_1",
@@ -5393,6 +5807,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc08_nor_mon_skinwolves_1",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_NORSCA"},
 		},
 	{
 			key = "wh_dlc08_nor_veh_marauder_warwolves_chariot_0",
@@ -5406,6 +5821,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc08_nor_veh_marauder_warwolves_chariot_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH1_NORSCA"},
 		},
 	{
 			key = "wh_dlc08_nor_mon_fimir_0",
@@ -5419,6 +5835,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc08_nor_mon_fimir_0",
 				glory_cost = 120,
 			},
+			require_dlc = {"TW_WH1_NORSCA"},
 		},
 	{
 			key = "wh_dlc08_nor_mon_fimir_1",
@@ -5432,6 +5849,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc08_nor_mon_fimir_1",
 				glory_cost = 120,
 			},
+			require_dlc = {"TW_WH1_NORSCA"},
 		},
 	{
 			key = "wh_dlc08_nor_mon_frost_wyrm_0",
@@ -5445,6 +5863,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc08_nor_mon_frost_wyrm_0",
 				glory_cost = 160,
 			},
+			require_dlc = {"TW_WH1_NORSCA"},
 		},
 	{
 			key = "wh_dlc08_nor_mon_norscan_giant_0",
@@ -5458,6 +5877,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc08_nor_mon_norscan_giant_0",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH1_NORSCA"},
 		},
 	{
 			key = "wh_dlc08_nor_mon_war_mammoth_0",
@@ -5471,6 +5891,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc08_nor_mon_war_mammoth_0",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH1_NORSCA"},
 		},
 	{
 			key = "wh_dlc08_nor_mon_war_mammoth_1",
@@ -5484,6 +5905,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc08_nor_mon_war_mammoth_1",
 				glory_cost = 160,
 			},
+			require_dlc = {"TW_WH1_NORSCA"},
 		},
 	{
 			key = "wh_dlc08_nor_mon_war_mammoth_2",
@@ -5497,6 +5919,7 @@ mercenaries = {
 				key = "pttg_ritual_wh_dlc08_nor_mon_war_mammoth_2",
 				glory_cost = 160,
 			},
+			require_dlc = {"TW_WH1_NORSCA"},
 		},
 	{
 			key = "wh2_main_lzd_inf_skink_cohort_1",
@@ -5510,6 +5933,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_lzd_inf_skink_cohort_1",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH2_DLC17_SILENCE","TW_WH2_DLC12_PROPHET","TW_WH2_BASE_GAME","TW_WH2_DLC13_HUNTER"},
 		},
 	{
 			key = "wh2_main_lzd_inf_skink_skirmishers_0",
@@ -5523,6 +5947,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_lzd_inf_skink_skirmishers_0",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH2_DLC17_SILENCE","TW_WH2_DLC12_PROPHET","TW_WH2_BASE_GAME","TW_WH2_DLC13_HUNTER"},
 		},
 	{
 			key = "wh2_main_lzd_inf_saurus_spearmen_0",
@@ -5536,6 +5961,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_lzd_inf_saurus_spearmen_0",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH2_DLC17_SILENCE","TW_WH2_DLC12_PROPHET","TW_WH2_BASE_GAME","TW_WH2_DLC13_HUNTER"},
 		},
 	{
 			key = "wh2_main_lzd_inf_saurus_spearmen_1",
@@ -5549,6 +5975,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_lzd_inf_saurus_spearmen_1",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH2_DLC17_SILENCE","TW_WH2_DLC12_PROPHET","TW_WH2_BASE_GAME","TW_WH2_DLC13_HUNTER"},
 		},
 	{
 			key = "wh2_main_lzd_inf_saurus_warriors_0",
@@ -5562,6 +5989,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_lzd_inf_saurus_warriors_0",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH2_DLC17_SILENCE","TW_WH2_DLC12_PROPHET","TW_WH2_BASE_GAME","TW_WH2_DLC13_HUNTER"},
 		},
 	{
 			key = "wh2_main_lzd_inf_saurus_warriors_1",
@@ -5575,6 +6003,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_lzd_inf_saurus_warriors_1",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH2_DLC17_SILENCE","TW_WH2_DLC12_PROPHET","TW_WH2_BASE_GAME","TW_WH2_DLC13_HUNTER"},
 		},
 	{
 			key = "wh2_main_lzd_inf_skink_cohort_0",
@@ -5588,6 +6017,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_lzd_inf_skink_cohort_0",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH2_DLC17_SILENCE","TW_WH2_DLC12_PROPHET","TW_WH2_BASE_GAME","TW_WH2_DLC13_HUNTER"},
 		},
 	{
 			key = "wh2_main_lzd_cav_cold_ones_feral_0",
@@ -5601,6 +6031,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_lzd_cav_cold_ones_feral_0",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH2_DLC17_SILENCE","TW_WH2_DLC12_PROPHET","TW_WH2_BASE_GAME","TW_WH2_DLC13_HUNTER"},
 		},
 	{
 			key = "wh2_dlc12_lzd_inf_skink_red_crested_0",
@@ -5614,6 +6045,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc12_lzd_inf_skink_red_crested_0",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH2_DLC12_PROPHET"},
 		},
 	{
 			key = "wh2_main_lzd_mon_kroxigors",
@@ -5627,6 +6059,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_lzd_mon_kroxigors",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC17_SILENCE","TW_WH2_DLC12_PROPHET","TW_WH2_BASE_GAME","TW_WH2_DLC13_HUNTER"},
 		},
 	{
 			key = "wh2_main_lzd_cav_terradon_riders_0",
@@ -5640,6 +6073,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_lzd_cav_terradon_riders_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_DLC17_SILENCE","TW_WH2_DLC12_PROPHET","TW_WH2_BASE_GAME","TW_WH2_DLC13_HUNTER"},
 		},
 	{
 			key = "wh2_main_lzd_cav_terradon_riders_1",
@@ -5653,6 +6087,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_lzd_cav_terradon_riders_1",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_DLC17_SILENCE","TW_WH2_DLC12_PROPHET","TW_WH2_BASE_GAME","TW_WH2_DLC13_HUNTER"},
 		},
 	{
 			key = "wh2_main_lzd_mon_bastiladon_0",
@@ -5666,6 +6101,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_lzd_mon_bastiladon_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_DLC17_SILENCE","TW_WH2_DLC12_PROPHET","TW_WH2_BASE_GAME","TW_WH2_DLC13_HUNTER"},
 		},
 	{
 			key = "wh2_main_lzd_mon_bastiladon_1",
@@ -5679,6 +6115,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_lzd_mon_bastiladon_1",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC17_SILENCE","TW_WH2_DLC12_PROPHET","TW_WH2_BASE_GAME","TW_WH2_DLC13_HUNTER"},
 		},
 	{
 			key = "wh2_main_lzd_mon_bastiladon_2",
@@ -5692,6 +6129,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_lzd_mon_bastiladon_2",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC17_SILENCE","TW_WH2_DLC12_PROPHET","TW_WH2_BASE_GAME","TW_WH2_DLC13_HUNTER"},
 		},
 	{
 			key = "wh2_main_lzd_mon_stegadon_0",
@@ -5705,6 +6143,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_lzd_mon_stegadon_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC17_SILENCE","TW_WH2_DLC12_PROPHET","TW_WH2_BASE_GAME","TW_WH2_DLC13_HUNTER"},
 		},
 	{
 			key = "wh2_main_lzd_mon_stegadon_1",
@@ -5718,6 +6157,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_lzd_mon_stegadon_1",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC17_SILENCE","TW_WH2_DLC12_PROPHET","TW_WH2_BASE_GAME","TW_WH2_DLC13_HUNTER"},
 		},
 	{
 			key = "wh2_main_lzd_inf_chameleon_skinks_0",
@@ -5731,6 +6171,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_lzd_inf_chameleon_skinks_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_DLC17_SILENCE","TW_WH2_DLC12_PROPHET","TW_WH2_BASE_GAME","TW_WH2_DLC13_HUNTER"},
 		},
 	{
 			key = "wh2_main_lzd_inf_temple_guards",
@@ -5744,6 +6185,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_lzd_inf_temple_guards",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_DLC17_SILENCE","TW_WH2_DLC12_PROPHET","TW_WH2_BASE_GAME","TW_WH2_DLC13_HUNTER"},
 		},
 	{
 			key = "wh2_main_lzd_cav_cold_one_spearmen_1",
@@ -5757,6 +6199,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_lzd_cav_cold_one_spearmen_1",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_DLC17_SILENCE","TW_WH2_DLC12_PROPHET","TW_WH2_BASE_GAME","TW_WH2_DLC13_HUNTER"},
 		},
 	{
 			key = "wh2_main_lzd_cav_cold_ones_1",
@@ -5770,6 +6213,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_lzd_cav_cold_ones_1",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_DLC17_SILENCE","TW_WH2_DLC12_PROPHET","TW_WH2_BASE_GAME","TW_WH2_DLC13_HUNTER"},
 		},
 	{
 			key = "wh2_main_lzd_cav_horned_ones_0",
@@ -5783,6 +6227,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_lzd_cav_horned_ones_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC17_SILENCE","TW_WH2_DLC12_PROPHET","TW_WH2_BASE_GAME","TW_WH2_DLC13_HUNTER"},
 		},
 	{
 			key = "wh2_dlc12_lzd_mon_salamander_pack_0",
@@ -5796,6 +6241,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc12_lzd_mon_salamander_pack_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC12_PROPHET"},
 		},
 	{
 			key = "wh2_dlc12_lzd_mon_bastiladon_3",
@@ -5809,6 +6255,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc12_lzd_mon_bastiladon_3",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC12_PROPHET"},
 		},
 	{
 			key = "wh2_dlc12_lzd_cav_ripperdactyl_riders_0",
@@ -5822,6 +6269,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc12_lzd_cav_ripperdactyl_riders_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_DLC12_PROPHET"},
 		},
 	{
 			key = "wh2_dlc13_lzd_mon_razordon_pack_0",
@@ -5835,6 +6283,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc13_lzd_mon_razordon_pack_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC13_HUNTER"},
 		},
 	{
 			key = "wh2_dlc13_lzd_mon_sacred_kroxigors_0",
@@ -5848,6 +6297,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc13_lzd_mon_sacred_kroxigors_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC13_HUNTER"},
 		},
 	{
 			key = "wh2_main_lzd_mon_ancient_stegadon",
@@ -5861,6 +6311,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_lzd_mon_ancient_stegadon",
 				glory_cost = 160,
 			},
+			require_dlc = {"TW_WH2_DLC17_SILENCE","TW_WH2_DLC12_PROPHET","TW_WH2_BASE_GAME","TW_WH2_DLC13_HUNTER"},
 		},
 	{
 			key = "wh2_main_lzd_mon_carnosaur_0",
@@ -5874,6 +6325,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_lzd_mon_carnosaur_0",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH2_DLC17_SILENCE","TW_WH2_DLC12_PROPHET","TW_WH2_BASE_GAME","TW_WH2_DLC13_HUNTER"},
 		},
 	{
 			key = "wh2_dlc12_lzd_mon_ancient_salamander_0",
@@ -5887,6 +6339,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc12_lzd_mon_ancient_salamander_0",
 				glory_cost = 120,
 			},
+			require_dlc = {"TW_WH2_DLC12_PROPHET"},
 		},
 	{
 			key = "wh2_dlc12_lzd_mon_ancient_stegadon_1",
@@ -5900,6 +6353,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc12_lzd_mon_ancient_stegadon_1",
 				glory_cost = 160,
 			},
+			require_dlc = {"TW_WH2_DLC12_PROPHET"},
 		},
 	{
 			key = "wh2_dlc13_lzd_mon_dread_saurian_0",
@@ -5913,6 +6367,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc13_lzd_mon_dread_saurian_0",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH2_DLC13_HUNTER"},
 		},
 	{
 			key = "wh2_dlc13_lzd_mon_dread_saurian_1",
@@ -5926,6 +6381,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc13_lzd_mon_dread_saurian_1",
 				glory_cost = 160,
 			},
+			require_dlc = {"TW_WH2_DLC13_HUNTER"},
 		},
 	{
 			key = "wh2_dlc17_lzd_inf_chameleon_stalkers_0",
@@ -5939,6 +6395,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc17_lzd_inf_chameleon_stalkers_0",
 				glory_cost = 120,
 			},
+			require_dlc = {"TW_WH2_DLC17_SILENCE"},
 		},
 	{
 			key = "wh2_dlc17_lzd_mon_coatl_0",
@@ -5952,6 +6409,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc17_lzd_mon_coatl_0",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH2_DLC17_SILENCE"},
 		},
 	{
 			key = "wh2_dlc17_lzd_mon_troglodon_0",
@@ -5965,84 +6423,91 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc17_lzd_mon_troglodon_0",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH2_DLC17_SILENCE"},
 		},
 	{
 			key = "wh2_main_skv_inf_clanrat_spearmen_0",
 			military_groupings = {"wh2_main_skv","wh2_main_skv_ikit"},
 			category = "melee_infantry",
 			group = "core",
-			weight = 2,
+			weight = 1,
 			tier = nil,
 			cost = 2,
 			ritual = {
 				key = "pttg_ritual_wh2_main_skv_inf_clanrat_spearmen_0",
-				glory_cost = 20,
+				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH2_DLC16_TWILIGHT","TW_WH2_DLC12_PROPHET","TW_WH2_DLC14_SHADOW","TW_WH2_BASE_GAME"},
 		},
 	{
 			key = "wh2_main_skv_inf_clanrat_spearmen_1",
 			military_groupings = {"wh2_main_skv","wh2_main_skv_ikit"},
 			category = "melee_infantry",
 			group = "core",
-			weight = 2,
+			weight = 1,
 			tier = nil,
 			cost = 2,
 			ritual = {
 				key = "pttg_ritual_wh2_main_skv_inf_clanrat_spearmen_1",
-				glory_cost = 20,
+				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH2_DLC16_TWILIGHT","TW_WH2_DLC12_PROPHET","TW_WH2_DLC14_SHADOW","TW_WH2_BASE_GAME"},
 		},
 	{
 			key = "wh2_main_skv_inf_clanrats_0",
 			military_groupings = {"wh2_main_skv","wh2_main_skv_ikit"},
 			category = "melee_infantry",
 			group = "core",
-			weight = 2,
+			weight = 1,
 			tier = nil,
 			cost = 2,
 			ritual = {
 				key = "pttg_ritual_wh2_main_skv_inf_clanrats_0",
-				glory_cost = 20,
+				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH2_DLC16_TWILIGHT","TW_WH2_DLC12_PROPHET","TW_WH2_DLC14_SHADOW","TW_WH2_BASE_GAME"},
 		},
 	{
 			key = "wh2_main_skv_inf_clanrats_1",
 			military_groupings = {"wh2_dlc11_cst_rogue_grey_point_scuttlers","wh2_main_skv","wh2_main_skv_ikit"},
 			category = "melee_infantry",
 			group = "core",
-			weight = 2,
+			weight = 1,
 			tier = nil,
 			cost = 2,
 			ritual = {
 				key = "pttg_ritual_wh2_main_skv_inf_clanrats_1",
-				glory_cost = 20,
+				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH2_DLC16_TWILIGHT","TW_WH2_DLC12_PROPHET","TW_WH2_DLC14_SHADOW","TW_WH2_BASE_GAME"},
 		},
 	{
 			key = "wh2_main_skv_inf_skavenslave_spearmen_0",
 			military_groupings = {"wh2_main_skv","wh2_main_skv_ikit"},
 			category = "melee_infantry",
 			group = "core",
-			weight = 1,
+			weight = 2,
 			tier = nil,
-			cost = 1,
+			cost = 0,
 			ritual = {
 				key = "pttg_ritual_wh2_main_skv_inf_skavenslave_spearmen_0",
-				glory_cost = 10,
+				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH2_DLC16_TWILIGHT","TW_WH2_DLC12_PROPHET","TW_WH2_DLC14_SHADOW","TW_WH2_BASE_GAME"},
 		},
 	{
 			key = "wh2_main_skv_inf_skavenslaves_0",
 			military_groupings = {"wh2_main_skv","wh2_main_skv_ikit"},
 			category = "melee_infantry",
 			group = "core",
-			weight = 1,
+			weight = 2,
 			tier = nil,
-			cost = 1,
+			cost = 0,
 			ritual = {
 				key = "pttg_ritual_wh2_main_skv_inf_skavenslaves_0",
-				glory_cost = 10,
+				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH2_DLC16_TWILIGHT","TW_WH2_DLC12_PROPHET","TW_WH2_DLC14_SHADOW","TW_WH2_BASE_GAME"},
 		},
 	{
 			key = "wh2_main_skv_inf_night_runners_0",
@@ -6056,6 +6521,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_skv_inf_night_runners_0",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH2_DLC16_TWILIGHT","TW_WH2_DLC12_PROPHET","TW_WH2_DLC14_SHADOW","TW_WH2_BASE_GAME"},
 		},
 	{
 			key = "wh2_main_skv_inf_night_runners_1",
@@ -6069,6 +6535,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_skv_inf_night_runners_1",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH2_DLC16_TWILIGHT","TW_WH2_DLC12_PROPHET","TW_WH2_DLC14_SHADOW","TW_WH2_BASE_GAME"},
 		},
 	{
 			key = "wh2_main_skv_inf_skavenslave_slingers_0",
@@ -6082,6 +6549,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_skv_inf_skavenslave_slingers_0",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH2_DLC16_TWILIGHT","TW_WH2_DLC12_PROPHET","TW_WH2_DLC14_SHADOW","TW_WH2_BASE_GAME"},
 		},
 	{
 			key = "wh2_main_skv_mon_rat_ogres",
@@ -6095,6 +6563,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_skv_mon_rat_ogres",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC16_TWILIGHT","TW_WH2_DLC12_PROPHET","TW_WH2_DLC14_SHADOW","TW_WH2_BASE_GAME"},
 		},
 	{
 			key = "wh2_main_skv_inf_death_runners_0",
@@ -6108,6 +6577,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_skv_inf_death_runners_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_DLC16_TWILIGHT","TW_WH2_DLC12_PROPHET","TW_WH2_DLC14_SHADOW","TW_WH2_BASE_GAME"},
 		},
 	{
 			key = "wh2_main_skv_inf_gutter_runner_slingers_0",
@@ -6121,6 +6591,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_skv_inf_gutter_runner_slingers_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_DLC16_TWILIGHT","TW_WH2_DLC12_PROPHET","TW_WH2_DLC14_SHADOW","TW_WH2_BASE_GAME"},
 		},
 	{
 			key = "wh2_main_skv_inf_gutter_runner_slingers_1",
@@ -6134,6 +6605,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_skv_inf_gutter_runner_slingers_1",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_DLC16_TWILIGHT","TW_WH2_DLC12_PROPHET","TW_WH2_DLC14_SHADOW","TW_WH2_BASE_GAME"},
 		},
 	{
 			key = "wh2_main_skv_inf_gutter_runners_0",
@@ -6147,6 +6619,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_skv_inf_gutter_runners_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_DLC16_TWILIGHT","TW_WH2_DLC12_PROPHET","TW_WH2_DLC14_SHADOW","TW_WH2_BASE_GAME"},
 		},
 	{
 			key = "wh2_main_skv_inf_gutter_runners_1",
@@ -6160,6 +6633,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_skv_inf_gutter_runners_1",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_DLC16_TWILIGHT","TW_WH2_DLC12_PROPHET","TW_WH2_DLC14_SHADOW","TW_WH2_BASE_GAME"},
 		},
 	{
 			key = "wh2_main_skv_inf_poison_wind_globadiers",
@@ -6173,6 +6647,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_skv_inf_poison_wind_globadiers",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC16_TWILIGHT","TW_WH2_DLC12_PROPHET","TW_WH2_DLC14_SHADOW","TW_WH2_BASE_GAME"},
 		},
 	{
 			key = "wh2_main_skv_inf_warpfire_thrower",
@@ -6186,6 +6661,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_skv_inf_warpfire_thrower",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_DLC16_TWILIGHT","TW_WH2_DLC12_PROPHET","TW_WH2_DLC14_SHADOW","TW_WH2_BASE_GAME"},
 		},
 	{
 			key = "wh2_main_skv_inf_plague_monk_censer_bearer",
@@ -6199,6 +6675,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_skv_inf_plague_monk_censer_bearer",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC16_TWILIGHT","TW_WH2_DLC12_PROPHET","TW_WH2_DLC14_SHADOW","TW_WH2_BASE_GAME"},
 		},
 	{
 			key = "wh2_main_skv_inf_plague_monks",
@@ -6212,6 +6689,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_skv_inf_plague_monks",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_DLC16_TWILIGHT","TW_WH2_DLC12_PROPHET","TW_WH2_DLC14_SHADOW","TW_WH2_BASE_GAME"},
 		},
 	{
 			key = "wh2_main_skv_inf_stormvermin_0",
@@ -6225,6 +6703,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_skv_inf_stormvermin_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_DLC16_TWILIGHT","TW_WH2_DLC12_PROPHET","TW_WH2_DLC14_SHADOW","TW_WH2_BASE_GAME"},
 		},
 	{
 			key = "wh2_main_skv_inf_stormvermin_1",
@@ -6238,6 +6717,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_skv_inf_stormvermin_1",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_DLC16_TWILIGHT","TW_WH2_DLC12_PROPHET","TW_WH2_DLC14_SHADOW","TW_WH2_BASE_GAME"},
 		},
 	{
 			key = "wh2_dlc12_skv_inf_ratling_gun_0",
@@ -6251,6 +6731,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc12_skv_inf_ratling_gun_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_DLC12_PROPHET"},
 		},
 	{
 			key = "wh2_dlc12_skv_inf_warplock_jezzails_0",
@@ -6264,6 +6745,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc12_skv_inf_warplock_jezzails_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC12_PROPHET"},
 		},
 	{
 			key = "wh2_dlc12_skv_veh_doom_flayer_0",
@@ -6277,6 +6759,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc12_skv_veh_doom_flayer_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC12_PROPHET"},
 		},
 	{
 			key = "wh2_dlc14_skv_inf_eshin_triads_0",
@@ -6290,6 +6773,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc14_skv_inf_eshin_triads_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_DLC14_SHADOW"},
 		},
 	{
 			key = "wh2_dlc14_skv_inf_poison_wind_mortar_0",
@@ -6303,6 +6787,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc14_skv_inf_poison_wind_mortar_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC14_SHADOW"},
 		},
 	{
 			key = "wh2_dlc14_skv_inf_warp_grinder_0",
@@ -6316,6 +6801,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc14_skv_inf_warp_grinder_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_DLC14_SHADOW"},
 		},
 	{
 			key = "wh2_dlc16_skv_mon_rat_ogre_mutant",
@@ -6329,6 +6815,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc16_skv_mon_rat_ogre_mutant",
 				glory_cost = 95,
 			},
+			require_dlc = {"TW_WH2_DLC16_TWILIGHT"},
 		},
 	{
 			key = "wh2_dlc16_skv_mon_wolf_rats_0",
@@ -6342,6 +6829,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc16_skv_mon_wolf_rats_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_DLC16_TWILIGHT"},
 		},
 	{
 			key = "wh2_dlc16_skv_mon_wolf_rats_1",
@@ -6355,6 +6843,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc16_skv_mon_wolf_rats_1",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_DLC16_TWILIGHT"},
 		},
 	{
 			key = "wh2_main_skv_art_plagueclaw_catapult",
@@ -6368,6 +6857,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_skv_art_plagueclaw_catapult",
 				glory_cost = 120,
 			},
+			require_dlc = {"TW_WH2_DLC16_TWILIGHT","TW_WH2_DLC12_PROPHET","TW_WH2_DLC14_SHADOW","TW_WH2_BASE_GAME"},
 		},
 	{
 			key = "wh2_main_skv_art_warp_lightning_cannon",
@@ -6381,6 +6871,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_skv_art_warp_lightning_cannon",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH2_DLC16_TWILIGHT","TW_WH2_DLC12_PROPHET","TW_WH2_DLC14_SHADOW","TW_WH2_BASE_GAME"},
 		},
 	{
 			key = "wh2_main_skv_veh_doomwheel",
@@ -6394,6 +6885,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_skv_veh_doomwheel",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH2_DLC16_TWILIGHT","TW_WH2_DLC12_PROPHET","TW_WH2_DLC14_SHADOW","TW_WH2_BASE_GAME"},
 		},
 	{
 			key = "wh2_main_skv_mon_hell_pit_abomination",
@@ -6407,6 +6899,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_skv_mon_hell_pit_abomination",
 				glory_cost = 160,
 			},
+			require_dlc = {"TW_WH2_DLC16_TWILIGHT","TW_WH2_DLC12_PROPHET","TW_WH2_DLC14_SHADOW","TW_WH2_BASE_GAME"},
 		},
 	{
 			key = "wh2_main_skv_inf_death_globe_bombardiers",
@@ -6420,6 +6913,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_skv_inf_death_globe_bombardiers",
 				glory_cost = 120,
 			},
+			require_dlc = {"TW_WH2_DLC16_TWILIGHT","TW_WH2_DLC12_PROPHET","TW_WH2_DLC14_SHADOW","TW_WH2_BASE_GAME"},
 		},
 	{
 			key = "wh2_dlc16_skv_mon_brood_horror_0",
@@ -6433,6 +6927,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc16_skv_mon_brood_horror_0",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH2_DLC16_TWILIGHT"},
 		},
 	{
 			key = "wh2_main_hef_inf_archers_0",
@@ -6446,6 +6941,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_hef_inf_archers_0",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH2_DLC15_WARDEN","TW_WH2_BASE_GAME","TW_WH2_DLC10_QUEEN_CRONE"},
 		},
 	{
 			key = "wh2_main_hef_inf_archers_1",
@@ -6459,6 +6955,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_hef_inf_archers_1",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH2_DLC15_WARDEN","TW_WH2_BASE_GAME","TW_WH2_DLC10_QUEEN_CRONE"},
 		},
 	{
 			key = "wh2_main_hef_inf_lothern_sea_guard_0",
@@ -6472,6 +6969,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_hef_inf_lothern_sea_guard_0",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH2_DLC15_WARDEN","TW_WH2_BASE_GAME","TW_WH2_DLC10_QUEEN_CRONE"},
 		},
 	{
 			key = "wh2_main_hef_inf_lothern_sea_guard_1",
@@ -6485,6 +6983,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_hef_inf_lothern_sea_guard_1",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH2_DLC15_WARDEN","TW_WH2_BASE_GAME","TW_WH2_DLC10_QUEEN_CRONE"},
 		},
 	{
 			key = "wh2_main_hef_inf_gate_guard",
@@ -6498,6 +6997,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_hef_inf_gate_guard",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH2_DLC15_WARDEN","TW_WH2_BASE_GAME","TW_WH2_DLC10_QUEEN_CRONE"},
 		},
 	{
 			key = "wh2_main_hef_cav_ellyrian_reavers_1",
@@ -6511,6 +7011,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_hef_cav_ellyrian_reavers_1",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH2_DLC15_WARDEN","TW_WH2_BASE_GAME","TW_WH2_DLC10_QUEEN_CRONE"},
 		},
 	{
 			key = "wh2_main_hef_inf_spearmen_0",
@@ -6524,6 +7025,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_hef_inf_spearmen_0",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH2_DLC15_WARDEN","TW_WH2_BASE_GAME","TW_WH2_DLC10_QUEEN_CRONE"},
 		},
 	{
 			key = "wh2_main_hef_cav_ellyrian_reavers_0",
@@ -6537,6 +7039,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_hef_cav_ellyrian_reavers_0",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH2_DLC15_WARDEN","TW_WH2_BASE_GAME","TW_WH2_DLC10_QUEEN_CRONE"},
 		},
 	{
 			key = "wh2_main_hef_cav_silver_helms_0",
@@ -6550,6 +7053,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_hef_cav_silver_helms_0",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH2_DLC15_WARDEN","TW_WH2_BASE_GAME","TW_WH2_DLC10_QUEEN_CRONE"},
 		},
 	{
 			key = "wh2_main_hef_cav_silver_helms_1",
@@ -6563,6 +7067,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_hef_cav_silver_helms_1",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH2_DLC15_WARDEN","TW_WH2_BASE_GAME","TW_WH2_DLC10_QUEEN_CRONE"},
 		},
 	{
 			key = "wh2_dlc15_hef_inf_rangers_0",
@@ -6576,6 +7081,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc15_hef_inf_rangers_0",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH2_DLC15_WARDEN"},
 		},
 	{
 			key = "wh2_main_hef_inf_phoenix_guard",
@@ -6589,6 +7095,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_hef_inf_phoenix_guard",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC15_WARDEN","TW_WH2_BASE_GAME","TW_WH2_DLC10_QUEEN_CRONE"},
 		},
 	{
 			key = "wh2_main_hef_inf_swordmasters_of_hoeth_0",
@@ -6602,6 +7109,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_hef_inf_swordmasters_of_hoeth_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC15_WARDEN","TW_WH2_BASE_GAME","TW_WH2_DLC10_QUEEN_CRONE"},
 		},
 	{
 			key = "wh2_main_hef_inf_white_lions_of_chrace_0",
@@ -6615,6 +7123,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_hef_inf_white_lions_of_chrace_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_DLC15_WARDEN","TW_WH2_BASE_GAME","TW_WH2_DLC10_QUEEN_CRONE"},
 		},
 	{
 			key = "wh2_main_hef_cav_dragon_princes",
@@ -6628,6 +7137,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_hef_cav_dragon_princes",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC15_WARDEN","TW_WH2_BASE_GAME","TW_WH2_DLC10_QUEEN_CRONE"},
 		},
 	{
 			key = "wh2_main_hef_cav_ithilmar_chariot",
@@ -6641,6 +7151,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_hef_cav_ithilmar_chariot",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC15_WARDEN","TW_WH2_BASE_GAME","TW_WH2_DLC10_QUEEN_CRONE"},
 		},
 	{
 			key = "wh2_main_hef_cav_tiranoc_chariot",
@@ -6654,6 +7165,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_hef_cav_tiranoc_chariot",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_DLC15_WARDEN","TW_WH2_BASE_GAME","TW_WH2_DLC10_QUEEN_CRONE"},
 		},
 	{
 			key = "wh2_main_hef_mon_great_eagle",
@@ -6667,6 +7179,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_hef_mon_great_eagle",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC15_WARDEN","TW_WH2_BASE_GAME","TW_WH2_DLC10_QUEEN_CRONE"},
 		},
 	{
 			key = "wh2_dlc10_hef_inf_shadow_warriors_0",
@@ -6680,6 +7193,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc10_hef_inf_shadow_warriors_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE"},
 		},
 	{
 			key = "wh2_dlc15_hef_inf_silverin_guard_0",
@@ -6693,6 +7207,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc15_hef_inf_silverin_guard_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_DLC15_WARDEN"},
 		},
 	{
 			key = "wh2_dlc15_hef_mon_war_lions_of_chrace_0",
@@ -6706,6 +7221,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc15_hef_mon_war_lions_of_chrace_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_DLC15_WARDEN"},
 		},
 	{
 			key = "wh2_dlc15_hef_veh_lion_chariot_of_chrace_0",
@@ -6719,6 +7235,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc15_hef_veh_lion_chariot_of_chrace_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC15_WARDEN"},
 		},
 	{
 			key = "wh2_main_hef_art_eagle_claw_bolt_thrower",
@@ -6732,6 +7249,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_hef_art_eagle_claw_bolt_thrower",
 				glory_cost = 120,
 			},
+			require_dlc = {"TW_WH2_DLC15_WARDEN","TW_WH2_BASE_GAME","TW_WH2_DLC10_QUEEN_CRONE"},
 		},
 	{
 			key = "wh2_main_hef_mon_moon_dragon",
@@ -6745,6 +7263,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_hef_mon_moon_dragon",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH2_DLC15_WARDEN","TW_WH2_BASE_GAME","TW_WH2_DLC10_QUEEN_CRONE"},
 		},
 	{
 			key = "wh2_main_hef_mon_phoenix_flamespyre",
@@ -6758,6 +7277,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_hef_mon_phoenix_flamespyre",
 				glory_cost = 120,
 			},
+			require_dlc = {"TW_WH2_DLC15_WARDEN","TW_WH2_BASE_GAME","TW_WH2_DLC10_QUEEN_CRONE"},
 		},
 	{
 			key = "wh2_main_hef_mon_phoenix_frostheart",
@@ -6771,6 +7291,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_hef_mon_phoenix_frostheart",
 				glory_cost = 120,
 			},
+			require_dlc = {"TW_WH2_DLC15_WARDEN","TW_WH2_BASE_GAME","TW_WH2_DLC10_QUEEN_CRONE"},
 		},
 	{
 			key = "wh2_main_hef_mon_star_dragon",
@@ -6784,6 +7305,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_hef_mon_star_dragon",
 				glory_cost = 160,
 			},
+			require_dlc = {"TW_WH2_DLC15_WARDEN","TW_WH2_BASE_GAME","TW_WH2_DLC10_QUEEN_CRONE"},
 		},
 	{
 			key = "wh2_main_hef_mon_sun_dragon",
@@ -6797,6 +7319,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_hef_mon_sun_dragon",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH2_DLC15_WARDEN","TW_WH2_BASE_GAME","TW_WH2_DLC10_QUEEN_CRONE"},
 		},
 	{
 			key = "wh2_dlc10_hef_inf_sisters_of_avelorn_0",
@@ -6810,6 +7333,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc10_hef_inf_sisters_of_avelorn_0",
 				glory_cost = 120,
 			},
+			require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE"},
 		},
 	{
 			key = "wh2_dlc15_hef_mon_arcane_phoenix_0",
@@ -6823,6 +7347,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc15_hef_mon_arcane_phoenix_0",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH2_DLC15_WARDEN"},
 		},
 	{
 			key = "wh2_dlc10_hef_inf_dryads_0",
@@ -6836,6 +7361,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc10_hef_inf_dryads_0",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE"},
 		},
 	{
 			key = "wh2_dlc10_hef_mon_treekin_0",
@@ -6849,6 +7375,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc10_hef_mon_treekin_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE"},
 		},
 	{
 			key = "wh2_dlc10_hef_inf_shadow_walkers_0",
@@ -6862,6 +7389,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc10_hef_inf_shadow_walkers_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC10_ALITH_ANAR_FREE","TW_WH2_DLC10_QUEEN_CRONE","TW_WH2_BASE_GAME","TW_WH2_DLC15_WARDEN"},
 		},
 	{
 			key = "wh2_dlc15_hef_inf_mistwalkers_faithbearers_0",
@@ -6875,6 +7403,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc15_hef_inf_mistwalkers_faithbearers_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_DLC15_WARDEN"},
 		},
 	{
 			key = "wh2_dlc15_hef_inf_mistwalkers_sentinels_0",
@@ -6888,6 +7417,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc15_hef_inf_mistwalkers_sentinels_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_DLC15_WARDEN"},
 		},
 	{
 			key = "wh2_dlc15_hef_inf_mistwalkers_skyhawks_0",
@@ -6901,6 +7431,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc15_hef_inf_mistwalkers_skyhawks_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_DLC15_WARDEN"},
 		},
 	{
 			key = "wh2_dlc15_hef_inf_mistwalkers_spireguard_0",
@@ -6914,6 +7445,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc15_hef_inf_mistwalkers_spireguard_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_DLC15_WARDEN"},
 		},
 	{
 			key = "wh2_dlc10_hef_mon_treeman_0",
@@ -6927,6 +7459,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc10_hef_mon_treeman_0",
 				glory_cost = 160,
 			},
+			require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE"},
 		},
 	{
 			key = "wh2_dlc15_hef_inf_mistwalkers_griffon_knights_0",
@@ -6940,6 +7473,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc15_hef_inf_mistwalkers_griffon_knights_0",
 				glory_cost = 160,
 			},
+			require_dlc = {"TW_WH2_DLC15_WARDEN"},
 		},
 	{
 			key = "wh2_main_def_inf_black_ark_corsairs_0",
@@ -6953,6 +7487,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_def_inf_black_ark_corsairs_0",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE","TW_WH2_BASE_GAME","TW_WH2_DLC14_SHADOW"},
 		},
 	{
 			key = "wh2_main_def_inf_black_ark_corsairs_1",
@@ -6966,6 +7501,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_def_inf_black_ark_corsairs_1",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE","TW_WH2_BASE_GAME","TW_WH2_DLC14_SHADOW"},
 		},
 	{
 			key = "wh2_main_def_inf_darkshards_0",
@@ -6979,6 +7515,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_def_inf_darkshards_0",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE","TW_WH2_BASE_GAME","TW_WH2_DLC14_SHADOW"},
 		},
 	{
 			key = "wh2_main_def_inf_darkshards_1",
@@ -6992,6 +7529,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_def_inf_darkshards_1",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE","TW_WH2_BASE_GAME","TW_WH2_DLC14_SHADOW"},
 		},
 	{
 			key = "wh2_main_def_cav_dark_riders_2",
@@ -7005,6 +7543,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_def_cav_dark_riders_2",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE","TW_WH2_BASE_GAME","TW_WH2_DLC14_SHADOW"},
 		},
 	{
 			key = "wh2_main_def_inf_bleakswords_0",
@@ -7018,6 +7557,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_def_inf_bleakswords_0",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE","TW_WH2_BASE_GAME","TW_WH2_DLC14_SHADOW"},
 		},
 	{
 			key = "wh2_main_def_inf_dreadspears_0",
@@ -7031,6 +7571,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_def_inf_dreadspears_0",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE","TW_WH2_BASE_GAME","TW_WH2_DLC14_SHADOW"},
 		},
 	{
 			key = "wh2_main_def_inf_witch_elves_0",
@@ -7044,6 +7585,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_def_inf_witch_elves_0",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE","TW_WH2_BASE_GAME","TW_WH2_DLC14_SHADOW"},
 		},
 	{
 			key = "wh2_main_def_cav_dark_riders_0",
@@ -7057,6 +7599,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_def_cav_dark_riders_0",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE","TW_WH2_BASE_GAME","TW_WH2_DLC14_SHADOW"},
 		},
 	{
 			key = "wh2_main_def_cav_dark_riders_1",
@@ -7070,6 +7613,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_def_cav_dark_riders_1",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE","TW_WH2_BASE_GAME","TW_WH2_DLC14_SHADOW"},
 		},
 	{
 			key = "wh2_main_def_inf_harpies",
@@ -7083,6 +7627,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_def_inf_harpies",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE","TW_WH2_BASE_GAME","TW_WH2_DLC14_SHADOW"},
 		},
 	{
 			key = "wh2_dlc10_def_mon_feral_manticore_0",
@@ -7096,6 +7641,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc10_def_mon_feral_manticore_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE","TW_WH2_BASE_GAME","TW_WH2_DLC14_SHADOW"},
 		},
 	{
 			key = "wh2_main_def_inf_shades_0",
@@ -7109,6 +7655,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_def_inf_shades_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE","TW_WH2_BASE_GAME","TW_WH2_DLC14_SHADOW"},
 		},
 	{
 			key = "wh2_main_def_inf_shades_1",
@@ -7122,6 +7669,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_def_inf_shades_1",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE","TW_WH2_BASE_GAME","TW_WH2_DLC14_SHADOW"},
 		},
 	{
 			key = "wh2_main_def_inf_shades_2",
@@ -7135,6 +7683,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_def_inf_shades_2",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE","TW_WH2_BASE_GAME","TW_WH2_DLC14_SHADOW"},
 		},
 	{
 			key = "wh2_main_def_inf_black_guard_0",
@@ -7148,6 +7697,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_def_inf_black_guard_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE","TW_WH2_BASE_GAME","TW_WH2_DLC14_SHADOW"},
 		},
 	{
 			key = "wh2_main_def_cav_cold_one_knights_0",
@@ -7161,6 +7711,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_def_cav_cold_one_knights_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE","TW_WH2_BASE_GAME","TW_WH2_DLC14_SHADOW"},
 		},
 	{
 			key = "wh2_main_def_cav_cold_one_knights_1",
@@ -7174,6 +7725,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_def_cav_cold_one_knights_1",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE","TW_WH2_BASE_GAME","TW_WH2_DLC14_SHADOW"},
 		},
 	{
 			key = "wh2_main_def_inf_har_ganeth_executioners_0",
@@ -7187,6 +7739,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_def_inf_har_ganeth_executioners_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE","TW_WH2_BASE_GAME","TW_WH2_DLC14_SHADOW"},
 		},
 	{
 			key = "wh2_main_def_cav_cold_one_chariot",
@@ -7200,6 +7753,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_def_cav_cold_one_chariot",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE","TW_WH2_BASE_GAME","TW_WH2_DLC14_SHADOW"},
 		},
 	{
 			key = "wh2_dlc10_def_cav_doomfire_warlocks_0",
@@ -7213,6 +7767,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc10_def_cav_doomfire_warlocks_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE"},
 		},
 	{
 			key = "wh2_dlc14_def_cav_scourgerunner_chariot_0",
@@ -7226,6 +7781,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc14_def_cav_scourgerunner_chariot_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC14_SHADOW"},
 		},
 	{
 			key = "wh2_main_def_art_reaper_bolt_thrower",
@@ -7239,6 +7795,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_def_art_reaper_bolt_thrower",
 				glory_cost = 120,
 			},
+			require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE","TW_WH2_BASE_GAME","TW_WH2_DLC14_SHADOW"},
 		},
 	{
 			key = "wh2_main_def_mon_black_dragon",
@@ -7252,6 +7809,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_def_mon_black_dragon",
 				glory_cost = 160,
 			},
+			require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE","TW_WH2_BASE_GAME","TW_WH2_DLC14_SHADOW"},
 		},
 	{
 			key = "wh2_main_def_mon_war_hydra",
@@ -7265,6 +7823,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_main_def_mon_war_hydra",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE","TW_WH2_BASE_GAME","TW_WH2_DLC14_SHADOW"},
 		},
 	{
 			key = "wh2_dlc10_def_mon_kharibdyss_0",
@@ -7278,6 +7837,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc10_def_mon_kharibdyss_0",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE"},
 		},
 	{
 			key = "wh2_dlc14_def_mon_bloodwrack_medusa_0",
@@ -7291,6 +7851,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc14_def_mon_bloodwrack_medusa_0",
 				glory_cost = 120,
 			},
+			require_dlc = {"TW_WH2_DLC14_SHADOW"},
 		},
 	{
 			key = "wh2_dlc14_def_veh_bloodwrack_shrine_0",
@@ -7304,6 +7865,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc14_def_veh_bloodwrack_shrine_0",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH2_DLC14_SHADOW"},
 		},
 	{
 			key = "wh2_twa03_def_mon_wolves_0",
@@ -7317,6 +7879,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_twa03_def_mon_wolves_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_DLC14_SHADOW","TW_WH2_DLC10_QUEEN_CRONE","TW_WH2_TWA_03_RAKARTH","TW_WH2_BASE_GAME"},
 		},
 	{
 			key = "wh2_twa03_def_mon_war_mammoth_0",
@@ -7330,6 +7893,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_twa03_def_mon_war_mammoth_0",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH2_DLC14_SHADOW","TW_WH2_DLC10_QUEEN_CRONE","TW_WH2_TWA_03_RAKARTH","TW_WH2_BASE_GAME"},
 		},
 	{
 			key = "wh2_twa03_grn_mon_wyvern_0",
@@ -7343,6 +7907,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_twa03_grn_mon_wyvern_0",
 				glory_cost = 120,
 			},
+			require_dlc = {"TW_WH2_DLC14_SHADOW","TW_WH2_DLC10_QUEEN_CRONE","TW_WH2_TWA_03_RAKARTH","TW_WH2_BASE_GAME"},
 		},
 	{
 			key = "wh3_main_monster_feral_bears",
@@ -7356,6 +7921,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_monster_feral_bears",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH3_SHADOWS_OF_CHANGE"},
 		},
 	{
 			key = "wh3_main_monster_feral_ice_bears",
@@ -7369,6 +7935,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_main_monster_feral_ice_bears",
 				glory_cost = 120,
 			},
+			require_dlc = {"TW_WH3_SHADOWS_OF_CHANGE"},
 		},
 	{
 			key = "wh2_dlc10_def_inf_sisters_of_slaughter",
@@ -7382,6 +7949,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc10_def_inf_sisters_of_slaughter",
 				glory_cost = 120,
 			},
+			require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE"},
 		},
 	{
 			key = "wh2_dlc09_tmb_inf_nehekhara_warriors_0",
@@ -7395,6 +7963,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc09_tmb_inf_nehekhara_warriors_0",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH2_TOMB_KINGS"},
 		},
 	{
 			key = "wh2_dlc09_tmb_inf_skeleton_archers_0",
@@ -7408,6 +7977,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc09_tmb_inf_skeleton_archers_0",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH2_TOMB_KINGS"},
 		},
 	{
 			key = "wh2_dlc09_tmb_inf_skeleton_spearmen_0",
@@ -7421,6 +7991,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc09_tmb_inf_skeleton_spearmen_0",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH2_TOMB_KINGS"},
 		},
 	{
 			key = "wh2_dlc09_tmb_inf_skeleton_warriors_0",
@@ -7434,6 +8005,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc09_tmb_inf_skeleton_warriors_0",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH2_TOMB_KINGS"},
 		},
 	{
 			key = "wh2_dlc09_tmb_veh_skeleton_archer_chariot_0",
@@ -7447,6 +8019,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc09_tmb_veh_skeleton_archer_chariot_0",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH2_TOMB_KINGS"},
 		},
 	{
 			key = "wh2_dlc09_tmb_veh_skeleton_chariot_0",
@@ -7460,6 +8033,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc09_tmb_veh_skeleton_chariot_0",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH2_TOMB_KINGS"},
 		},
 	{
 			key = "wh2_dlc09_tmb_cav_skeleton_horsemen_0",
@@ -7473,6 +8047,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc09_tmb_cav_skeleton_horsemen_0",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH2_TOMB_KINGS"},
 		},
 	{
 			key = "wh2_dlc09_tmb_cav_skeleton_horsemen_archers_0",
@@ -7486,6 +8061,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc09_tmb_cav_skeleton_horsemen_archers_0",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH2_TOMB_KINGS"},
 		},
 	{
 			key = "wh2_dlc09_tmb_inf_tomb_guard_0",
@@ -7499,6 +8075,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc09_tmb_inf_tomb_guard_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_TOMB_KINGS"},
 		},
 	{
 			key = "wh2_dlc09_tmb_inf_tomb_guard_1",
@@ -7512,6 +8089,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc09_tmb_inf_tomb_guard_1",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_TOMB_KINGS"},
 		},
 	{
 			key = "wh2_dlc09_tmb_mon_carrion_0",
@@ -7525,6 +8103,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc09_tmb_mon_carrion_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_TOMB_KINGS"},
 		},
 	{
 			key = "wh2_dlc09_tmb_mon_sepulchral_stalkers_0",
@@ -7538,6 +8117,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc09_tmb_mon_sepulchral_stalkers_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_TOMB_KINGS"},
 		},
 	{
 			key = "wh2_dlc09_tmb_mon_ushabti_0",
@@ -7551,6 +8131,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc09_tmb_mon_ushabti_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_TOMB_KINGS"},
 		},
 	{
 			key = "wh2_dlc09_tmb_mon_ushabti_1",
@@ -7564,6 +8145,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc09_tmb_mon_ushabti_1",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_TOMB_KINGS"},
 		},
 	{
 			key = "wh2_dlc09_tmb_cav_necropolis_knights_0",
@@ -7577,6 +8159,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc09_tmb_cav_necropolis_knights_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_TOMB_KINGS"},
 		},
 	{
 			key = "wh2_dlc09_tmb_cav_necropolis_knights_1",
@@ -7590,6 +8173,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc09_tmb_cav_necropolis_knights_1",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_TOMB_KINGS"},
 		},
 	{
 			key = "wh2_dlc09_tmb_cav_nehekhara_horsemen_0",
@@ -7603,6 +8187,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc09_tmb_cav_nehekhara_horsemen_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_TOMB_KINGS"},
 		},
 	{
 			key = "wh2_dlc09_tmb_mon_tomb_scorpion_0",
@@ -7616,6 +8201,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc09_tmb_mon_tomb_scorpion_0",
 				glory_cost = 120,
 			},
+			require_dlc = {"TW_WH2_TOMB_KINGS"},
 		},
 	{
 			key = "wh2_dlc09_tmb_mon_heirotitan_0",
@@ -7629,6 +8215,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc09_tmb_mon_heirotitan_0",
 				glory_cost = 160,
 			},
+			require_dlc = {"TW_WH2_TOMB_KINGS"},
 		},
 	{
 			key = "wh2_dlc09_tmb_mon_necrosphinx_0",
@@ -7642,6 +8229,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc09_tmb_mon_necrosphinx_0",
 				glory_cost = 160,
 			},
+			require_dlc = {"TW_WH2_TOMB_KINGS"},
 		},
 	{
 			key = "wh2_dlc09_tmb_art_casket_of_souls_0",
@@ -7655,6 +8243,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc09_tmb_art_casket_of_souls_0",
 				glory_cost = 120,
 			},
+			require_dlc = {"TW_WH2_TOMB_KINGS"},
 		},
 	{
 			key = "wh2_dlc09_tmb_art_screaming_skull_catapult_0",
@@ -7668,6 +8257,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc09_tmb_art_screaming_skull_catapult_0",
 				glory_cost = 120,
 			},
+			require_dlc = {"TW_WH2_TOMB_KINGS"},
 		},
 	{
 			key = "wh2_dlc09_tmb_veh_khemrian_warsphinx_0",
@@ -7681,6 +8271,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc09_tmb_veh_khemrian_warsphinx_0",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH2_TOMB_KINGS"},
 		},
 	{
 			key = "wh2_pro06_tmb_mon_bone_giant_0",
@@ -7694,6 +8285,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_pro06_tmb_mon_bone_giant_0",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH2_TOMB_KINGS","TW_WH2_BONE_GIANT_FREE"},
 		},
 	{
 			key = "wh2_dlc09_tmb_mon_dire_wolves",
@@ -7707,6 +8299,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc09_tmb_mon_dire_wolves",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH2_TOMB_KINGS"},
 		},
 	{
 			key = "wh2_dlc09_tmb_mon_fell_bats",
@@ -7720,6 +8313,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc09_tmb_mon_fell_bats",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH2_TOMB_KINGS"},
 		},
 	{
 			key = "wh2_dlc09_tmb_inf_crypt_ghouls",
@@ -7733,6 +8327,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc09_tmb_inf_crypt_ghouls",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH2_TOMB_KINGS"},
 		},
 	{
 			key = "wh2_dlc09_tmb_cav_hexwraiths",
@@ -7746,6 +8341,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc09_tmb_cav_hexwraiths",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_TOMB_KINGS"},
 		},
 	{
 			key = "wh2_dlc11_cst_inf_sartosa_free_company_0",
@@ -7759,6 +8355,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc11_cst_inf_sartosa_free_company_0",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH2_DLC11_VAMPIRE_COAST"},
 		},
 	{
 			key = "wh2_dlc11_cst_inf_sartosa_militia_0",
@@ -7772,6 +8369,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc11_cst_inf_sartosa_militia_0",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH2_DLC11_VAMPIRE_COAST"},
 		},
 	{
 			key = "wh2_dlc11_cst_inf_zombie_deckhands_mob_0",
@@ -7785,6 +8383,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc11_cst_inf_zombie_deckhands_mob_0",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH2_DLC11_VAMPIRE_COAST"},
 		},
 	{
 			key = "wh2_dlc11_cst_inf_zombie_deckhands_mob_1",
@@ -7798,6 +8397,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc11_cst_inf_zombie_deckhands_mob_1",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH2_DLC11_VAMPIRE_COAST"},
 		},
 	{
 			key = "wh2_dlc11_cst_inf_zombie_gunnery_mob_0",
@@ -7811,6 +8411,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc11_cst_inf_zombie_gunnery_mob_0",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH2_DLC11_VAMPIRE_COAST"},
 		},
 	{
 			key = "wh2_dlc11_cst_inf_zombie_gunnery_mob_1",
@@ -7819,11 +8420,12 @@ mercenaries = {
 			group = "core",
 			weight = 2,
 			tier = nil,
-			cost = 2,
+			cost = 1,
 			ritual = {
 				key = "pttg_ritual_wh2_dlc11_cst_inf_zombie_gunnery_mob_1",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH2_DLC11_VAMPIRE_COAST"},
 		},
 	{
 			key = "wh2_dlc11_cst_inf_zombie_gunnery_mob_2",
@@ -7832,11 +8434,12 @@ mercenaries = {
 			group = "core",
 			weight = 2,
 			tier = nil,
-			cost = 2,
+			cost = 1,
 			ritual = {
 				key = "pttg_ritual_wh2_dlc11_cst_inf_zombie_gunnery_mob_2",
 				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH2_DLC11_VAMPIRE_COAST"},
 		},
 	{
 			key = "wh2_dlc11_cst_inf_zombie_gunnery_mob_3",
@@ -7845,11 +8448,12 @@ mercenaries = {
 			group = "core",
 			weight = 3,
 			tier = nil,
-			cost = 2,
+			cost = 1,
 			ritual = {
 				key = "pttg_ritual_wh2_dlc11_cst_inf_zombie_gunnery_mob_3",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH2_DLC11_VAMPIRE_COAST"},
 		},
 	{
 			key = "wh2_dlc11_cst_mon_bloated_corpse_0",
@@ -7863,6 +8467,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc11_cst_mon_bloated_corpse_0",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH3_SHADOWS_OF_CHANGE"},
 		},
 	{
 			key = "wh2_dlc11_cst_mon_fell_bats",
@@ -7876,6 +8481,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc11_cst_mon_fell_bats",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH2_DLC11_VAMPIRE_COAST"},
 		},
 	{
 			key = "wh2_dlc11_cst_mon_scurvy_dogs",
@@ -7889,6 +8495,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc11_cst_mon_scurvy_dogs",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH2_DLC11_VAMPIRE_COAST"},
 		},
 	{
 			key = "wh2_dlc11_cst_art_carronade",
@@ -7902,6 +8509,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc11_cst_art_carronade",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC11_VAMPIRE_COAST"},
 		},
 	{
 			key = "wh2_dlc11_cst_art_mortar",
@@ -7915,6 +8523,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc11_cst_art_mortar",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC11_VAMPIRE_COAST"},
 		},
 	{
 			key = "wh2_dlc11_cst_cav_deck_droppers_0",
@@ -7928,6 +8537,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc11_cst_cav_deck_droppers_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_DLC11_VAMPIRE_COAST"},
 		},
 	{
 			key = "wh2_dlc11_cst_cav_deck_droppers_1",
@@ -7941,6 +8551,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc11_cst_cav_deck_droppers_1",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_DLC11_VAMPIRE_COAST"},
 		},
 	{
 			key = "wh2_dlc11_cst_cav_deck_droppers_2",
@@ -7954,6 +8565,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc11_cst_cav_deck_droppers_2",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_DLC11_VAMPIRE_COAST"},
 		},
 	{
 			key = "wh2_dlc11_cst_inf_deck_gunners_0",
@@ -7967,6 +8579,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc11_cst_inf_deck_gunners_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_DLC11_VAMPIRE_COAST"},
 		},
 	{
 			key = "wh2_dlc11_cst_inf_depth_guard_0",
@@ -7980,6 +8593,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc11_cst_inf_depth_guard_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC11_VAMPIRE_COAST"},
 		},
 	{
 			key = "wh2_dlc11_cst_inf_depth_guard_1",
@@ -7993,6 +8607,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc11_cst_inf_depth_guard_1",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC11_VAMPIRE_COAST"},
 		},
 	{
 			key = "wh2_dlc11_cst_inf_syreens",
@@ -8006,6 +8621,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc11_cst_inf_syreens",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC11_VAMPIRE_COAST"},
 		},
 	{
 			key = "wh2_dlc11_cst_mon_animated_hulks_0",
@@ -8019,6 +8635,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc11_cst_mon_animated_hulks_0",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH2_DLC11_VAMPIRE_COAST"},
 		},
 	{
 			key = "wh2_dlc11_cst_mon_rotting_prometheans_0",
@@ -8032,6 +8649,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc11_cst_mon_rotting_prometheans_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC11_VAMPIRE_COAST"},
 		},
 	{
 			key = "wh2_dlc11_cst_mon_rotting_prometheans_gunnery_mob_0",
@@ -8045,6 +8663,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc11_cst_mon_rotting_prometheans_gunnery_mob_0",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH2_DLC11_VAMPIRE_COAST"},
 		},
 	{
 			key = "wh2_dlc11_cst_mon_mournguls_0",
@@ -8058,6 +8677,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc11_cst_mon_mournguls_0",
 				glory_cost = 120,
 			},
+			require_dlc = {"TW_WH2_DLC11_VAMPIRE_COAST"},
 		},
 	{
 			key = "wh2_dlc11_cst_mon_necrofex_colossus_0",
@@ -8071,6 +8691,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc11_cst_mon_necrofex_colossus_0",
 				glory_cost = 160,
 			},
+			require_dlc = {"TW_WH2_DLC11_VAMPIRE_COAST"},
 		},
 	{
 			key = "wh2_dlc11_cst_mon_rotting_leviathan_0",
@@ -8084,6 +8705,7 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc11_cst_mon_rotting_leviathan_0",
 				glory_cost = 160,
 			},
+			require_dlc = {"TW_WH2_DLC11_VAMPIRE_COAST"},
 		},
 	{
 			key = "wh2_dlc11_cst_mon_terrorgheist",
@@ -8097,97 +8719,105 @@ mercenaries = {
 				key = "pttg_ritual_wh2_dlc11_cst_mon_terrorgheist",
 				glory_cost = 160,
 			},
+			require_dlc = {"TW_WH2_DLC11_VAMPIRE_COAST"},
 		},
 	{
 			key = "wh3_dlc23_chd_inf_chaos_dwarf_blunderbusses",
 			military_groupings = {"wh3_dlc23_group_chaos_dwarfs"},
 			category = "missile_infantry",
 			group = "core",
-			weight = 3,
+			weight = 2,
 			tier = nil,
-			cost = 3,
+			cost = 2,
 			ritual = {
 				key = "pttg_ritual_wh3_dlc23_chd_inf_chaos_dwarf_blunderbusses",
-				glory_cost = 30,
+				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH3_CHAOS_DWARFS"},
 		},
 	{
 			key = "wh3_dlc23_chd_inf_chaos_dwarf_warriors",
 			military_groupings = {"wh3_dlc23_group_chaos_dwarfs"},
 			category = "melee_infantry",
 			group = "core",
-			weight = 2,
+			weight = 1,
 			tier = nil,
-			cost = 3,
+			cost = 2,
 			ritual = {
 				key = "pttg_ritual_wh3_dlc23_chd_inf_chaos_dwarf_warriors",
-				glory_cost = 20,
+				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH3_CHAOS_DWARFS"},
 		},
 	{
 			key = "wh3_dlc23_chd_inf_chaos_dwarf_warriors_great_weapons",
 			military_groupings = {"wh3_dlc23_group_chaos_dwarfs"},
 			category = "melee_infantry",
 			group = "core",
-			weight = 2,
+			weight = 1,
 			tier = nil,
-			cost = 3,
+			cost = 2,
 			ritual = {
 				key = "pttg_ritual_wh3_dlc23_chd_inf_chaos_dwarf_warriors_great_weapons",
-				glory_cost = 20,
+				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH3_CHAOS_DWARFS"},
 		},
 	{
 			key = "wh3_dlc23_chd_inf_goblin_labourers",
 			military_groupings = {"wh3_dlc23_group_chaos_dwarfs","wh3_dlc24_group_labourer_rebels"},
 			category = "melee_infantry",
 			group = "core",
-			weight = 1,
+			weight = 3,
 			tier = nil,
-			cost = 1,
+			cost = 0,
 			ritual = {
 				key = "pttg_ritual_wh3_dlc23_chd_inf_goblin_labourers",
-				glory_cost = 10,
+				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH3_CHAOS_DWARFS"},
 		},
 	{
 			key = "wh3_dlc23_chd_inf_hobgoblin_archers",
 			military_groupings = {"wh3_dlc23_group_chaos_dwarfs","wh3_dlc24_group_labourer_rebels"},
 			category = "missile_infantry",
 			group = "core",
-			weight = 1,
+			weight = 2,
 			tier = nil,
-			cost = 2,
+			cost = 1,
 			ritual = {
 				key = "pttg_ritual_wh3_dlc23_chd_inf_hobgoblin_archers",
-				glory_cost = 10,
+				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH3_CHAOS_DWARFS"},
 		},
 	{
 			key = "wh3_dlc23_chd_inf_hobgoblin_cutthroats",
 			military_groupings = {"wh3_dlc23_group_chaos_dwarfs","wh3_dlc24_group_labourer_rebels"},
 			category = "melee_infantry",
 			group = "core",
-			weight = 1,
+			weight = 2,
 			tier = nil,
-			cost = 2,
+			cost = 1,
 			ritual = {
 				key = "pttg_ritual_wh3_dlc23_chd_inf_hobgoblin_cutthroats",
-				glory_cost = 10,
+				glory_cost = 20,
 			},
+			require_dlc = {"TW_WH3_CHAOS_DWARFS"},
 		},
 	{
 			key = "wh3_dlc23_chd_inf_orc_labourers",
 			military_groupings = {"wh3_dlc23_group_chaos_dwarfs","wh3_dlc24_group_labourer_rebels"},
 			category = "melee_infantry",
 			group = "core",
-			weight = 1,
+			weight = 3,
 			tier = nil,
-			cost = 1,
+			cost = 0,
 			ritual = {
 				key = "pttg_ritual_wh3_dlc23_chd_inf_orc_labourers",
-				glory_cost = 10,
+				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH3_CHAOS_DWARFS"},
 		},
 	{
 			key = "wh3_dlc23_chd_inf_hobgoblin_sneaky_gits",
@@ -8201,6 +8831,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc23_chd_inf_hobgoblin_sneaky_gits",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH3_CHAOS_DWARFS"},
 		},
 	{
 			key = "wh3_dlc23_chd_inf_infernal_guard",
@@ -8214,6 +8845,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc23_chd_inf_infernal_guard",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH3_CHAOS_DWARFS"},
 		},
 	{
 			key = "wh3_dlc23_chd_inf_infernal_guard_fireglaives",
@@ -8227,6 +8859,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc23_chd_inf_infernal_guard_fireglaives",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH3_CHAOS_DWARFS"},
 		},
 	{
 			key = "wh3_dlc23_chd_inf_infernal_guard_great_weapons",
@@ -8240,6 +8873,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc23_chd_inf_infernal_guard_great_weapons",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH3_CHAOS_DWARFS"},
 		},
 	{
 			key = "wh3_dlc23_chd_veh_deathshrieker_rocket_launcher",
@@ -8253,6 +8887,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc23_chd_veh_deathshrieker_rocket_launcher",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH3_CHAOS_DWARFS"},
 		},
 	{
 			key = "wh3_dlc23_chd_veh_iron_daemon",
@@ -8266,6 +8901,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc23_chd_veh_iron_daemon",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH3_CHAOS_DWARFS"},
 		},
 	{
 			key = "wh3_dlc23_chd_veh_magma_cannon",
@@ -8279,6 +8915,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc23_chd_veh_magma_cannon",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH3_CHAOS_DWARFS"},
 		},
 	{
 			key = "wh3_dlc23_chd_veh_skullcracker",
@@ -8292,6 +8929,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc23_chd_veh_skullcracker",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH3_CHAOS_DWARFS"},
 		},
 	{
 			key = "wh3_dlc23_chd_cav_bull_centaurs_axe",
@@ -8305,6 +8943,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc23_chd_cav_bull_centaurs_axe",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH3_CHAOS_DWARFS"},
 		},
 	{
 			key = "wh3_dlc23_chd_cav_bull_centaurs_dual_axe",
@@ -8318,6 +8957,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc23_chd_cav_bull_centaurs_dual_axe",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH3_CHAOS_DWARFS"},
 		},
 	{
 			key = "wh3_dlc23_chd_cav_bull_centaurs_greatweapons",
@@ -8331,6 +8971,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc23_chd_cav_bull_centaurs_greatweapons",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH3_CHAOS_DWARFS"},
 		},
 	{
 			key = "wh3_dlc23_chd_inf_infernal_ironsworn",
@@ -8344,6 +8985,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc23_chd_inf_infernal_ironsworn",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH3_CHAOS_DWARFS"},
 		},
 	{
 			key = "wh3_dlc23_chd_mon_kdaai_fireborn",
@@ -8357,6 +8999,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc23_chd_mon_kdaai_fireborn",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH3_CHAOS_DWARFS"},
 		},
 	{
 			key = "wh3_dlc23_chd_cav_hobgoblin_wolf_raiders_bows",
@@ -8370,6 +9013,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc23_chd_cav_hobgoblin_wolf_raiders_bows",
 				glory_cost = 120,
 			},
+			require_dlc = {"TW_WH3_CHAOS_DWARFS"},
 		},
 	{
 			key = "wh3_dlc23_chd_cav_hobgoblin_wolf_raiders_spears",
@@ -8383,6 +9027,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc23_chd_cav_hobgoblin_wolf_raiders_spears",
 				glory_cost = 120,
 			},
+			require_dlc = {"TW_WH3_CHAOS_DWARFS"},
 		},
 	{
 			key = "wh3_dlc23_chd_mon_great_taurus",
@@ -8396,6 +9041,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc23_chd_mon_great_taurus",
 				glory_cost = 120,
 			},
+			require_dlc = {"TW_WH3_CHAOS_DWARFS"},
 		},
 	{
 			key = "wh3_dlc23_chd_mon_lammasu",
@@ -8409,6 +9055,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc23_chd_mon_lammasu",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH3_CHAOS_DWARFS"},
 		},
 	{
 			key = "wh3_dlc23_chd_mon_bale_taurus",
@@ -8422,6 +9069,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc23_chd_mon_bale_taurus",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH3_CHAOS_DWARFS"},
 		},
 	{
 			key = "wh3_dlc23_chd_mon_kdaai_destroyer",
@@ -8435,6 +9083,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc23_chd_mon_kdaai_destroyer",
 				glory_cost = 160,
 			},
+			require_dlc = {"TW_WH3_CHAOS_DWARFS"},
 		},
 	{
 			key = "wh3_dlc23_chd_veh_dreadquake_mortar",
@@ -8448,6 +9097,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc23_chd_veh_dreadquake_mortar",
 				glory_cost = 160,
 			},
+			require_dlc = {"TW_WH3_CHAOS_DWARFS"},
 		},
 	{
 			key = "wh3_dlc23_chd_veh_skullcracker_1dreadquake",
@@ -8461,6 +9111,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc23_chd_veh_skullcracker_1dreadquake",
 				glory_cost = 160,
 			},
+			require_dlc = {"TW_WH3_CHAOS_DWARFS"},
 		},
 	{
 			key = "wh3_dlc23_chd_veh_iron_daemon_1dreadquake",
@@ -8474,6 +9125,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc23_chd_veh_iron_daemon_1dreadquake",
 				glory_cost = 160,
 			},
+			require_dlc = {"TW_WH3_CHAOS_DWARFS"},
 		},
 	{
 			key = "wh3_dlc24_bst_inf_tzaangors",
@@ -8487,6 +9139,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc24_bst_inf_tzaangors",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH3_SHADOWS_OF_CHANGE"},
 		},
 	{
 			key = "wh3_dlc24_bst_mon_incarnate_elemental_of_beasts",
@@ -8500,6 +9153,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc24_bst_mon_incarnate_elemental_of_beasts",
 				glory_cost = 160,
 			},
+			require_dlc = {"TW_WH3_SHADOWS_OF_CHANGE"},
 		},
 	{
 			key = "wh3_dlc24_cth_inf_onyx_crowmen",
@@ -8513,6 +9167,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc24_cth_inf_onyx_crowmen",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH3_SHADOWS_OF_CHANGE"},
 		},
 	{
 			key = "wh3_dlc24_cth_mon_jade_lion",
@@ -8526,6 +9181,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc24_cth_mon_jade_lion",
 				glory_cost = 95,
 			},
+			require_dlc = {"TW_WH3_SHADOWS_OF_CHANGE"},
 		},
 	{
 			key = "wh3_dlc24_cth_mon_jet_lion",
@@ -8539,6 +9195,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc24_cth_mon_jet_lion",
 				glory_cost = 95,
 			},
+			require_dlc = {"TW_WH3_SHADOWS_OF_CHANGE"},
 		},
 	{
 			key = "wh3_dlc24_cth_veh_zhangu_war_drum",
@@ -8552,6 +9209,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc24_cth_veh_zhangu_war_drum",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH3_SHADOWS_OF_CHANGE"},
 		},
 	{
 			key = "wh3_dlc24_ksl_inf_akshina_ambushers",
@@ -8565,6 +9223,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc24_ksl_inf_akshina_ambushers",
 				glory_cost = 120,
 			},
+			require_dlc = {"TW_WH3_SHADOWS_OF_CHANGE"},
 		},
 	{
 			key = "wh3_dlc24_ksl_mon_incarnate_elemental_of_beasts",
@@ -8578,6 +9237,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc24_ksl_mon_incarnate_elemental_of_beasts",
 				glory_cost = 160,
 			},
+			require_dlc = {"TW_WH3_SHADOWS_OF_CHANGE"},
 		},
 	{
 			key = "wh3_dlc24_ksl_mon_the_things_in_the_woods",
@@ -8591,6 +9251,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc24_ksl_mon_the_things_in_the_woods",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH3_SHADOWS_OF_CHANGE"},
 		},
 	{
 			key = "wh3_dlc24_lzd_mon_carnosaur_0",
@@ -8604,6 +9265,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc24_lzd_mon_carnosaur_0",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH3_SHADOWS_OF_CHANGE"},
 		},
 	{
 			key = "wh3_dlc24_tze_inf_tzaangors",
@@ -8617,6 +9279,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc24_tze_inf_tzaangors",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH3_SHADOWS_OF_CHANGE"},
 		},
 	{
 			key = "wh3_dlc24_tze_mon_cockatrice",
@@ -8630,6 +9293,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc24_tze_mon_cockatrice",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH3_SHADOWS_OF_CHANGE"},
 		},
 	{
 			key = "wh3_dlc24_tze_mon_mutalith_vortex_beast",
@@ -8643,6 +9307,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc24_tze_mon_mutalith_vortex_beast",
 				glory_cost = 160,
 			},
+			require_dlc = {"TW_WH3_SHADOWS_OF_CHANGE"},
 		},
 	{
 			key = "wh3_dlc24_tze_mon_flamers_changebringers",
@@ -8656,6 +9321,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc24_tze_mon_flamers_changebringers",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH3_SHADOWS_OF_CHANGE"},
 		},
 	{
 			key = "wh3_dlc24_ksl_mon_frost_wyrm",
@@ -8669,6 +9335,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc24_ksl_mon_frost_wyrm",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH3_SHADOWS_OF_CHANGE"},
 		},
 	{
 			key = "wh3_dlc24_cth_mon_great_moon_bird",
@@ -8682,6 +9349,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc24_cth_mon_great_moon_bird",
 				glory_cost = 95,
 			},
+			require_dlc = {"TW_WH3_SHADOWS_OF_CHANGE"},
 		},
 	{
 			key = "wh3_dlc24_ksl_inf_kislevite_warriors",
@@ -8695,6 +9363,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc24_ksl_inf_kislevite_warriors",
 				glory_cost = 10,
 			},
+			require_dlc = {"TW_WH3_SHADOWS_OF_CHANGE"},
 		},
 	{
 			key = "wh3_dlc24_tze_inf_centigors_great_weapons",
@@ -8708,6 +9377,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc24_tze_inf_centigors_great_weapons",
 				glory_cost = 120,
 			},
+			require_dlc = {"TW_WH3_SHADOWS_OF_CHANGE"},
 		},
 	{
 			key = "wh3_dlc24_bst_inf_centigors_great_weapons_mtze",
@@ -8721,6 +9391,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc24_bst_inf_centigors_great_weapons_mtze",
 				glory_cost = 120,
 			},
+			require_dlc = {"TW_WH3_SHADOWS_OF_CHANGE"},
 		},
 	{
 			key = "wh3_dlc24_cth_mon_celestial_lion",
@@ -8734,6 +9405,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc24_cth_mon_celestial_lion",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH3_SHADOWS_OF_CHANGE"},
 		},
 	{
 			key = "wh3_dlc25_bst_inf_pestigors",
@@ -8747,6 +9419,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc25_bst_inf_pestigors",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH3_THRONES_OF_DECAY_NUR"},
 		},
 	{
 			key = "wh3_dlc25_dwf_art_goblin_hewer",
@@ -8760,6 +9433,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc25_dwf_art_goblin_hewer",
 				glory_cost = 120,
 			},
+			require_dlc = {"TW_WH3_THRONES_OF_DECAY_DWF"},
 		},
 	{
 			key = "wh3_dlc25_dwf_inf_doomseekers",
@@ -8773,6 +9447,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc25_dwf_inf_doomseekers",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH3_THRONES_OF_DECAY_DWF"},
 		},
 	{
 			key = "wh3_dlc25_dwf_inf_slayer_pirates",
@@ -8786,6 +9461,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc25_dwf_inf_slayer_pirates",
 				glory_cost = 120,
 			},
+			require_dlc = {"TW_WH3_THRONES_OF_DECAY_DWF"},
 		},
 	{
 			key = "wh3_dlc25_dwf_inf_thunderers_grudge_rakers",
@@ -8799,6 +9475,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc25_dwf_inf_thunderers_grudge_rakers",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH3_THRONES_OF_DECAY_DWF"},
 		},
 	{
 			key = "wh3_dlc25_dwf_veh_thunderbarge",
@@ -8812,6 +9489,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc25_dwf_veh_thunderbarge",
 				glory_cost = 160,
 			},
+			require_dlc = {"TW_WH3_THRONES_OF_DECAY_DWF"},
 		},
 	{
 			key = "wh3_dlc25_emp_cav_knights_of_the_black_rose",
@@ -8825,6 +9503,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc25_emp_cav_knights_of_the_black_rose",
 				glory_cost = 80,
 			},
+			require_dlc = {"TW_WH3_THRONES_OF_DECAY_EMP"},
 		},
 	{
 			key = "wh3_dlc25_emp_inf_hochland_long_rifles",
@@ -8838,6 +9517,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc25_emp_inf_hochland_long_rifles",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH3_THRONES_OF_DECAY_EMP"},
 		},
 	{
 			key = "wh3_dlc25_emp_inf_nuln_ironsides",
@@ -8851,6 +9531,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc25_emp_inf_nuln_ironsides",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH3_THRONES_OF_DECAY_EMP"},
 		},
 	{
 			key = "wh3_dlc25_emp_veh_marienburg_land_ship",
@@ -8864,6 +9545,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc25_emp_veh_marienburg_land_ship",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH3_THRONES_OF_DECAY_EMP"},
 		},
 	{
 			key = "wh3_dlc25_emp_veh_steam_tank_volley_gun",
@@ -8877,6 +9559,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc25_emp_veh_steam_tank_volley_gun",
 				glory_cost = 160,
 			},
+			require_dlc = {"TW_WH3_THRONES_OF_DECAY_EMP"},
 		},
 	{
 			key = "wh3_dlc25_nur_cav_rot_knights",
@@ -8890,6 +9573,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc25_nur_cav_rot_knights",
 				glory_cost = 95,
 			},
+			require_dlc = {"TW_WH3_THRONES_OF_DECAY_NUR"},
 		},
 	{
         key = "wh3_dlc25_nur_chieftain_art_hellcannon",
@@ -8903,6 +9587,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_THRONES_OF_DECAY_NUR"},
     },
 	{
 			key = "wh3_dlc25_nur_chieftain_cav_chaos_chariot_mnur",
@@ -8916,6 +9601,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc25_nur_chieftain_cav_chaos_chariot_mnur",
 				glory_cost = 30,
 			},
+			require_dlc = {"TW_WH3_THRONES_OF_DECAY_NUR"},
 		},
 	{
         key = "wh3_dlc25_nur_chieftain_cav_rot_knights",
@@ -8929,6 +9615,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_THRONES_OF_DECAY_NUR"},
     },
 	{
         key = "wh3_dlc25_nur_chieftain_inf_aspiring_champions_0",
@@ -8942,6 +9629,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_THRONES_OF_DECAY_NUR"},
     },
 	{
         key = "wh3_dlc25_nur_chieftain_inf_centigors_1",
@@ -8955,6 +9643,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_THRONES_OF_DECAY_NUR"},
     },
 	{
         key = "wh3_dlc25_nur_chieftain_inf_chaos_dwarf_blunderbusses",
@@ -8968,6 +9657,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_THRONES_OF_DECAY_NUR"},
     },
 	{
         key = "wh3_dlc25_nur_chieftain_inf_cygor_0",
@@ -8981,6 +9671,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_THRONES_OF_DECAY_NUR"},
     },
 	{
         key = "wh3_dlc25_nur_chieftain_inf_infernal_guard_fireglaives",
@@ -8994,6 +9685,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_THRONES_OF_DECAY_NUR"},
     },
 	{
         key = "wh3_dlc25_nur_chieftain_mon_dragon_ogre_shaggoth",
@@ -9007,6 +9699,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_THRONES_OF_DECAY_NUR"},
     },
 	{
         key = "wh3_dlc25_nur_chieftain_mon_fimir_0",
@@ -9020,6 +9713,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_THRONES_OF_DECAY_NUR"},
     },
 	{
         key = "wh3_dlc25_nur_chieftain_mon_fimir_1",
@@ -9033,6 +9727,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_THRONES_OF_DECAY_NUR"},
     },
 	{
         key = "wh3_dlc25_nur_chieftain_mon_frost_wyrm_0",
@@ -9046,6 +9741,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_THRONES_OF_DECAY_NUR"},
     },
 	{
         key = "wh3_dlc25_nur_chieftain_mon_ghorgon",
@@ -9059,6 +9755,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_THRONES_OF_DECAY_NUR"},
     },
 	{
         key = "wh3_dlc25_nur_chieftain_mon_skinwolves_0",
@@ -9072,6 +9769,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_THRONES_OF_DECAY_NUR"},
     },
 	{
         key = "wh3_dlc25_nur_chieftain_mon_toad_dragon",
@@ -9085,6 +9783,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_THRONES_OF_DECAY_NUR"},
     },
 	{
         key = "wh3_dlc25_nur_chieftain_mon_war_mammoth_0",
@@ -9098,6 +9797,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_THRONES_OF_DECAY_NUR"},
     },
 	{
         key = "wh3_dlc25_nur_chieftain_mon_war_mammoth_1",
@@ -9111,6 +9811,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_THRONES_OF_DECAY_NUR"},
     },
 	{
         key = "wh3_dlc25_nur_chieftain_veh_dreadquake_mortar",
@@ -9124,6 +9825,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_THRONES_OF_DECAY_NUR"},
     },
 	{
 			key = "wh3_dlc25_nur_inf_pestigors",
@@ -9137,6 +9839,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc25_nur_inf_pestigors",
 				glory_cost = 65,
 			},
+			require_dlc = {"TW_WH3_THRONES_OF_DECAY_NUR"},
 		},
 	{
 			key = "wh3_dlc25_nur_inf_plague_ogres_great_weapons",
@@ -9150,6 +9853,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc25_nur_inf_plague_ogres_great_weapons",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH3_THRONES_OF_DECAY_NUR"},
 		},
 	{
 			key = "wh3_dlc25_nur_inf_plague_ogres",
@@ -9163,6 +9867,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc25_nur_inf_plague_ogres",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH3_THRONES_OF_DECAY_NUR"},
 		},
 	{
 			key = "wh3_dlc25_nur_mon_bile_trolls",
@@ -9176,6 +9881,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc25_nur_mon_bile_trolls",
 				glory_cost = 140,
 			},
+			require_dlc = {"TW_WH3_THRONES_OF_DECAY_NUR"},
 		},
 	{
 			key = "wh3_dlc25_nur_mon_toad_dragon",
@@ -9189,6 +9895,7 @@ mercenaries = {
 				key = "pttg_ritual_wh3_dlc25_nur_mon_toad_dragon",
 				glory_cost = 160,
 			},
+			require_dlc = {"TW_WH3_THRONES_OF_DECAY_NUR"},
 		},
 	{
         key = "wh3_dlc25_dwf_art_goblin_hewer_malakai",
@@ -9202,6 +9909,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_THRONES_OF_DECAY_DWF"},
     },
 	{
         key = "wh3_dlc25_dwf_veh_thunderbarge_malakai",
@@ -9215,6 +9923,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_THRONES_OF_DECAY_DWF"},
     },
 	{
         key = "wh3_dlc25_emp_art_helstorm_rocket_battery_morr",
@@ -9228,6 +9937,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_THRONES_OF_DECAY_EMP"},
     },
 	{
         key = "wh3_dlc25_emp_cav_outriders_morr",
@@ -9241,6 +9951,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_THRONES_OF_DECAY_EMP"},
     },
 	{
         key = "wh3_dlc25_emp_inf_nuln_ironsides_morr",
@@ -9254,6 +9965,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_THRONES_OF_DECAY_EMP"},
     },
 	{
         key = "wh3_dlc25_emp_veh_marienburg_land_ship_morr",
@@ -9267,6 +9979,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_THRONES_OF_DECAY_EMP"},
     },
 	{
         key = "wh2_dlc09_tmb_cav_necropolis_knights_ror",
@@ -9280,6 +9993,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_TOMB_KINGS"},
     },
 	{
         key = "wh2_dlc09_tmb_cav_nehekhara_horsemen_ror",
@@ -9293,6 +10007,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_TOMB_KINGS"},
     },
 	{
         key = "wh2_dlc09_tmb_inf_nehekhara_warriors_ror",
@@ -9306,6 +10021,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_TOMB_KINGS"},
     },
 	{
         key = "wh2_dlc09_tmb_inf_skeleton_archers_ror",
@@ -9319,6 +10035,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_TOMB_KINGS"},
     },
 	{
         key = "wh2_dlc09_tmb_inf_skeleton_spearmen_ror",
@@ -9332,6 +10049,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_TOMB_KINGS"},
     },
 	{
         key = "wh2_dlc09_tmb_inf_tomb_guard_ror",
@@ -9345,6 +10063,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_TOMB_KINGS"},
     },
 	{
         key = "wh2_dlc09_tmb_mon_carrion_ror",
@@ -9358,6 +10077,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_TOMB_KINGS"},
     },
 	{
         key = "wh2_dlc09_tmb_mon_necrosphinx_ror",
@@ -9371,6 +10091,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_TOMB_KINGS"},
     },
 	{
         key = "wh2_dlc09_tmb_mon_sepulchral_stalkers_ror",
@@ -9384,6 +10105,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_TOMB_KINGS"},
     },
 	{
         key = "wh2_dlc09_tmb_mon_ushabti_ror",
@@ -9397,6 +10119,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_TOMB_KINGS"},
     },
 	{
         key = "wh2_dlc10_def_cav_knights_of_the_ebon_claw_ror_0",
@@ -9410,6 +10133,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE"},
     },
 	{
         key = "wh2_dlc10_def_cav_raven_heralds_ror_0",
@@ -9423,6 +10147,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE"},
     },
 	{
         key = "wh2_dlc10_def_cav_slaanesh_harvesters_ror_0",
@@ -9436,6 +10161,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE"},
     },
 	{
         key = "wh2_dlc10_def_inf_blades_of_the_blood_queen_ror_0",
@@ -9449,6 +10175,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE"},
     },
 	{
         key = "wh2_dlc10_def_inf_sisters_of_the_singing_doom_ror_0",
@@ -9462,6 +10189,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE"},
     },
 	{
         key = "wh2_dlc10_def_inf_the_bolt_fiends_ror_0",
@@ -9475,6 +10203,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE"},
     },
 	{
         key = "wh2_dlc10_def_inf_the_hellebronai_ror_0",
@@ -9488,6 +10217,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE"},
     },
 	{
         key = "wh2_dlc10_def_mon_chill_of_sontar_ror_0",
@@ -9501,6 +10231,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE"},
     },
 	{
         key = "wh2_dlc10_hef_cav_the_fireborn_ror_0",
@@ -9514,6 +10245,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE"},
     },
 	{
         key = "wh2_dlc10_hef_cav_the_heralds_of_the_wind_ror_0",
@@ -9527,6 +10259,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE"},
     },
 	{
         key = "wh2_dlc10_hef_inf_everqueens_court_guards_ror_0",
@@ -9540,6 +10273,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE"},
     },
 	{
         key = "wh2_dlc10_hef_inf_keepers_of_the_flame_ror_0",
@@ -9553,6 +10287,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE"},
     },
 	{
         key = "wh2_dlc10_hef_inf_the_grey_ror_0",
@@ -9566,6 +10301,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE"},
     },
 	{
         key = "wh2_dlc10_hef_inf_the_scions_of_mathlann_ror_0",
@@ -9579,6 +10315,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE"},
     },
 	{
         key = "wh2_dlc10_hef_inf_the_silverpelts_ror_0",
@@ -9592,6 +10329,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE"},
     },
 	{
         key = "wh2_dlc10_hef_inf_the_storm_riders_ror_0",
@@ -9605,6 +10343,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE"},
     },
 	{
         key = "wh2_dlc11_cst_art_queen_bess",
@@ -9618,6 +10357,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC11_VAMPIRE_COAST"},
     },
 	{
         key = "wh2_dlc11_cst_cav_deck_droppers_ror_0",
@@ -9631,6 +10371,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC11_VAMPIRE_COAST"},
     },
 	{
         key = "wh2_dlc11_cst_inf_deck_gunners_ror_0",
@@ -9644,6 +10385,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC11_VAMPIRE_COAST"},
     },
 	{
         key = "wh2_dlc11_cst_inf_depth_guard_ror_0",
@@ -9657,6 +10399,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC11_VAMPIRE_COAST"},
     },
 	{
         key = "wh2_dlc11_cst_inf_zombie_deckhands_mob_ror_0",
@@ -9670,6 +10413,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC11_VAMPIRE_COAST"},
     },
 	{
         key = "wh2_dlc11_cst_inf_zombie_gunnery_mob_ror_0",
@@ -9683,6 +10427,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC11_VAMPIRE_COAST"},
     },
 	{
         key = "wh2_dlc11_cst_mon_mournguls_ror_0",
@@ -9696,6 +10441,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC11_VAMPIRE_COAST"},
     },
 	{
         key = "wh2_dlc11_cst_mon_necrofex_colossus_ror_0",
@@ -9709,6 +10455,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC11_VAMPIRE_COAST"},
     },
 	{
         key = "wh2_dlc11_cst_mon_rotting_prometheans_gunnery_mob_ror",
@@ -9722,6 +10469,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC11_VAMPIRE_COAST"},
     },
 	{
         key = "wh2_dlc12_lzd_cav_cold_one_spearriders_ror_0",
@@ -9735,6 +10483,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC12_PROPHET"},
     },
 	{
         key = "wh2_dlc12_lzd_cav_ripperdactyl_riders_ror_0",
@@ -9748,6 +10497,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC12_PROPHET"},
     },
 	{
         key = "wh2_dlc12_lzd_cav_terradon_riders_ror_0",
@@ -9761,6 +10511,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC12_PROPHET"},
     },
 	{
         key = "wh2_dlc12_lzd_inf_saurus_warriors_ror_0",
@@ -9774,6 +10525,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC12_PROPHET"},
     },
 	{
         key = "wh2_dlc12_lzd_inf_skink_red_crested_ror_0",
@@ -9787,6 +10539,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC12_PROPHET"},
     },
 	{
         key = "wh2_dlc12_lzd_inf_temple_guards_ror_0",
@@ -9800,6 +10553,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC12_PROPHET"},
     },
 	{
         key = "wh2_dlc12_lzd_mon_ancient_stegadon_ror_0",
@@ -9813,6 +10567,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC12_PROPHET"},
     },
 	{
         key = "wh2_dlc12_lzd_mon_salamander_pack_ror_0",
@@ -9826,6 +10581,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC12_PROPHET"},
     },
 	{
         key = "wh2_dlc12_skv_art_warp_lightning_cannon_ror_0",
@@ -9839,6 +10595,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC12_PROPHET"},
     },
 	{
         key = "wh2_dlc12_skv_art_warplock_jezzails_ror_tech_lab_0",
@@ -9852,6 +10609,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC12_PROPHET"},
     },
 	{
         key = "wh2_dlc12_skv_inf_clanrats_ror_0",
@@ -9865,6 +10623,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC12_PROPHET"},
     },
 	{
         key = "wh2_dlc12_skv_inf_plague_monk_censer_bearer_ror_0",
@@ -9878,6 +10637,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC12_PROPHET"},
     },
 	{
         key = "wh2_dlc12_skv_inf_ratling_gun_ror_0",
@@ -9891,6 +10651,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC12_PROPHET"},
     },
 	{
         key = "wh2_dlc12_skv_inf_ratling_gun_ror_tech_lab_0",
@@ -9904,6 +10665,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC12_PROPHET"},
     },
 	{
         key = "wh2_dlc12_skv_inf_stormvermin_ror_0",
@@ -9917,6 +10679,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC12_PROPHET"},
     },
 	{
         key = "wh2_dlc12_skv_inf_warpfire_thrower_ror_tech_lab_0",
@@ -9930,6 +10693,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC12_PROPHET"},
     },
 	{
         key = "wh2_dlc12_skv_inf_warplock_jezzails_ror_0",
@@ -9943,6 +10707,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC12_PROPHET"},
     },
 	{
         key = "wh2_dlc12_skv_veh_doom_flayer_ror_0",
@@ -9956,6 +10721,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC12_PROPHET"},
     },
 	{
         key = "wh2_dlc12_skv_veh_doom_flayer_ror_tech_lab_0",
@@ -9969,6 +10735,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC12_PROPHET"},
     },
 	{
         key = "wh2_dlc12_skv_veh_doomwheel_ror_0",
@@ -9982,6 +10749,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC12_PROPHET"},
     },
 	{
         key = "wh2_dlc12_skv_veh_doomwheel_ror_tech_lab_0",
@@ -9995,6 +10763,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC12_PROPHET"},
     },
 	{
         key = "wh2_dlc13_emp_inf_archers_ror_0",
@@ -10008,6 +10777,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC13_HUNTER"},
     },
 	{
         key = "wh2_dlc13_emp_inf_huntsmen_ror_0",
@@ -10021,6 +10791,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC13_HUNTER"},
     },
 	{
         key = "wh2_dlc13_emp_veh_war_wagon_ror_0",
@@ -10034,6 +10805,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC13_HUNTER"},
     },
 	{
         key = "wh2_dlc13_lzd_mon_dread_saurian_ror_0",
@@ -10047,6 +10819,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC13_HUNTER"},
     },
 	{
         key = "wh2_dlc13_lzd_mon_razordon_pack_ror_0",
@@ -10060,6 +10833,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC13_HUNTER"},
     },
 	{
         key = "wh2_dlc13_lzd_mon_sacred_kroxigors_ror_0",
@@ -10073,6 +10847,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC13_HUNTER"},
     },
 	{
         key = "wh2_dlc14_def_cav_scourgerunner_chariot_ror_0",
@@ -10086,6 +10861,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC14_SHADOW"},
     },
 	{
         key = "wh2_dlc14_def_inf_harpies_ror_0",
@@ -10099,6 +10875,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC14_SHADOW"},
     },
 	{
         key = "wh2_dlc14_def_mon_bloodwrack_medusa_ror_0",
@@ -10112,6 +10889,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC14_SHADOW"},
     },
 	{
         key = "wh2_dlc14_skv_inf_death_runners_ror_0",
@@ -10125,6 +10903,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC14_SHADOW"},
     },
 	{
         key = "wh2_dlc14_skv_inf_eshin_triads_ror_0",
@@ -10138,6 +10917,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC14_SHADOW"},
     },
 	{
         key = "wh2_dlc14_skv_inf_poison_wind_mortar_ror_0",
@@ -10151,6 +10931,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC14_SHADOW"},
     },
 	{
         key = "wh2_dlc15_grn_mon_river_trolls_ror_0",
@@ -10164,6 +10945,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC15_WARDEN"},
     },
 	{
         key = "wh2_dlc15_grn_mon_rogue_idol_ror_0",
@@ -10177,6 +10959,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC15_WARDEN"},
     },
 	{
         key = "wh2_dlc15_grn_veh_snotling_pump_wagon_ror_0",
@@ -10190,6 +10973,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC15_WARDEN"},
     },
 	{
         key = "wh2_dlc15_hef_inf_archers_ror_0",
@@ -10203,6 +10987,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC15_WARDEN"},
     },
 	{
         key = "wh2_dlc15_hef_mon_arcane_phoenix_ror_0",
@@ -10216,6 +11001,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC15_WARDEN"},
     },
 	{
         key = "wh2_dlc15_hef_mon_black_dragon_imrik",
@@ -10229,6 +11015,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE","TW_WH2_DLC15_WARDEN","TW_WH2_DLC15_IMRIK_FREE","TW_WH2_BASE_GAME"},
     },
 	{
         key = "wh2_dlc15_hef_mon_forest_dragon_imrik",
@@ -10242,6 +11029,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE","TW_WH2_DLC15_WARDEN","TW_WH2_DLC15_IMRIK_FREE","TW_WH2_BASE_GAME"},
     },
 	{
         key = "wh2_dlc15_hef_mon_moon_dragon_imrik",
@@ -10255,6 +11043,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE","TW_WH2_DLC15_WARDEN","TW_WH2_DLC15_IMRIK_FREE","TW_WH2_BASE_GAME"},
     },
 	{
         key = "wh2_dlc15_hef_mon_star_dragon_imrik",
@@ -10268,6 +11057,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE","TW_WH2_DLC15_WARDEN","TW_WH2_DLC15_IMRIK_FREE","TW_WH2_BASE_GAME"},
     },
 	{
         key = "wh2_dlc15_hef_mon_sun_dragon_imrik",
@@ -10281,6 +11071,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC10_QUEEN_CRONE","TW_WH2_DLC15_WARDEN","TW_WH2_DLC15_IMRIK_FREE","TW_WH2_BASE_GAME"},
     },
 	{
         key = "wh2_dlc15_hef_mon_war_lions_of_chrace_ror_0",
@@ -10294,6 +11085,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC15_WARDEN"},
     },
 	{
         key = "wh2_dlc16_skv_mon_hell_pit_abomination_ror_0",
@@ -10307,6 +11099,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC16_TWILIGHT"},
     },
 	{
         key = "wh2_dlc16_skv_mon_rat_ogre_mutant_ror_0",
@@ -10320,6 +11113,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC16_TWILIGHT"},
     },
 	{
         key = "wh2_dlc16_skv_mon_rat_ogres_ror_0",
@@ -10333,6 +11127,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC16_TWILIGHT"},
     },
 	{
         key = "wh2_dlc16_wef_cav_great_stag_knights_ror_0",
@@ -10346,6 +11141,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC16_TWILIGHT"},
     },
 	{
         key = "wh2_dlc16_wef_inf_dryads_ror_0",
@@ -10359,6 +11155,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC16_TWILIGHT"},
     },
 	{
         key = "wh2_dlc16_wef_mon_zoats_ror_0",
@@ -10372,6 +11169,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC16_TWILIGHT"},
     },
 	{
         key = "wh2_dlc17_bst_inf_centigors_ror_1",
@@ -10385,6 +11183,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC17_SILENCE"},
     },
 	{
         key = "wh2_dlc17_bst_mon_ghorgon_ror_0",
@@ -10398,6 +11197,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC17_SILENCE"},
     },
 	{
         key = "wh2_dlc17_bst_mon_jabberslythe_ror_0",
@@ -10411,6 +11211,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC17_SILENCE"},
     },
 	{
         key = "wh2_dlc17_kho_mon_ghorgon_ror_0",
@@ -10424,6 +11225,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC17_SILENCE"},
     },
 	{
         key = "wh2_dlc17_lzd_mon_carnosaur_ror_0",
@@ -10437,6 +11239,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC17_SILENCE"},
     },
 	{
         key = "wh2_dlc17_lzd_mon_coatl_ror_0",
@@ -10450,6 +11253,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC17_SILENCE"},
     },
 	{
         key = "wh2_dlc17_lzd_mon_troglodon_ror_0",
@@ -10463,6 +11267,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH2_DLC17_SILENCE"},
     },
 	{
         key = "wh3_dlc20_chs_cav_chaos_chariot_msla_ror",
@@ -10476,6 +11281,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
     },
 	{
         key = "wh3_dlc20_chs_inf_aspiring_champions_mtze_ror",
@@ -10489,6 +11295,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
     },
 	{
         key = "wh3_dlc20_chs_mon_giant_mnur_ror",
@@ -10502,6 +11309,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
     },
 	{
         key = "wh3_dlc20_kho_cav_skullcrushers_mkho_ror",
@@ -10515,6 +11323,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_DLC20_CHAMPIONS"},
     },
 	{
         key = "wh3_dlc23_chd_cav_bull_centaurs_dual_axe_ror",
@@ -10528,6 +11337,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_CHAOS_DWARFS"},
     },
 	{
         key = "wh3_dlc23_chd_cav_hobgoblin_wolf_raiders_ror",
@@ -10541,6 +11351,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_CHAOS_DWARFS"},
     },
 	{
         key = "wh3_dlc23_chd_inf_chaos_dwarf_blunderbusses_ror",
@@ -10554,6 +11365,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_CHAOS_DWARFS"},
     },
 	{
         key = "wh3_dlc23_chd_inf_chaos_dwarf_warriors_ror",
@@ -10567,6 +11379,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_CHAOS_DWARFS"},
     },
 	{
         key = "wh3_dlc23_chd_inf_infernal_ironsworn_ror",
@@ -10580,6 +11393,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_CHAOS_DWARFS"},
     },
 	{
         key = "wh3_dlc23_chd_veh_iron_daemon_ror",
@@ -10593,6 +11407,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_CHAOS_DWARFS"},
     },
 	{
         key = "wh3_dlc23_chd_veh_iron_daemon_ror_1dreadquake",
@@ -10606,6 +11421,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_CHAOS_DWARFS"},
     },
 	{
         key = "wh3_dlc24_cth_inf_dragon_guard_crossbowmen_ror",
@@ -10619,6 +11435,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_SHADOWS_OF_CHANGE"},
     },
 	{
         key = "wh3_dlc24_cth_inf_onyx_crowmen_ror",
@@ -10632,6 +11449,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_SHADOWS_OF_CHANGE"},
     },
 	{
         key = "wh3_dlc24_cth_veh_zhangu_war_drum_ror",
@@ -10645,6 +11463,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_SHADOWS_OF_CHANGE"},
     },
 	{
         key = "wh3_dlc24_ksl_inf_akshina_ambushers_ror",
@@ -10658,6 +11477,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_SHADOWS_OF_CHANGE"},
     },
 	{
         key = "wh3_dlc24_ksl_inf_streltsi_ror",
@@ -10671,6 +11491,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_SHADOWS_OF_CHANGE"},
     },
 	{
         key = "wh3_dlc24_ksl_mon_the_things_in_the_woods_ror",
@@ -10684,6 +11505,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_SHADOWS_OF_CHANGE"},
     },
 	{
         key = "wh3_dlc24_tze_inf_pink_horrors_ror",
@@ -10697,6 +11519,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_SHADOWS_OF_CHANGE"},
     },
 	{
         key = "wh3_dlc24_tze_mon_mutalith_vortex_beast_ror",
@@ -10710,6 +11533,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_SHADOWS_OF_CHANGE"},
     },
 	{
         key = "wh3_dlc24_tze_mon_screamers_ror",
@@ -10723,6 +11547,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_SHADOWS_OF_CHANGE"},
     },
 	{
         key = "wh3_dlc25_dwf_inf_doomseekers_ror",
@@ -10736,6 +11561,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_THRONES_OF_DECAY_DWF"},
     },
 	{
         key = "wh3_dlc25_dwf_inf_slayer_pirates_ror",
@@ -10749,6 +11575,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_THRONES_OF_DECAY_DWF"},
     },
 	{
         key = "wh3_dlc25_dwf_inf_thunderers_ror",
@@ -10762,6 +11589,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_THRONES_OF_DECAY_DWF"},
     },
 	{
         key = "wh3_dlc25_dwf_veh_thunderbarge_grungni",
@@ -10775,6 +11603,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_THRONES_OF_DECAY_DWF"},
     },
 	{
         key = "wh3_dlc25_emp_inf_hochland_long_rifles_ror",
@@ -10788,6 +11617,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_THRONES_OF_DECAY_EMP"},
     },
 	{
         key = "wh3_dlc25_emp_inf_spearmen_shields_ror",
@@ -10801,6 +11631,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_THRONES_OF_DECAY_EMP"},
     },
 	{
         key = "wh3_dlc25_emp_veh_marienburg_land_ship_ror",
@@ -10814,6 +11645,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_THRONES_OF_DECAY_EMP"},
     },
 	{
         key = "wh3_dlc25_nur_cav_plague_drones_1_ror",
@@ -10827,6 +11659,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_THRONES_OF_DECAY_NUR"},
     },
 	{
         key = "wh3_dlc25_nur_cav_rot_knights_ror",
@@ -10840,6 +11673,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_THRONES_OF_DECAY_NUR"},
     },
 	{
         key = "wh3_dlc25_nur_mon_soul_grinder_0_ror",
@@ -10853,6 +11687,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_THRONES_OF_DECAY_NUR"},
     },
 	{
         key = "wh3_twa06_cth_inf_dragon_guard_ror_0",
@@ -10866,6 +11701,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = nil,
     },
 	{
         key = "wh3_twa06_kho_inf_bloodletters_ror_0",
@@ -10879,6 +11715,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = nil,
     },
 	{
         key = "wh3_twa06_ksl_inf_tzar_guard_ror_0",
@@ -10892,6 +11729,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = nil,
     },
 	{
         key = "wh3_twa06_nur_inf_plaguebearers_ror_0",
@@ -10905,6 +11743,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = nil,
     },
 	{
         key = "wh3_twa06_ogr_inf_maneaters_ror_0",
@@ -10918,6 +11757,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = nil,
     },
 	{
         key = "wh3_twa06_sla_inf_daemonette_ror_0",
@@ -10931,6 +11771,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = nil,
     },
 	{
         key = "wh3_twa06_tze_inf_pink_horrors_ror_0",
@@ -10944,6 +11785,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = nil,
     },
 	{
         key = "wh3_twa07_cth_cav_jade_longma_riders_ror_0",
@@ -10957,6 +11799,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = nil,
     },
 	{
         key = "wh3_twa07_kho_cav_bloodcrushers_ror_0",
@@ -10970,6 +11813,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = nil,
     },
 	{
         key = "wh3_twa07_ksl_cav_war_bear_riders_ror_0",
@@ -10983,6 +11827,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = nil,
     },
 	{
         key = "wh3_twa07_nur_cav_pox_riders_of_nurgle_ror_0",
@@ -10996,6 +11841,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = nil,
     },
 	{
         key = "wh3_twa07_ogr_cav_crushers_ror_0",
@@ -11009,6 +11855,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = nil,
     },
 	{
         key = "wh3_twa07_sla_cav_heartseekers_of_slaanesh_ror_0",
@@ -11022,6 +11869,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = nil,
     },
 	{
         key = "wh3_twa07_tze_cav_doom_knights_ror_0",
@@ -11035,6 +11883,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = nil,
     },
 	{
         key = "wh3_twa08_cth_mon_terracotta_sentinel_0_ror",
@@ -11048,6 +11897,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = nil,
     },
 	{
         key = "wh3_twa08_kho_mon_bloodthirster_0_ror",
@@ -11061,6 +11911,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = nil,
     },
 	{
         key = "wh3_twa08_ksl_mon_elemental_bear_0_ror",
@@ -11074,6 +11925,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = nil,
     },
 	{
         key = "wh3_twa08_nur_mon_great_unclean_one_0_ror",
@@ -11087,6 +11939,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = nil,
     },
 	{
         key = "wh3_twa08_ogr_mon_stonehorn_0_ror",
@@ -11100,6 +11953,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = nil,
     },
 	{
         key = "wh3_twa08_sla_mon_keeper_of_secrets_0_ror",
@@ -11113,6 +11967,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = nil,
     },
 	{
         key = "wh3_twa08_tze_mon_lord_of_change_0_ror",
@@ -11126,6 +11981,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = nil,
     },
 	{
         key = "wh3_twa10_cth_inf_peasant_archers_ror",
@@ -11139,6 +11995,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = nil,
     },
 	{
         key = "wh3_twa10_kho_inf_flesh_hounds_of_khorne_ror",
@@ -11152,6 +12009,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = nil,
     },
 	{
         key = "wh3_twa10_ksl_inf_armoured_kossars_ror",
@@ -11165,6 +12023,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = nil,
     },
 	{
         key = "wh3_twa10_nur_inf_nurglings_ror",
@@ -11178,6 +12037,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = nil,
     },
 	{
         key = "wh3_twa10_ogr_inf_gnoblars_ror",
@@ -11191,6 +12051,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = nil,
     },
 	{
         key = "wh3_twa10_sla_inf_marauders_spears_ror",
@@ -11204,6 +12065,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = nil,
     },
 	{
         key = "wh3_twa10_tze_inf_blue_horrors_ror",
@@ -11217,6 +12079,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = nil,
     },
 	{
         key = "wh_dlc04_emp_art_hammer_of_the_witches_0",
@@ -11230,6 +12093,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_1"},
     },
 	{
         key = "wh_dlc04_emp_art_sunmaker_0",
@@ -11243,6 +12107,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_1"},
     },
 	{
         key = "wh_dlc04_emp_cav_royal_altdorf_gryphites_0",
@@ -11256,6 +12121,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_1"},
     },
 	{
         key = "wh_dlc04_emp_cav_zintlers_reiksguard_0",
@@ -11269,6 +12135,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_1"},
     },
 	{
         key = "wh_dlc04_emp_inf_sigmars_sons_0",
@@ -11282,6 +12149,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_1"},
     },
 	{
         key = "wh_dlc04_emp_inf_silver_bullets_0",
@@ -11295,6 +12163,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_1"},
     },
 	{
         key = "wh_dlc04_emp_inf_stirlands_revenge_0",
@@ -11308,6 +12177,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_1"},
     },
 	{
         key = "wh_dlc04_emp_inf_tattersouls_0",
@@ -11321,6 +12191,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_1"},
     },
 	{
         key = "wh_dlc04_emp_veh_templehof_luminark_0",
@@ -11334,6 +12205,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_1"},
     },
 	{
         key = "wh_dlc04_vmp_cav_chillgheists_0",
@@ -11347,6 +12219,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_1"},
     },
 	{
         key = "wh_dlc04_vmp_cav_vereks_reavers_0",
@@ -11360,6 +12233,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_1"},
     },
 	{
         key = "wh_dlc04_vmp_inf_feasters_in_the_dusk_0",
@@ -11373,6 +12247,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_1"},
     },
 	{
         key = "wh_dlc04_vmp_inf_konigstein_stalkers_0",
@@ -11386,6 +12261,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_1"},
     },
 	{
         key = "wh_dlc04_vmp_inf_sternsmen_0",
@@ -11399,6 +12275,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_1"},
     },
 	{
         key = "wh_dlc04_vmp_inf_tithe_0",
@@ -11412,6 +12289,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_1"},
     },
 	{
         key = "wh_dlc04_vmp_mon_devils_swartzhafen_0",
@@ -11425,6 +12303,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_1"},
     },
 	{
         key = "wh_dlc04_vmp_mon_direpack_0",
@@ -11438,6 +12317,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_1"},
     },
 	{
         key = "wh_dlc04_vmp_veh_claw_of_nagash_0",
@@ -11451,6 +12331,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_1"},
     },
 	{
         key = "wh_dlc06_dwf_art_gob_lobber_0",
@@ -11464,6 +12345,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_2"},
     },
 	{
         key = "wh_dlc06_dwf_inf_dragonback_slayers_0",
@@ -11477,6 +12359,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_2"},
     },
 	{
         key = "wh_dlc06_dwf_inf_ekrund_miners_0",
@@ -11490,6 +12373,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_2"},
     },
 	{
         key = "wh_dlc06_dwf_inf_norgrimlings_ironbreakers_0",
@@ -11503,6 +12387,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_2"},
     },
 	{
         key = "wh_dlc06_dwf_inf_norgrimlings_irondrakes_0",
@@ -11516,6 +12401,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_2"},
     },
 	{
         key = "wh_dlc06_dwf_inf_old_grumblers_0",
@@ -11529,6 +12415,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_2"},
     },
 	{
         key = "wh_dlc06_dwf_inf_peak_gate_guard_0",
@@ -11542,6 +12429,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_2"},
     },
 	{
         key = "wh_dlc06_dwf_inf_ulthars_raiders_0",
@@ -11555,6 +12443,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_2"},
     },
 	{
         key = "wh_dlc06_dwf_inf_warriors_dragonfire_pass_0",
@@ -11568,6 +12457,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_2"},
     },
 	{
         key = "wh_dlc06_dwf_veh_skyhammer_0",
@@ -11581,6 +12471,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_2"},
     },
 	{
         key = "wh_dlc06_grn_art_hammer_of_gork_0",
@@ -11594,6 +12485,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_2"},
     },
 	{
         key = "wh_dlc06_grn_cav_broken_tusks_mob_0",
@@ -11607,6 +12499,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_2"},
     },
 	{
         key = "wh_dlc06_grn_cav_deff_creepers_0",
@@ -11620,6 +12513,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_2"},
     },
 	{
         key = "wh_dlc06_grn_cav_durkits_squigs_0",
@@ -11633,6 +12527,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_2"},
     },
 	{
         key = "wh_dlc06_grn_cav_mogrubbs_marauders_0",
@@ -11646,6 +12541,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_2"},
     },
 	{
         key = "wh_dlc06_grn_cav_moon_howlers_0",
@@ -11659,6 +12555,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_2"},
     },
 	{
         key = "wh_dlc06_grn_cav_teef_robbers_0",
@@ -11672,6 +12569,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_2"},
     },
 	{
         key = "wh_dlc06_grn_inf_da_eight_peaks_loonies_0",
@@ -11685,6 +12583,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_2"},
     },
 	{
         key = "wh_dlc06_grn_inf_da_rusty_arrers_0",
@@ -11698,6 +12597,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_2"},
     },
 	{
         key = "wh_dlc06_grn_inf_da_warlords_boyz_0",
@@ -11711,6 +12611,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_2"},
     },
 	{
         key = "wh_dlc06_grn_inf_krimson_killerz_0",
@@ -11724,6 +12625,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_2"},
     },
 	{
         key = "wh_dlc06_grn_mon_venom_queen_0",
@@ -11737,6 +12639,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_2"},
     },
 	{
         key = "wh_dlc08_nor_art_hellcannon_battery",
@@ -11750,6 +12653,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_NORSCA"},
     },
 	{
         key = "wh_dlc08_nor_mon_frost_wyrm_ror_0",
@@ -11763,6 +12667,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH3_SHADOWS_OF_CHANGE"},
     },
 	{
         key = "wh_dlc08_nor_mon_war_mammoth_ror_1",
@@ -11776,6 +12681,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_NORSCA"},
     },
 	{
         key = "wh_pro04_brt_cav_knights_errant_ror_0",
@@ -11789,6 +12695,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_REGIMENTS_OF_RENOWN_FREE"},
     },
 	{
         key = "wh_pro04_brt_cav_knights_of_the_realm_ror_0",
@@ -11802,6 +12709,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_REGIMENTS_OF_RENOWN_FREE"},
     },
 	{
         key = "wh_pro04_brt_cav_mounted_yeomen_ror_0",
@@ -11815,6 +12723,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_REGIMENTS_OF_RENOWN_FREE"},
     },
 	{
         key = "wh_pro04_brt_cav_questing_knights_ror_0",
@@ -11828,6 +12737,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_REGIMENTS_OF_RENOWN_FREE"},
     },
 	{
         key = "wh_pro04_brt_inf_battle_pilgrims_ror_0",
@@ -11841,6 +12751,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_REGIMENTS_OF_RENOWN_FREE"},
     },
 	{
         key = "wh_pro04_brt_inf_foot_squires_ror_0",
@@ -11854,6 +12765,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_REGIMENTS_OF_RENOWN_FREE"},
     },
 	{
         key = "wh_pro04_bst_inf_bestigor_herd_ror_0",
@@ -11867,6 +12779,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_REGIMENTS_OF_RENOWN_FREE"},
     },
 	{
         key = "wh_pro04_bst_inf_centigors_ror_0",
@@ -11880,6 +12793,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_REGIMENTS_OF_RENOWN_FREE"},
     },
 	{
         key = "wh_pro04_bst_inf_cygor_ror_0",
@@ -11893,6 +12807,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_REGIMENTS_OF_RENOWN_FREE"},
     },
 	{
         key = "wh_pro04_bst_inf_gor_herd_ror_0",
@@ -11906,6 +12821,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_REGIMENTS_OF_RENOWN_FREE"},
     },
 	{
         key = "wh_pro04_bst_inf_minotaurs_ror_0",
@@ -11919,6 +12835,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_REGIMENTS_OF_RENOWN_FREE"},
     },
 	{
         key = "wh_pro04_bst_inf_ungor_spearmen_ror_0",
@@ -11932,6 +12849,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_REGIMENTS_OF_RENOWN_FREE"},
     },
 	{
         key = "wh_pro04_chs_art_hellcannon_ror_0",
@@ -11945,6 +12863,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_REGIMENTS_OF_RENOWN_FREE"},
     },
 	{
         key = "wh_pro04_chs_cav_chaos_knights_ror_0",
@@ -11958,6 +12877,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_REGIMENTS_OF_RENOWN_FREE"},
     },
 	{
         key = "wh_pro04_chs_inf_chaos_warriors_ror_0",
@@ -11971,6 +12891,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_REGIMENTS_OF_RENOWN_FREE"},
     },
 	{
         key = "wh_pro04_chs_inf_forsaken_ror_0",
@@ -11984,6 +12905,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_REGIMENTS_OF_RENOWN_FREE"},
     },
 	{
         key = "wh_pro04_chs_mon_chaos_spawn_ror_0",
@@ -11997,6 +12919,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_REGIMENTS_OF_RENOWN_FREE"},
     },
 	{
         key = "wh_pro04_chs_mon_dragon_ogre_ror_0",
@@ -12010,6 +12933,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_REGIMENTS_OF_RENOWN_FREE"},
     },
 	{
         key = "wh_pro04_nor_inf_chaos_marauders_ror_0",
@@ -12023,6 +12947,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_REGIMENTS_OF_RENOWN_FREE"},
     },
 	{
         key = "wh_pro04_nor_inf_marauder_berserkers_ror_0",
@@ -12036,6 +12961,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_REGIMENTS_OF_RENOWN_FREE"},
     },
 	{
         key = "wh_pro04_nor_mon_fimir_ror_0",
@@ -12049,6 +12975,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_REGIMENTS_OF_RENOWN_FREE"},
     },
 	{
         key = "wh_pro04_nor_mon_marauder_warwolves_ror_0",
@@ -12062,6 +12989,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_REGIMENTS_OF_RENOWN_FREE"},
     },
 	{
         key = "wh_pro04_nor_mon_skinwolves_ror_0",
@@ -12075,6 +13003,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_REGIMENTS_OF_RENOWN_FREE"},
     },
 	{
         key = "wh_pro04_nor_mon_war_mammoth_ror_0",
@@ -12088,6 +13017,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_REGIMENTS_OF_RENOWN_FREE"},
     },
 	{
         key = "wh_pro04_wef_cav_wild_riders_ror_0",
@@ -12101,6 +13031,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_REGIMENTS_OF_RENOWN_FREE"},
     },
 	{
         key = "wh_pro04_wef_inf_eternal_guard_ror_0",
@@ -12114,6 +13045,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_REGIMENTS_OF_RENOWN_FREE"},
     },
 	{
         key = "wh_pro04_wef_inf_wardancers_ror_0",
@@ -12127,6 +13059,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_REGIMENTS_OF_RENOWN_FREE"},
     },
 	{
         key = "wh_pro04_wef_inf_waywatchers_ror_0",
@@ -12140,6 +13073,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_REGIMENTS_OF_RENOWN_FREE"},
     },
 	{
         key = "wh_pro04_wef_inf_wildwood_rangers_ror_0",
@@ -12153,6 +13087,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_REGIMENTS_OF_RENOWN_FREE"},
     },
 	{
         key = "wh_pro04_wef_mon_treekin_ror_0",
@@ -12166,6 +13101,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_REGIMENTS_OF_RENOWN_FREE"},
     },
 	{
         key = "wh2_dlc13_emp_art_mortar_ror_0",
@@ -12179,6 +13115,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH2_DLC13_HUNTER","TW_WH3_THRONES_OF_DECAY_EMP","TW_WH1_BASE_GAME"},
     },
 	{
         key = "wh2_dlc13_emp_cav_empire_knights_ror_0",
@@ -12192,6 +13129,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH2_DLC13_HUNTER","TW_WH3_THRONES_OF_DECAY_EMP","TW_WH1_BASE_GAME"},
     },
 	{
         key = "wh2_dlc13_emp_cav_empire_knights_ror_1",
@@ -12205,6 +13143,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH2_DLC13_HUNTER","TW_WH3_THRONES_OF_DECAY_EMP","TW_WH1_BASE_GAME"},
     },
 	{
         key = "wh2_dlc13_emp_cav_empire_knights_ror_2",
@@ -12218,6 +13157,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH2_DLC13_HUNTER","TW_WH3_THRONES_OF_DECAY_EMP","TW_WH1_BASE_GAME"},
     },
 	{
         key = "wh2_dlc13_emp_cav_outriders_ror_0",
@@ -12231,6 +13171,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH2_DLC13_HUNTER","TW_WH3_THRONES_OF_DECAY_EMP","TW_WH1_BASE_GAME"},
     },
 	{
         key = "wh2_dlc13_emp_cav_pistoliers_ror_0",
@@ -12244,6 +13185,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH2_DLC13_HUNTER","TW_WH3_THRONES_OF_DECAY_EMP","TW_WH1_BASE_GAME"},
     },
 	{
         key = "wh2_dlc13_emp_inf_crossbowmen_ror_0",
@@ -12257,6 +13199,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH2_DLC13_HUNTER","TW_WH3_THRONES_OF_DECAY_EMP","TW_WH1_BASE_GAME"},
     },
 	{
         key = "wh2_dlc13_emp_inf_greatswords_ror_0",
@@ -12270,6 +13213,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH2_DLC13_HUNTER","TW_WH3_THRONES_OF_DECAY_EMP","TW_WH1_BASE_GAME"},
     },
 	{
         key = "wh2_dlc13_emp_inf_halberdiers_ror_0",
@@ -12283,6 +13227,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH2_DLC13_HUNTER","TW_WH3_THRONES_OF_DECAY_EMP","TW_WH1_BASE_GAME"},
     },
 	{
         key = "wh2_dlc13_emp_inf_handgunners_ror_0",
@@ -12296,6 +13241,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH2_DLC13_HUNTER","TW_WH3_THRONES_OF_DECAY_EMP","TW_WH1_BASE_GAME"},
     },
 	{
         key = "wh2_dlc13_emp_inf_spearmen_ror_0",
@@ -12309,6 +13255,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH2_DLC13_HUNTER","TW_WH3_THRONES_OF_DECAY_EMP","TW_WH1_BASE_GAME"},
     },
 	{
         key = "wh2_dlc13_emp_inf_swordsmen_ror_0",
@@ -12322,6 +13269,7 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH2_DLC13_HUNTER","TW_WH3_THRONES_OF_DECAY_EMP","TW_WH1_BASE_GAME"},
     },
 	{
         key = "wh2_dlc13_emp_veh_steam_tank_ror_0",
@@ -12335,5 +13283,6 @@ mercenaries = {
             key = nil,
             glory_cost = nil,
         },
+		require_dlc = {"TW_WH1_LORDS_AND_UNITS_1","TW_WH2_DLC13_HUNTER","TW_WH3_THRONES_OF_DECAY_EMP","TW_WH1_BASE_GAME"},
     },
 }

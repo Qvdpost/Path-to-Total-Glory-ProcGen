@@ -65,13 +65,43 @@ for _, mercenary in pairs(mercenaries) do
     end
 end
 
+function table_to_string(tbl)
+    if not tbl then
+        return "{}"
+    end
+    if not tbl or type(tbl) ~= 'table' then
+        return tostring(tbl)
+    end
+    local result = "{"
+    for k, v in pairs(tbl) do
+        -- Check the key type (ignore any numerical keys - assume its an array)
+        if type(k) == "string" then
+            result = result.."[\""..k.."\"]".."="
+        end
+
+        -- Check the value type
+        if type(v) == "table" then
+            result = result..table_to_string(v)
+        elseif type(v) == "boolean" then
+            result = result..tostring(v)
+        else
+            result = result.."\""..v.."\""
+        end
+        result = result..","
+    end
+    -- Remove leading commas from the result
+    if result ~= "" then
+        result = result:sub(1, result:len()-1)
+    end
+    return result.."}"
+end
 
 io.write("\n# Add the mercenary to pttg in your script: \n")
 io.write("local pttg_merc_pool = core:get_static_object('pttg_merc_pool')\n\n")
 io.write("local mercenaries = {\n")
 for _, mercenary in pairs(mercenaries) do
-    io.write(string.format('\t{"%s", "%s", %s, { military_groupings = {%s}, category = "%s", tier = %s, cost = %s }},\n', 
-        mercenary.key, mercenary.group, mercenary.weight, '"'..table.concat(mercenary.military_groupings, '","')..'"', mercenary.category, mercenary.tier, mercenary.cost)
+    io.write(string.format('\t{"%s", "%s", %s, { military_groupings = {%s}, category = "%s", tier = %s, cost = %s, require_dlc = %s }},\n', 
+        mercenary.key, mercenary.group, mercenary.weight, '"'..table.concat(mercenary.military_groupings, '","')..'"', mercenary.category, mercenary.tier, mercenary.cost, table_to_string(mercenary.require_dlc))
     )
 end
 io.write("}\n")

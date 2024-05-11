@@ -2,6 +2,8 @@ require "input/faction_to_military_group"
 require "input/units_to_military_grouping"
 require "input/playable_factions"
 require "input/unit_to_caste"
+require "input/main_unit_dlc_ownership"
+require "input/faction_ownership"
 
 local mercenaries = {
 	{"wh3_main_cth_inf_jade_warrior_crossbowmen_0", "core", 2, { tier = nil, cost = 2 }},
@@ -463,16 +465,16 @@ local mercenaries = {
 	{"wh2_dlc17_lzd_inf_chameleon_stalkers_0", "rare", 1, { tier = nil, cost = 2 }},
 	{"wh2_dlc17_lzd_mon_coatl_0", "rare", 2, { tier = nil, cost = 4 }},
 	{"wh2_dlc17_lzd_mon_troglodon_0", "rare", 2, { tier = nil, cost = 4 }},
-	{"wh2_main_skv_inf_clanrat_spearmen_0", "core", 2, { tier = nil, cost = 2 }},
-	{"wh2_main_skv_inf_clanrat_spearmen_1", "core", 2, { tier = nil, cost = 2 }},
-	{"wh2_main_skv_inf_clanrats_0", "core", 2, { tier = nil, cost = 2 }},
-	{"wh2_main_skv_inf_clanrats_1", "core", 2, { tier = nil, cost = 2 }},
-	{"wh2_main_skv_inf_skavenslave_spearmen_0", "core", 1, { tier = nil, cost = 1 }},
-	{"wh2_main_skv_inf_skavenslaves_0", "core", 1, { tier = nil, cost = 1 }},
+	{"wh2_main_skv_inf_clanrat_spearmen_0", "core", 1, { tier = nil, cost = 1 }},
+	{"wh2_main_skv_inf_clanrat_spearmen_1", "core", 1, { tier = nil, cost = 1 }},
+	{"wh2_main_skv_inf_clanrats_0", "core", 1, { tier = nil, cost = 1 }},
+	{"wh2_main_skv_inf_clanrats_1", "core", 1, { tier = nil, cost = 1 }},
+	{"wh2_main_skv_inf_skavenslave_spearmen_0", "core", 2, { tier = nil, cost = 0 }},
+	{"wh2_main_skv_inf_skavenslaves_0", "core", 2, { tier = nil, cost = 0 }},
 	{"wh2_main_skv_inf_night_runners_0", "core", 3, { tier = nil, cost = 2 }},
 	{"wh2_main_skv_inf_night_runners_1", "core", 3, { tier = nil, cost = 2 }},
 	{"wh2_main_skv_inf_skavenslave_slingers_0", "core", 1, { tier = nil, cost = 1 }},
-	{"wh2_main_skv_mon_rat_ogres", "special", 2, { tier = nil, cost = 3 }},
+	{"wh2_main_skv_mon_rat_ogres", "special", 2, { tier = nil, cost = 2 }},
 	{"wh2_main_skv_inf_death_runners_0", "special", 1, { tier = nil, cost = 3 }},
 	{"wh2_main_skv_inf_gutter_runner_slingers_0", "special", 1, { tier = nil, cost = 2 }},
 	{"wh2_main_skv_inf_gutter_runner_slingers_1", "special", 1, { tier = nil, cost = 2 }},
@@ -489,7 +491,7 @@ local mercenaries = {
 	{"wh2_dlc12_skv_veh_doom_flayer_0", "special", 2, { tier = nil, cost = 3 }},
 	{"wh2_dlc14_skv_inf_eshin_triads_0", "special", 1, { tier = nil, cost = 3 }},
 	{"wh2_dlc14_skv_inf_poison_wind_mortar_0", "special", 2, { tier = nil, cost = 3 }},
-	{"wh2_dlc14_skv_inf_warp_grinder_0", "special", 1, { tier = nil, cost = 3 }},
+	{"wh2_dlc14_skv_inf_warp_grinder_0", "special", 1, { tier = nil, cost = 2 }},
 	{"wh2_dlc16_skv_mon_rat_ogre_mutant", "special", 3, { tier = nil, cost = 3 }},
 	{"wh2_dlc16_skv_mon_wolf_rats_0", "special", 1, { tier = nil, cost = 1 }},
 	{"wh2_dlc16_skv_mon_wolf_rats_1", "special", 1, { tier = nil, cost = 1 }},
@@ -605,9 +607,9 @@ local mercenaries = {
 	{"wh2_dlc11_cst_inf_zombie_deckhands_mob_0", "core", 1, { tier = nil, cost = 1 }},
 	{"wh2_dlc11_cst_inf_zombie_deckhands_mob_1", "core", 1, { tier = nil, cost = 1 }},
 	{"wh2_dlc11_cst_inf_zombie_gunnery_mob_0", "core", 1, { tier = nil, cost = 1 }},
-	{"wh2_dlc11_cst_inf_zombie_gunnery_mob_1", "core", 2, { tier = nil, cost = 2 }},
-	{"wh2_dlc11_cst_inf_zombie_gunnery_mob_2", "core", 2, { tier = nil, cost = 2 }},
-	{"wh2_dlc11_cst_inf_zombie_gunnery_mob_3", "core", 3, { tier = nil, cost = 2 }},
+	{"wh2_dlc11_cst_inf_zombie_gunnery_mob_1", "core", 2, { tier = nil, cost = 1 }},
+	{"wh2_dlc11_cst_inf_zombie_gunnery_mob_2", "core", 2, { tier = nil, cost = 1 }},
+	{"wh2_dlc11_cst_inf_zombie_gunnery_mob_3", "core", 3, { tier = nil, cost = 1 }},
 	{"wh2_dlc11_cst_mon_bloated_corpse_0", "core", 3, { tier = nil, cost = 2 }},
 	{"wh2_dlc11_cst_mon_fell_bats", "core", 3, { tier = nil, cost = 1 }},
 	{"wh2_dlc11_cst_mon_scurvy_dogs", "core", 3, { tier = nil, cost = 1 }},
@@ -627,13 +629,13 @@ local mercenaries = {
 	{"wh2_dlc11_cst_mon_necrofex_colossus_0", "rare", 3, { tier = nil, cost = 4 }},
 	{"wh2_dlc11_cst_mon_rotting_leviathan_0", "rare", 3, { tier = nil, cost = 4 }},
 	{"wh2_dlc11_cst_mon_terrorgheist", "rare", 3, { tier = nil, cost = 4 }},
-	{"wh3_dlc23_chd_inf_chaos_dwarf_blunderbusses", "core", 3, { tier = nil, cost = 3 }},
-	{"wh3_dlc23_chd_inf_chaos_dwarf_warriors", "core", 2, { tier = nil, cost = 3 }},
-	{"wh3_dlc23_chd_inf_chaos_dwarf_warriors_great_weapons", "core", 2, { tier = nil, cost = 3 }},
-	{"wh3_dlc23_chd_inf_goblin_labourers", "core", 1, { tier = nil, cost = 1 }},
-	{"wh3_dlc23_chd_inf_hobgoblin_archers", "core", 1, { tier = nil, cost = 2 }},
-	{"wh3_dlc23_chd_inf_hobgoblin_cutthroats", "core", 1, { tier = nil, cost = 2 }},
-	{"wh3_dlc23_chd_inf_orc_labourers", "core", 1, { tier = nil, cost = 1 }},
+	{"wh3_dlc23_chd_inf_chaos_dwarf_blunderbusses", "core", 2, { tier = nil, cost = 2 }},
+	{"wh3_dlc23_chd_inf_chaos_dwarf_warriors", "core", 1, { tier = nil, cost = 2 }},
+	{"wh3_dlc23_chd_inf_chaos_dwarf_warriors_great_weapons", "core", 1, { tier = nil, cost = 2 }},
+	{"wh3_dlc23_chd_inf_goblin_labourers", "core", 3, { tier = nil, cost = 0 }},
+	{"wh3_dlc23_chd_inf_hobgoblin_archers", "core", 2, { tier = nil, cost = 1 }},
+	{"wh3_dlc23_chd_inf_hobgoblin_cutthroats", "core", 2, { tier = nil, cost = 1 }},
+	{"wh3_dlc23_chd_inf_orc_labourers", "core", 3, { tier = nil, cost = 0 }},
 	{"wh3_dlc23_chd_inf_hobgoblin_sneaky_gits", "special", 1, { tier = nil, cost = 2 }},
 	{"wh3_dlc23_chd_inf_infernal_guard", "special", 1, { tier = nil, cost = 3 }},
 	{"wh3_dlc23_chd_inf_infernal_guard_fireglaives", "special", 1, { tier = nil, cost = 3 }},
@@ -955,6 +957,18 @@ local mercenaries = {
 	{"wh2_dlc13_emp_veh_steam_tank_ror_0", "rare", 3, { tier = 4, cost = 4}},
 }
 
+function get_ownership(merc, faction)
+	if main_unit_dlc_ownership[merc] then
+		return '{"'..table.concat(main_unit_to_products[merc], '","')..'"}'
+	elseif faction_to_products[faction] then
+        return '{"'..table.concat(faction_to_products[merc], '","')..'"}'
+	elseif string.find(merc, "wh_main_chs_") then
+		return '{"TW_WH1_CHAOS"}'
+	else
+		return nil
+	end
+end
+
 unit_to_military_groupings = {}
 
 for _, unit_to_group in pairs(units_to_military_grouping) do
@@ -994,7 +1008,8 @@ for _, mercenary in pairs(mercenaries) do
             key = nil,\
             glory_cost = nil,\
         },\
-    },\n', mercenary[1], unit_to_military_groupings[mercenary[1]] or '"other"', unit_to_caste[mercenary[1]], mercenary[2], mercenary[3], mercenary[4].tier, mercenary[4].cost
+		require_dlc = %s,\
+    },\n', mercenary[1], unit_to_military_groupings[mercenary[1]] or '"other"', unit_to_caste[mercenary[1]], mercenary[2], mercenary[3], mercenary[4].tier, mercenary[4].cost, get_ownership(mercenary[1])
     ))
 	else
 		io.write(string.format('\t{\
@@ -1009,7 +1024,8 @@ for _, mercenary in pairs(mercenaries) do
 				key = "%s",\
 				glory_cost = %s,\
 			},\
-		},\n', mercenary[1], unit_to_military_groupings[mercenary[1]] or '"other"', unit_to_caste[mercenary[1]], mercenary[2], mercenary[3], mercenary[4].tier, mercenary[4].cost, 'pttg_ritual_'..mercenary[1], get_cost(mercenary[2], mercenary[3] or 2)
+			require_dlc = %s,\
+		},\n', mercenary[1], unit_to_military_groupings[mercenary[1]] or '"other"', unit_to_caste[mercenary[1]], mercenary[2], mercenary[3], mercenary[4].tier, mercenary[4].cost, 'pttg_ritual_'..mercenary[1], get_cost(mercenary[2], mercenary[3] or 2), get_ownership(mercenary[1])
 		))
 	end
     

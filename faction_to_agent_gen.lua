@@ -3,9 +3,20 @@ require "input/units_to_military_grouping"
 require "input/playable_factions"
 require "input/recruitable_agents"
 require "input/faction_agent_permissions"
-require "input/agent_to_unit"
 require "input/pttg_faction_agent_permissions"
 require "input/pttg_factions"
+require "input/agent_dlc_ownership"
+require "input/faction_ownership"
+
+function get_ownership(merc, faction)
+	if agent_to_products[merc] then
+		return '{"'..table.concat(agent_to_products[merc], '","')..'"}'
+    elseif faction_to_products[faction] then
+        return '{"'..table.concat(faction_to_products[faction], '","')..'"}'
+    else
+		return nil
+	end
+end
 
 local faction_to_agents = {}
 
@@ -45,13 +56,12 @@ for faction, agent_types in pairs(faction_to_agents) do
     for agent_type, agent_subtypes in pairs(agent_types) do
         for _, subtype in pairs(agent_subtypes) do
             if recruitable_agents[subtype] then
-                io.write(string.format('\t{ faction="%s", type="%s", subtype="%s", unit="%s" },\n', faction, agent_type, subtype, agent_to_unit[subtype]))
+                io.write(string.format('\t{ faction="%s", type="%s", subtype="%s", require_dlc=%s },\n', faction, agent_type, subtype, get_ownership(subtype, faction)))
             end
         end
     end
 end
 io.write("}\n")
-
 
 
 -- file = io.open("output/agent_units.lua", "w")

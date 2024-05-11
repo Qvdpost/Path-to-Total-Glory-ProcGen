@@ -1,36 +1,39 @@
 local army_templates = {
-    {
-        template_key = "",
-        template_category = "", -- boss, elite or random
-        faction = "",           -- faction the army belongs to. Suggested values are pttg_emp_empire and such factions (prefixed by pttg_) so that the player does not have to engage war with factions on the map.
-        culture = "",
-        subculture = "",
-        alignment = "",        -- defines the eliigbility of encountering this type of army based on player alignment. Values may be "order", "chaos" or "neutral".
-        acts = nil,            -- optional acts that constraint the spawning of this army template. The value may be a single number or an array of numbers that represent the acts in which the template will be used e.g. { 1, 2 } or 1
-        general_subtype = "",  -- optional subtype from the agent_subtypes database
-        agents = nil,          -- optional agent characters to be included in the army. Values can be either "random", "<agent_subtype>", or {"<agent_type", "<agent_type>"}. "Random" wil generate a random agent of any agent_type, the table of agent types will generate a random agent of that selection of agent_types and if a specific agent_subtype is provided that agent will be added to the army.
-        mandatory_units = nil, -- an optional array of tables in the form of { {key="<main_unit_key>"}, ... }
-        units = nil,           -- an optinoal array of units that make up the available pool for random army generation in the form of { {key="<main_unit_key>", weight=<number>}, ... }
-        distribution = ""      -- an optional key to a troop distribution to be used when generating random armies.
-    },
+    -- {
+    --     template_key = "",
+    --     template_category = "", -- boss, elite, random or other
+    --     faction = "",           -- faction the army belongs to. Suggested values are pttg_emp_empire and such factions (prefixed by pttg_) so that the player does not have to engage war with factions on the map.
+    --     culture = "",
+    --     subculture = "",
+    --     alignment = "",        -- defines the eliigbility of encountering this type of army based on player alignment. Values may be "order", "chaos" or "neutral".
+    --     acts = nil,            -- optional acts that constraint the spawning of this army template. The value may be a single number or an array of numbers that represent the acts in which the template will be used e.g. { 1, 2 } or 1
+    --     military_grouping = nil, -- optinal string to limit the available mercenary units used in randomisation to a particular military grouping.
+    --     general_subtype = "",  -- optional subtype from the agent_subtypes database
+    --     agents = nil,          -- optional agent characters to be included in the army. Values can be either "random", "<agent_subtype>", or {"<agent_type", "<agent_type>"}. "Random" wil generate a random agent of any agent_type, the table of agent types will generate a random agent of that selection of agent_types and if a specific agent_subtype is provided that agent will be added to the army.
+    --     mandatory_units = nil, -- an optional array of tables in the form of { {key="<main_unit_key>"}, ... }
+    --     units = nil,           -- an optinoal array of units that make up the available pool for random army generation in the form of { {key="<main_unit_key>", weight=<number>}, ... }
+    --     distribution = ""      -- an optional key to a troop distribution to be used when generating random armies.
+    -- },
     {
         template_key = "pttg_boss_kholek_suneater",
         template_category = "boss",
         faction = "pttg_chs_chaos",
         culture = "wh_main_chs_chaos",
         subculture = "wh_main_sc_chs_chaos",
+        military_grouping = nil,
         alignment = "chaos",
         acts = 1,
         general_subtype = "wh_dlc01_chs_kholek_suneater",
         agents = { "random", "random" },
         mandatory_units = { { key = "wh_dlc01_chs_mon_dragon_ogre" }, { key = "wh_dlc01_chs_mon_dragon_ogre" } },
         units = nil,
+        distribution = ""
     }
 }
 
 local distributions = {
     {
-        key = "default", -- Example of default distribution is a mapping of <unit_category> to a percentage chance (out of 100)
+        key = "default", -- Example of default distribution; is a mapping of <unit_category> to a percentage chance (out of 100)
         distribution = { -- NOTE: These weights should sum to 100
             melee_infantry     = 35,
             missile_infantry   = 15,
@@ -137,4 +140,8 @@ end\
 for template, template_info in pairs(bosses) do\
     pttg_battle_templates:add_template("boss",\
         template, template_info)\
-end')
+end\n\n')
+
+for _, distribution in pairs(distributions) do
+    io.write(string.format('pttg_battle_templates:add_distribution(%s, %s)\n', distribution.key, table_to_string(distribution.distribution)))
+end
